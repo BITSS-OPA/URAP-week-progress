@@ -1,1 +1,5 @@
-# URAP-week-progress
+# Weekly Progress
+
+## Week 1
+Assigned Tasks:
+- 
