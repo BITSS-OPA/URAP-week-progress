@@ -16,3 +16,13 @@
 
 Meeting notes:
 1. control - shift - M --> see the html version on Atom (Markdown preview)
+2. ui and server can be written in different R scripts; as long as they are named exactly ui and server, and put in the same folder, then R can run the App (see demo)
+
+
+Task:
+1. how to update a fork repo - figure out and write a tutorial (steps) ~1 hour
+2. how to insert images in Markdown "![caption]()"
+3. fluidRow() ???
+4. Explore dewarming more detail - locally, change values - build a collection of questions, send on friday - weekly progress
+5. R markdown tutorial
+6. read documents code - 05_final_opa.Rmd
