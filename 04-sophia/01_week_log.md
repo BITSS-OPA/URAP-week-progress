@@ -11,3 +11,8 @@
 4. Learned how to build folders and move folders in Github
 
 5. Reviewed codes for dewarming for the shiny App - 1 hour
+
+
+
+Meeting notes:
+1. control - shift - M --> see the html version on Atom (Markdown preview)
