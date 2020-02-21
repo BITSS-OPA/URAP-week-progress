@@ -42,3 +42,6 @@
      3. creating graphs with ggplot() is quite cool, I think I could try doing that too
      4. use as.numeric() to convert everything into numeric format?
 4. R markdown tutorial
+   - link: https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02
+   - Just started
+5. read documents code - 05_final_opa.Rmd - haven't started it; may start after watching R markdown tutorial
