@@ -27,6 +27,7 @@
 3. Explore dewarming more detail
    - Lists of questions on ui.R:
      1. I know that fluidRow() creates different rows, but why create several "fluidRow()"? Why not done in one func?
+        - https://shiny.rstudio.com/reference/shiny/latest/actionButton.html
      2. actionButton("run", label = "Run Simulation")
         - label is the label, but is "run" a uniform function call?? 
         - actionButton("goButton", "Go!") - different for each one?
