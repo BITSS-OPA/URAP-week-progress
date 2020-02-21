@@ -13,12 +13,12 @@
 1. how to update a fork repo
       - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
       - Summarized steps, however, are as following:
-            - Open terminal
-            - Clone your fork by putting the following command in terminal: 
-                  git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
-                 (to get the link: click the green "clone or download" button in your online github repo)
-            - Put command: cd into/cloned/fork-repo (you can find path by draging your folder into terminal)
-            - Put command: git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+            * Open terminal
+            * Clone your fork by putting the following command in terminal: 
+                  * git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+                  * (to get the link: click the green "clone or download" button in your online github repo)
+            * Put command: cd into/cloned/fork-repo (you can find path by draging your folder into terminal)
+            * Put commands: git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
                             git fetch upstream
                             git pull upstream master
-            - Push in your local github desktop App
+            * Push in your local github desktop App
