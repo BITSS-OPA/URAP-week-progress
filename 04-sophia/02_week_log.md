@@ -22,3 +22,6 @@
         - git fetch upstream
         - git pull upstream master
      3. Push in your local github desktop App
+2. Github and markdown format cheat sheet
+   - writing & formatting: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#lists
+   - insert image and emoji: https://guides.github.com/features/mastering-markdown/
