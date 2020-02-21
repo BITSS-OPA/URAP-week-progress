@@ -13,7 +13,7 @@
 1. how to update a fork repo
       - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
       - Summarized steps, however, are as following:
-            * Open terminal
+            i. Open terminal
             * Clone your fork by putting the following command in terminal: 
                   * git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
                   * (to get the link: click the green "clone or download" button in your online github repo)
