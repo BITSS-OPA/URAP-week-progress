@@ -1,6 +1,6 @@
 # Week 2 
 
-# Tasks:
+## Tasks:
 1. how to update a fork repo - figure out and write a tutorial (steps) ~1 hour
 2. how to insert images in Markdown "![caption]()"
 3. fluidRow() ???
@@ -9,7 +9,7 @@
 6. read documents code - 05_final_opa.Rmd
 
 
-# Reports:
+## Reports:
 1. how to update a fork repo
       - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
       - Summarized steps, however, are as following:
