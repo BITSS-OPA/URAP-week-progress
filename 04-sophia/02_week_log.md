@@ -10,8 +10,8 @@
 
 
 ## Reports:
-- how to update a fork repo
-      - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
+1. how to update a fork repo
+   - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
       - Summarized steps, however, are as following:
             - Open terminal
             - Clone your fork by putting the following command in terminal: 
