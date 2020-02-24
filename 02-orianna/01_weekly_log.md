@@ -29,6 +29,6 @@ Assigned Tasks:
 Week 2 Progress:
 - read the wealth tax dynamic documentation
 - studied and ran the Rmd file for the wealth tax dynamic documentation
-- cursory look at the deworming materials completed, but not thorough
+- had a cursory look at the deworming website, but not a thorough review
 
 Total time: ~3.5 hours
