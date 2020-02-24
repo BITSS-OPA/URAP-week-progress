@@ -8,7 +8,7 @@
 5. read documents code - 05_final_opa.Rmd
 
 
-## Reports:
+## Reports: 6~7 hours
 1. how to update a fork repo
    - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
    - Summarized steps, however, are as following:
