@@ -45,3 +45,19 @@
    - link: https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02
    - Just started
 5. read documents code - 05_final_opa.Rmd - haven't started it; may start after watching R markdown tutorial
+
+
+## Meeting Note
+1. Learn more about the func one_run - run once and then similation - random variation - see how result change when parameter changes
+## Tasks
+1. Finish R markdown tutorial ~1 hour
+   - link: https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02
+2. Learn how to do diagrams in R - package diagrammeR - 3 ~ 4 hours
+   - in a R markdown format/file
+   - create a diagram, and some explainations (whereever make sense)
+     - top to bottom - vertical direction, NOT horizontal
+     - change # of levels & # of nodes
+     - change text
+3. read documents code - 05_final_opa.Rmd 
+4. continue learning about the shiny App and how it relates to - 05_final_opa.Rmd 
+5. keep coming up with questions
