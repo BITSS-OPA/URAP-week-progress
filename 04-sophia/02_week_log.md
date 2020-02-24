@@ -31,7 +31,7 @@
      2. actionButton("run", label = "Run Simulation")
         - label is the label, but is "run" a uniform function call?? 
         - actionButton("goButton", "Go!") - different for each one?
-     3. functions: withMathJax() useShinyjs() ?
+     3. functions: withMathJax() useShinyjs() ? --> for math expressions (latex)
      4. Why can't I see which data it used? Is it "source("all_analysis.R")" ???
      5. When including multiple tabs, then must use tabsetPanel(tabPanel())? two tab bars, default selecting the first?
      6. mainPanel() ? - how do I know where will this check box show in the webpage
