@@ -27,6 +27,8 @@ Assigned Tasks:
 - read the [documentation](https://www.evidenceaction.org/dewormtheworld-2/) on deworming + write a summary of it (note: spend bulk of time here)
 
 Week 2 Progress:
+- read the wealth tax dynamic documentation
+- studied and ran the Rmd file for the wealth tax dynamic documentation
+- cursory look at the deworming materials completed, but not thorough
 
-
-Total time:
+Total time: ~3.5 hours
