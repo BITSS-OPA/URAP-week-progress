@@ -12,3 +12,10 @@
 3. read documents code - 05_final_opa.Rmd 
 4. continue learning about the shiny App and how it relates to - 05_final_opa.Rmd 
 5. keep coming up with questions
+
+## Report
+1. R markdown tutorial & other R markdown resources
+   * The [tutorial](https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02)
+   * The [slides](https://github.com/rstudio/webinars/blob/master/12-Getting-started-with-R-Markdown/12-Getting-started-with-R-Markdown.pdf)
+   * [The R cheatsheet](https://rstudio.com/resources/cheatsheets/)
+   * I have used R markdown before, but never learned it systematically. This video is very cool
