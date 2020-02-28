@@ -21,6 +21,8 @@
    * I have used R markdown before, but never learned it systematically. This video is very cool
 
 2. Make a diagram in R Markdown
+   * questions
+     * how to knit as pdf (tried html, worked; error: Error: Functions that produce HTML output found in document targeting latex output.)
 3. Resources for DiagrammeR
    * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
    * [another demo](https://rich-iannone.github.io/DiagrammeR/graphs.html)
