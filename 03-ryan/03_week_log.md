@@ -8,7 +8,7 @@
 2. Run the downloaded exe file, and follow the instructions of the installation wizard to install. Default selections in the wizard are probably fine.
 
 ## Shiny Tutorial Notes
-# Intro
+### Intro
 * Shiny apps require computer running R in the background
   * Can be local or via web server
 * Every app needs a UI and a set of "instructions" written in R
@@ -27,7 +27,7 @@
     * access input values with input$
 * To package app for publishing/sharing etc., create one directory with all necessary files - app.R, images, datasets, etc.
 * shinyapps.io is server run by RStudio to host shiny apps
-# Code for reactive content
+### Code for reactive content
 * reactive values notify of changes, and send value to render function to augment based on data inputted, and outputting some value/graph/etc.
 * Important reactive render functions
   * renderDataTable()
@@ -44,7 +44,7 @@
   * creates a reactive expression that can be used to specify which values should invalidate the expression
 * reactiveValues() - creates list of reactive values that can be Used
   * rv$ - used to manipulate said values in conjunction with observeEvent()
-# UI customization
+### UI customization
 * HTML tags can be used to edit html output of apps
 * use tags$ in order to reference HTML tags in R
   * ie tags$h1() = <h1></h1>
