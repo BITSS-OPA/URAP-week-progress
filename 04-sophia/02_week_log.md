@@ -8,7 +8,7 @@
 5. read documents code - 05_final_opa.Rmd
 
 
-## Reports:
+## Reports: 6~7 hours
 1. how to update a fork repo
    - https://gist.github.com/CristinaSolana/1885435 (steps are exactly like this)
    - Summarized steps, however, are as following:
@@ -31,7 +31,7 @@
      2. actionButton("run", label = "Run Simulation")
         - label is the label, but is "run" a uniform function call?? 
         - actionButton("goButton", "Go!") - different for each one?
-     3. functions: withMathJax() useShinyjs() ?
+     3. functions: withMathJax() useShinyjs() ? --> for math expressions (latex)
      4. Why can't I see which data it used? Is it "source("all_analysis.R")" ???
      5. When including multiple tabs, then must use tabsetPanel(tabPanel())? two tab bars, default selecting the first?
      6. mainPanel() ? - how do I know where will this check box show in the webpage
@@ -45,3 +45,19 @@
    - link: https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02
    - Just started
 5. read documents code - 05_final_opa.Rmd - haven't started it; may start after watching R markdown tutorial
+
+
+## Meeting Note
+1. Learn more about the func one_run - run once and then similation - random variation - see how result change when parameter changes
+## Tasks
+1. Finish R markdown tutorial ~1 hour
+   - link: https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02
+2. Learn how to do diagrams in R - package diagrammeR - 3 ~ 4 hours
+   - in a R markdown format/file
+   - create a diagram, and some explainations (whereever make sense)
+     - top to bottom - vertical direction, NOT horizontal
+     - change # of levels & # of nodes
+     - change text
+3. read documents code - 05_final_opa.Rmd 
+4. continue learning about the shiny App and how it relates to - 05_final_opa.Rmd 
+5. keep coming up with questions
