@@ -21,3 +21,6 @@
    * I have used R markdown before, but never learned it systematically. This video is very cool
 
 2. Make a diagram in R Markdown
+3. Resources for DiagrammeR
+   * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
+   * [another demo](https://rich-iannone.github.io/DiagrammeR/graphs.html)
