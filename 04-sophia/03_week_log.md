@@ -24,6 +24,7 @@
    * [R markdown code](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/My_1st_diagram.Rmd)
    * questions
      * how to knit as pdf (tried html, worked; error: Error: Functions that produce HTML output found in document targeting latex output.)
+     * update my R???
 3. Resources for DiagrammeR
    * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
    * [another demo](https://rich-iannone.github.io/DiagrammeR/graphs.html)
