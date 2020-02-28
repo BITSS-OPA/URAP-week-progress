@@ -2,7 +2,8 @@
 * Installed git for windows, wrote tutorial for reproducibility; watched shiny tutorial, took notes on topics covered; parsed through shiny files all_analysis.R, server.R, ui.R; Fixed deworming dd equation numbering.
 * Worked ~9 hours
 
-##Git Instalation Tutorial
+## Git Instalation Tutorial 
+
 1. Go to https://git-scm.com/download/win, and download correct file for your computer specifications
 2. Run the downloaded exe file, and follow the instructions of the installation wizard to install. Default selections in the wizard are probably fine.
 
