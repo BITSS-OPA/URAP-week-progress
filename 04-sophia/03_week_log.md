@@ -25,7 +25,9 @@
    * questions
      * how to knit as pdf (tried html, worked; error: Error: Functions that produce HTML output found in document targeting latex output.)
      * update my R???
+     * not sure how to build interactive diagram with R shiny and DiagrammeR? No useful resources online / did not work
 3. Resources for DiagrammeR ~ 0.5 hour
+   * [cheatsheet](https://cran.r-project.org/web/packages/DiagrammeR/DiagrammeR.pdf)
    * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
    * [another demo](https://rich-iannone.github.io/DiagrammeR/graphs.html)
    * [Github](https://github.com/rich-iannone/DiagrammeR/tree/master/R)
