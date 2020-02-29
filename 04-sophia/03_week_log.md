@@ -21,11 +21,12 @@
    * I have used R markdown before, but never learned it systematically. This video is very cool
 
 2. Make a diagram in R Markdown ~ 5 hour
-   * [R markdown code](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/My_1st_diagram.Rmd)
+   * [R markdown code: DiagrammeR](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/My_1st_diagram.Rmd)
+   * [R markdown code: DiagrammeR & Shiny](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/R%20Shiny%20%2B%20DiagrammeR.Rmd)
    * questions
      * how to knit as pdf (tried html, worked; error: Error: Functions that produce HTML output found in document targeting latex output.)
      * update my R???
-     * not sure how to build interactive diagram with R shiny and DiagrammeR? No useful resources online / did not work
+     * not sure how to build _interactive_ diagram with R shiny and DiagrammeR? No useful resources online / did not work
 3. Resources for DiagrammeR ~ 0.5 hour
    * [cheatsheet](https://cran.r-project.org/web/packages/DiagrammeR/DiagrammeR.pdf)
    * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
