@@ -23,7 +23,7 @@
 2. Make a diagram in R Markdown ~ 6 hour
    * [R markdown code: DiagrammeR](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/My_1st_diagram.Rmd)
    * [R markdown code: DiagrammeR & Shiny](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/R%20Shiny%20%2B%20DiagrammeR.Rmd)
-   * [my last attempt](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/Try.Rmd)
+   * [my last attempt for interactive flowchart](https://github.com/sophiabai2022/URAP-2020---Sophia/blob/master/Week%203/Try.Rmd)
    * questions
      * how to knit as pdf (tried html, worked; error: Error: Functions that produce HTML output found in document targeting latex output.)
      * update my R???
