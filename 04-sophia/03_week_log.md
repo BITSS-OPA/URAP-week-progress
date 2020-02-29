@@ -28,3 +28,4 @@
 3. Resources for DiagrammeR
    * [demo](https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html)
    * [another demo](https://rich-iannone.github.io/DiagrammeR/graphs.html)
+   * [Github](https://github.com/rich-iannone/DiagrammeR/tree/master/R)
