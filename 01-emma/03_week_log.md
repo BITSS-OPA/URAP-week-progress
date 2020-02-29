@@ -13,6 +13,8 @@
 
 2. *finish reading 05 and update code chunk around 1089 (function dependency map - describes how functions interact with each other): write inputs and outputs; review and update as needed*  
 
-  I spent most of my hours this week trying to understand the function dependency map. For the most part I believe that the map is consistent with how I understood the functions to interact in the earlier section of the paper. The only edits I made were to errors in spelling that I noticed. I reviewed the relevant inputs for *wage_t* and for the first part of *earnings1_f* (up to line 1187).
+  I spent most of my hours this week trying to understand the function dependency map. For the most part I believe that the map is consistent with how I understood the functions to interact in the earlier section of the paper. The only edits I made were to errors in spelling that I noticed. I reviewed the relevant inputs for *wage_t* and for the first part of *earnings1_f* (up to line 1187).  
+
+  * Question: While reading section 2.2.1.2 "*W*<sub>0</sub>" I was curious about why the calculation for self-employed wage includes the 4.5 in the denominator.
 
 I worked for **10 hours** this week on tasks 1 and 2.
