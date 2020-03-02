@@ -59,6 +59,7 @@ Add other vatiations:
 - more nodes.
 - text on edges
 - text on nodes
+- add another layer (third row of nodes)
 - add different shapes + documentation to shapes and other options. 
 - think on how to modify structure of diagram more programatically
 
