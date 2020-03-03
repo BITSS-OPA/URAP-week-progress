@@ -78,6 +78,21 @@ Note: some potentially useful links -
   - clarification: Montecarle Simulations + Sensitivity analysis?
   - conclusions: where should this be placed in the report --> currently at the front, but how should it be structured?
 
-also: oh no -- did I fork the repo right????
+also: oh no -- did I fork the repo right???? some changes appeared which I did not make
 
 Total time: ~9 hours
+
+## Week 4
+Assigned Tasks:
+- [Update OPA_deworming forked repo](https://github.com/BITSS-OPA/URAP-week-progress/blob/master/04-sophia/02_week_log.md)
+  - ask Ryan if any questions
+  - from Sophia's wk 2 (1b)
+  - take note if there's anything missing from the current instructions
+- Detailed summary of the [deworming cost-effectiveness article](https://www.evidenceaction.org/2017-deworming-cost-effectiveness/)
+  - ~1 sentence per paragraph
+- Summarize [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf) (1-2 pages)
+
+Week 4 Progress:
+
+Commits:
+Total time:
