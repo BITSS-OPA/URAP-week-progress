@@ -32,3 +32,21 @@ Week 2 Progress:
 - had a cursory look at the deworming website, but not a thorough review
 
 Total time: ~3.5 hours
+
+## Week 3
+Assigned Tasks:
+- read the [deworming website](https://www.evidenceaction.org/dewormtheworld-2/) on deworming + write a summary of it
+- look at the Rmd file for the deworming dynamic document [05_final_opa](https://github.com/oriajia/opa-deworming/blob/master/code/05_final_opa.Rmd)
+  - understand the narrative version first
+  - review the code, particularly understanding the format of the code chunks (look at the one_run function)
+- look at the 00_bones file --> template for future analyses
+  - make any suggestions // any irregularities with the deworming Rmd?
+
+Week 3 Progress:
+- read the deworming website on deworming
+Summary:
+- looked at the Rmd for deworming
+- looked at the 00_bones file
+Thoughts:
+
+Total time: ~9 hours
