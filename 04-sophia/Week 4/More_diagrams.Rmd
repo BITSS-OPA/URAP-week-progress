@@ -21,7 +21,7 @@ digraph a_nice_graph {
 node [fontname = Helvetica, shape = box]
 a [label = '@@1']    ## label indicates the position of the letter
 
-node [fontname = Helvetica, shape = circle, fontsize = 10]
+node [fontname = Helvetica, shape = circle, fontsize = 10, fixedsize = TRUE]
 b [label = '@@2-1']
 c [label = '@@2-2']
 
