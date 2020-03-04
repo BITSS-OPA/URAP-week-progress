@@ -1,4 +1,13 @@
 # Week 4
 
 ## Tasks 
+1. Make more diagrams
+   - more levels
+   - more nodes
+   - add texts
+   - func maybe change nodes and levels
+2. read documents code - 05_final_opa.Rmd
+
+
 ## Reports
+1. 
