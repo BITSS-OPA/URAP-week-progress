@@ -14,3 +14,17 @@
    - [A More Complex Diagrams](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%204/More_diagrams.Rmd)
    - [incomplete function building diagrams more systematically](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%204/Function_build_diagrams.Rmd)
 2. Read 05_final_opa.Rmd ~ 1 hour
+   - Questions
+     - function writing tutorial/resources?
+     - for loop? Lambdas? I know what they are in python, but in R, I am not as familiar
+     - More documentation on Cost Benefit Analysis (CBA)?
+     - Is this how the R shiny work?
+     - Couldn't knit when I knit to pdf
+     - How could I interpret the output graph?
+   - What I know:
+     - latex in the markdown file
+     - short/simple functions
+   - Tips for others who read this doc:
+     - easier to read when knit to pdf file
+     - if couldn't knit, you can view the latex on Overleaf.com
+
