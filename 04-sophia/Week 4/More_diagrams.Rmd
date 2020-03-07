@@ -1,0 +1,69 @@
+---
+title: "More_diagrams"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message = FALSE, warning = FALSE}
+library(DiagrammeR)
+```
+
+This is the simplest case
+
+```{r echo=FALSE}
+grViz("
+digraph a_nice_graph {
+
+# node definitions with substituted label text
+node [fontname = Helvetica, shape = box]
+a [label = '@@1']    ## label indicates the position of the letter
+
+node [fontname = Helvetica, shape = circle, fontsize = 10, fixedsize = TRUE]
+b [label = '@@2-1']
+c [label = '@@2-2']
+
+node [fontname = Helvetica, shape = egg, fixedsize = TRUE]
+d [label = '@@3-1']
+e [label = '@@3-2']
+f [label = '@@3-3']
+g [label = '@@3-4']
+
+node [fontname = Helvetica, shape = square, fixedsize = TRUE]
+h [label = '@@4-1']
+i [label = '@@4-2']
+j [label = '@@4-3']
+k [label = '@@4-4']
+l [label = '@@4-5']
+m [label = '@@4-6']
+n [label = '@@4-7']
+o [label = '@@4-8']
+
+# edge definitions with the node IDs
+a -> {b c} [label = 0.5]      ##[label = ...] adds text on the edge
+b -> {d e} [label = 0.5]  
+c -> {f g} [label = 0.5]
+d -> {h i} [label = 0.5]
+e -> {j k} [label = 0.5]
+f -> {l m} [label = 0.5]
+g -> {n o} [label = 0.5]
+}
+
+[1]: 'toss a coin'            ## adds label to each box
+[2]: c('head', 'tail')
+[3]: c('head', 'tail', 'head', 'tail')
+[4]: c('head', 'tail', 'head', 'tail', 'head', 'tail', 'head', 'tail')
+")
+```
+
+
+Add other vatiations: 
+
+- more nodes - check
+- text on edges - check
+- text on nodes - check
+- add another layer (third row of nodes) - check
+- add different shapes + documentation to shapes and other options. 
+- think on how to modify structure of diagram more programatically

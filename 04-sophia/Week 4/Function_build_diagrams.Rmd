@@ -1,0 +1,23 @@
+---
+title: "Function Which Builds Diagrams"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Make a Function which builds diagrams
+```{r}
+diagram = function(level = 2, node = 2) {
+  total_box = level*node + 1
+  list = 1:total_box
+  
+  node [fontname = Helvetica, shape = box]
+  list
+  
+  # edge definitions with the node IDs
+  
+}
+```
+ 
