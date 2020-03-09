@@ -28,3 +28,7 @@
      - easier to read when knit to pdf file
      - if couldn't knit, you can view the latex on Overleaf.com
 
+## Meeting Notes
+1. Maybe try the paste() func for diagram func; but maybe forget about it...
+2. [Docs on Generating diagrams more systematically](https://rich-iannone.github.io/DiagrammeR/traversals.html)
+3. 
