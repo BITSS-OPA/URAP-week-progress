@@ -17,6 +17,10 @@ This is the simplest case
 grViz("
 digraph a_nice_graph {
 
+graph [layout = dot, rankdir= TB]  ## layout = [neato|twopi, etc]
+#https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html
+
+
 # node definitions with substituted label text
 node [fontname = Helvetica, shape = box]
 a [label = '@@1']    ## label indicates the position of the letter
@@ -42,19 +46,20 @@ n [label = '@@4-7']
 o [label = '@@4-8']
 
 # edge definitions with the node IDs
-a -> {b c} [label = 0.5]      ##[label = ...] adds text on the edge
-b -> {d e} [label = 0.5]  
+a -> {b c} [label = asd]      ##[label = ...] adds text on the edge
+b -> {d e} [label = dsa]  
 c -> {f g} [label = 0.5]
-d -> {h i} [label = 0.5]
+d -> {h i} [label = ^[5]]
 e -> {j k} [label = 0.5]
 f -> {l m} [label = 0.5]
 g -> {n o} [label = 0.5]
 }
 
 [1]: 'toss a coin'            ## adds label to each box
-[2]: c('head', 'tail')
+[2]: c(2+2, 'tail')
 [3]: c('head', 'tail', 'head', 'tail')
 [4]: c('head', 'tail', 'head', 'tail', 'head', 'tail', 'head', 'tail')
+[5]: 'ghfd
 ")
 ```
 
