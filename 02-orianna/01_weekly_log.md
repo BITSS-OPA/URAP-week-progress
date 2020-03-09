@@ -94,12 +94,13 @@ also: oh no -- did I fork the repo right???? some changes appeared which I did n
 
 ##### Week 4 Progress:
 - was unable to update OPA deworming report  
-  - ended up attempting to use additional resources like the [Github instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) instead, found the directions provided by Sophia to be a bit confusing. However, continued to have trouble with accessing the command terminal (is this separate from the **command prompt**?)  
+  - ended up attempting to use additional resources like the [Github instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) instead, found the directions provided by Sophia to be a bit confusing (see below for my comments).  
+    - However, continued to have trouble with accessing the command terminal (is this separate from the **command prompt**?)  
   - maybe I need to use GitBash and set up a remote following [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)?
   - unclear which program I should download in order to access GitBash, however, and I can't figure out how to access it via my GitHub Desktop app  
 
 
-- completed summary of the deworming article
+- completed summary of the deworming article (can be found in the new reports + summaries folder which I created - see more details below)
 - got through ~half of the CBO report, continuing to work on it
 - created a new folder to house my summaries and reports (especially the long form ones), so they don't clutter up this document...  
 - __Question__: should I be writing my reports in rMarkdown files, or would word files also suffice for the longer reports?
