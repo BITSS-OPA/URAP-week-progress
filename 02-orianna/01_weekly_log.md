@@ -93,6 +93,8 @@ Assigned Tasks:
 - Summarize [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf) (1-2 pages)
 
 Week 4 Progress:
+ - updated OPA deworming report
+ - completed summary of the deworming article
+ - got through ~half of the CBO report, continuing to work on it
 
-Commits:
-Total time:
+Total time: ~12 hours
