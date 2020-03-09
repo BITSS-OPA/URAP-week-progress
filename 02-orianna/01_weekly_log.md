@@ -101,6 +101,8 @@ also: oh no -- did I fork the repo right???? some changes appeared which I did n
 
 - completed summary of the deworming article
 - got through ~half of the CBO report, continuing to work on it
+- created a new folder to house my summaries and reports (especially the long form ones), so they don't clutter up this document...  
+- __Question__: should I be writing my reports in rMarkdown files, or would word files also suffice for the longer reports?
 
 __How to Update a Forked Repo__ ([from Sophia's tutorial/resources](https://gist.github.com/CristinaSolana/1885435), my comments given in *italics*)  
 
@@ -113,7 +115,7 @@ a. Clone your fork by putting the following command in terminal:
 _my thoughts: could be useful to include more information on how to access the command terminal, also do these steps work on every operating system?_  
 
 b. Put the commands in terminal:  
-- cd into/cloned/fork-repo (you can find path by draging your folder into terminal)
+- cd into/cloned/fork-repo (you can find path by dragging your folder into terminal)
 - git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
 - git fetch upstream
 - git pull upstream master
