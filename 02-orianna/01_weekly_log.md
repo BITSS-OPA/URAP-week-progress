@@ -4,37 +4,37 @@
 - create pull request on Fridays to merge my local copy of the GitHub w/ the master
 
 ## Week 1
-Assigned Tasks:
+##### Assigned Tasks:
 - read the [OPA paper](https://osf.io/preprints/metaarxiv/jnyqh) linked in the powerpoint and write a few sentences summarizing my thoughts on it (1-3 hours)
 - read the [dynamic document](http://wealthtaxsimulator.org/analysis/) for the wealth tax --> model for whether future pieces are opinion pieces or policy analysis
 - do the [tutorial](https://resources.rstudio.com/the-essentials-of-data-science/getting-started-with-r-markdown-60-02) on R markdown files (1 hour tutorial)
 - read the [documentation](https://www.evidenceaction.org/dewormtheworld-2/) on deworming + write a summary of it (if time)
 
 
-Week 1 Progress:
+##### Week 1 Progress:
 - Read the OPA paper:  
 Public policy suffers from the same kind of reproducibility crisis as has been observed in other empirical sciences. In public policy analysis, it is specifically due to cherry picking of weak evidence, inefficiencies and difficulty in automating systemically recurring reports, and difficulties in drawing clear links between how research and assumptions informs specific analyses. The best way to combat this is to follow the TOP guidelines and to embrace the three principles of open policy analysis: open outputs, open analysis, and open materials.
 - finished the R markdown tutorial  
 
-Total time: ~5 hours
+###### Total time: ~5 hours
 
 ## Week 2
-Assigned Tasks:
+##### Assigned Tasks:
 - read the [dynamic document](http://wealthtaxsimulator.org/analysis/) for the wealth tax --> model for whether future pieces are opinion pieces or policy analysis
 - look at the Rmd file for the dynamic document (in the [wealthtax repo](https://github.com/oriajia/opa-wealthtax/tree/master/code/dynamic_doc))
   - try to run the Rmd file + try to reproduce the reports
   - note any questions and comments
 - read the [documentation](https://www.evidenceaction.org/dewormtheworld-2/) on deworming + write a summary of it (note: spend bulk of time here)
 
-Week 2 Progress:
+##### Week 2 Progress:
 - read the wealth tax dynamic documentation
 - studied and ran the Rmd file for the wealth tax dynamic documentation
 - had a cursory look at the deworming website, but not a thorough review
 
-Total time: ~3.5 hours
+###### Total time: ~3.5 hours
 
 ## Week 3
-Assigned Tasks:
+##### Assigned Tasks:
 - read the [deworming website](https://www.evidenceaction.org/dewormtheworld-2/) on deworming + write a summary of it
 - look at the Rmd file for the deworming dynamic document [05_final_opa](https://github.com/oriajia/opa-deworming/blob/master/code/05_final_opa.Rmd)
   - understand the narrative version first
@@ -42,7 +42,7 @@ Assigned Tasks:
 - look at the 00_bones file --> template for future analyses
   - make any suggestions // any irregularities with the deworming Rmd?
 
-Week 3 Progress:
+##### Week 3 Progress:
 - read the deworming website on deworming:  
 
 Parasitic worm infections, also known as soil-transmitted helminths (STH) and schistosomiasis, interfere with regular bodily processes by decreasing nutrient uptake and thereby contributing to malnourishment and impairment of mental and physical development. EvidenceAction advocates for mass school-based deworming because of the impact on school participation, nutrition and cognition, and the cost-effective nature of mass treatment. Their partnership model focuses on seven components:
@@ -78,6 +78,49 @@ Note: some potentially useful links -
   - clarification: Montecarle Simulations + Sensitivity analysis?
   - conclusions: where should this be placed in the report --> currently at the front, but how should it be structured?
 
-also: oh no -- did I fork the repo right????
+also: oh no -- did I fork the repo right???? some changes appeared which I did not make
 
-Total time: ~9 hours
+###### Total time: ~9 hours
+
+## Week 4
+##### Assigned Tasks:
+- [Update OPA_deworming forked repo](https://github.com/BITSS-OPA/URAP-week-progress/blob/master/04-sophia/02_week_log.md)
+  - ask Ryan if any questions
+  - from Sophia's wk 2 (1b)
+  - take note if there's anything missing from the current instructions
+- Detailed summary of the [deworming cost-effectiveness article](https://www.evidenceaction.org/2017-deworming-cost-effectiveness/)
+  - ~1 sentence per paragraph
+- Summarize [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf) (1-2 pages)
+
+##### Week 4 Progress:
+- was unable to update OPA deworming report  
+  - ended up attempting to use additional resources like the [Github instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) instead, found the directions provided by Sophia to be a bit confusing. However, continued to have trouble with accessing the command terminal (is this separate from the **command prompt**?)  
+  - maybe I need to use GitBash and set up a remote following [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)?
+  - unclear which program I should download in order to access GitBash, however, and I can't figure out how to access it via my GitHub Desktop app  
+
+
+- completed summary of the deworming article
+- got through ~half of the CBO report, continuing to work on it
+- created a new folder to house my summaries and reports (especially the long form ones), so they don't clutter up this document...  
+- __Question__: should I be writing my reports in rMarkdown files, or would word files also suffice for the longer reports?
+
+__How to Update a Forked Repo__ ([from Sophia's tutorial/resources](https://gist.github.com/CristinaSolana/1885435), my comments given in *italics*)  
+
+Sophia's steps are as follows:  
+a. Clone your fork by putting the following command in terminal:  
+- git clone git@github.com:YOUR-USERNAME/YOUR-FORKED-REPO.git
+- *is this the correct link? https://github.com/BITSS-OPA/opa-deworming.git*  
+- (to get the link: click the green "clone or download" button in your online github repo)  
+
+_my thoughts: could be useful to include more information on how to access the command terminal, also do these steps work on every operating system?_  
+
+b. Put the commands in terminal:  
+- cd into/cloned/fork-repo (you can find path by dragging your folder into terminal)
+- git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+- git fetch upstream
+- git pull upstream master
+
+c. Push in your local github desktop app
+
+
+###### Total time: ~12 hours
