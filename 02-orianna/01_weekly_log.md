@@ -125,3 +125,21 @@ c. Push in your local github desktop app
 
 
 ###### Total time: ~12 hours
+
+## Week 5
+##### Assigned Tasks:
+- Finish summarizing the [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf) (1-2 pages)
+  - more detailed than the executive summary
+  - keep reports in the .md format  
+- Update the forked repo
+  - talk with Ryan + Emma to figure out what problems they encountered
+  - write a full report that addresses these common problems, perhaps ask Sophia to contribute the MacOS input
+- initialize the tutorial repository
+  - refer to [this website](https://www.projecttier.org/) for formatting guidance
+- Once the deworming repo has been updated
+  - proofread the report (05 file) and ensure that all errors are corrected, and ensuring that the bullet points are fleshed out
+
+##### Week 5 Progress:
+
+
+###### Total time: 
