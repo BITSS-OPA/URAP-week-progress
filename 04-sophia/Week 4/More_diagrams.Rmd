@@ -14,6 +14,8 @@ library(DiagrammeR)
 This is the simplest case
 
 ```{r echo=FALSE}
+var1 <- "hello"
+
 grViz("
 digraph a_nice_graph {
 
@@ -49,7 +51,7 @@ o [label = '@@4-8']
 a -> {b c} [label = asd]      ##[label = ...] adds text on the edge
 b -> {d e} [label = dsa]  
 c -> {f g} [label = 0.5]
-d -> {h i} [label = ^[5]]
+d -> {h i} [label = 0.5]
 e -> {j k} [label = 0.5]
 f -> {l m} [label = 0.5]
 g -> {n o} [label = 0.5]
@@ -57,9 +59,9 @@ g -> {n o} [label = 0.5]
 
 [1]: 'toss a coin'            ## adds label to each box
 [2]: c(2+2, 'tail')
-[3]: c('head', 'tail', 'head', 'tail')
+[3]: c(var1, 'tail', 'head', 'tail')
 [4]: c('head', 'tail', 'head', 'tail', 'head', 'tail', 'head', 'tail')
-[5]: 'ghfd
+[5]: 'ghfd'
 ")
 ```
 
