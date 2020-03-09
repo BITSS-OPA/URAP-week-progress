@@ -142,4 +142,4 @@ c. Push in your local github desktop app
 ##### Week 5 Progress:
 
 
-###### Total time: 
+###### Total time:
