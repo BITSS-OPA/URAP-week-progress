@@ -1,0 +1,65 @@
+---
+title: "My_1st_diagram"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message = FALSE, warning = FALSE}
+library(DiagrammeR)
+```
+
+This is the simplest case
+
+```{r echo=FALSE}
+# grViz() is a must-have statement for graphs
+grViz("
+digraph boxes {
+
+  # a 'graph' statement above ??? I actually do not know what func it is
+  graph [overlap = true, fontsize = 10]
+
+  # several 'node' statements
+  node [shape = egg,
+        fontname = Helvetica]
+  Title [fillcolor = 'grey']
+
+  node [shape = egg, 
+        color = black, 
+        fillcolor = grey] 
+  a; b; c
+
+  node [shape = egg] 
+  1; 2
+
+  node [shape = egg] 
+  3; 4
+
+  node [shape = egg] 
+  5; 6
+
+  # several 'edge' statements
+  Title -> {a b c}
+  [arrowhead = 'dot']
+  a-> {1 2}
+  [arrowhead = 'dot']  # how to change dot to arrow?
+  b-> {3, 4}
+  [arrowhead = 'dot']
+  c-> {5, 6}
+  [arrowhead = 'dot']
+}
+")
+```
+
+
+Add other vatiations: 
+
+- more nodes.
+- text on edges
+- text on nodes
+- add another layer (third row of nodes)
+- add different shapes + documentation to shapes and other options. 
+- think on how to modify structure of diagram more programatically
+

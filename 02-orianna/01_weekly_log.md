@@ -100,7 +100,7 @@ also: oh no -- did I fork the repo right???? some changes appeared which I did n
   - unclear which program I should download in order to access GitBash, however, and I can't figure out how to access it via my GitHub Desktop app  
 
 
-- completed summary of the deworming article (can be found in the new reports + summaries folder which I created - see more details below)
+- completed [summary](https://github.com/BITSS-OPA/URAP-week-progress/blob/master/02-orianna/reports%20%2B%20summaries/deworming.md) of the deworming article (can be found in the new reports + summaries folder which I created - see more details below)
 - got through ~half of the CBO report, continuing to work on it
 - created a new folder to house my summaries and reports (especially the long form ones), so they don't clutter up this document...  
 - __Question__: should I be writing my reports in rMarkdown files, or would word files also suffice for the longer reports?

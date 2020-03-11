@@ -1,0 +1,124 @@
+---
+title: "Try Interactive Shiny + DiagrammeR"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Packages
+```{r}
+library(shiny)
+library(DiagrammeR)
+```
+
+## ui
+```{r}
+ui =  fluidPage(
+  # Page Title
+  titlePanel("Flow Chat"),
+  tabPanel("Flowchart 1",
+           sidebarPanel(
+             fluidRow(actionButton("run", label = "Run"),
+                      
+                      selectInput("levels", "Number of Levels:",
+                      choices = c(1, 2, 3), #???
+                      selected = 3),
+                      
+                      selectInput("nodes", "Number of Nodes:",
+                      choices = c(1, 2), #???
+                      selected = 2)
+                      )
+           ),
+           mainPanel(plotOutput("Flowchart"))
+           ))
+```
+
+## function
+```{r}
+nodes =
+  create_nodes(nodes = c("a", "b", "c", "d"),
+               label = FALSE,
+               type = "lower",
+               style = "filled",
+               color = "aqua",
+               shape = c("circle", "circle",
+                         "rectangle", "rectangle"),
+               data = c(3.5, 2.6, 9.4, 2.7))
+
+edges <-
+  create_edges(from = c("a", "b", "c"),
+               to = c("d", "c", "a"),
+               relationship = "leading_to")
+
+
+graph <-
+  create_graph(nodes_df = nodes,
+               edges_df = edges,
+               node_attrs = "fontname = Helvetica",
+               edge_attrs = c("color = blue",
+                              "arrowsize = 2"))
+```
+
+## server
+```{r}
+server = function(level, node, text){
+  # Fill in the spot for a plot
+  output$crimePlot = renderPlot({
+    
+    # Render a barplot
+    barplot(crime_data[,input$state], 
+            names.arg = rownames(crime_data),
+            main=input$state,
+            ylab="Crime Rate per 100,000 residents",
+            xlab="Crime Types")
+  })
+}
+```
+
+## run the app
+```{r}
+shinyApp(ui = ui, server = server)
+```
+
+
+
+
+```{r}
+nodes =
+  create_node_df(n = 4,
+               type = c("a", "b", "c", "d"),
+               label = FALSE,
+               style = "filled",
+               color = "aqua",
+               shape = c("circle", "circle",
+                         "rectangle", "rectangle"),
+               value = c(3.5, 2.6, 9.4, 2.7))
+
+edges =
+  create_edge_df(from = c("a", "b", "c"),
+               to = c("d", "c", "a"),
+               rel = "leading_to")
+
+
+graph =
+  create_graph(nodes_df = nodes,
+               edges_df = edges,
+               graph_name = "Flow Chart")
+
+# Shiny app
+server = function(input, output) {
+  output$diagram <- renderGrViz({
+    grViz({
+      graph$dot_code
+    })
+  })
+}
+
+ui = fluidPage(
+  grVizOutput(outputId = 'diagram', width = "100%", height = "760px") 
+)
+
+shinyApp(ui = ui, server = server)
+```
+
