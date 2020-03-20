@@ -19,7 +19,7 @@ var1 <- "hello"
 grViz("
 digraph a_nice_graph {
 
-graph [layout = dot, rankdir= TB]  ## layout = [neato|twopi, etc]
+graph [layout = neato, rankdir= TB]  ## layout = [neato|twopi, etc]
 #https://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html
 
 
@@ -57,11 +57,25 @@ f -> {l m} [label = 0.5]
 g -> {n o} [label = 0.5]
 }
 
-[1]: 'toss a coin'            ## adds label to each box
-[2]: c(2+2, 'tail')
+[1]: 'NPV (1)'            ## adds label to each box
+[2]: c('B (2)', 'C (10)')
 [3]: c(var1, 'tail', 'head', 'tail')
 [4]: c('head', 'tail', 'head', 'tail', 'head', 'tail', 'head', 'tail')
 [5]: 'ghfd'
+")
+
+
+
+mermaid("
+graph LR;
+  A-->B
+  A-->C
+  C-->E
+  B-->D
+  C-->D
+  D-->F
+  E-->F
+
 ")
 ```
 
