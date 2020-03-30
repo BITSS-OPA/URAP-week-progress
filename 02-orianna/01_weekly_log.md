@@ -125,3 +125,27 @@ c. Push in your local github desktop app
 
 
 ###### Total time: ~12 hours
+
+## Week 5
+##### Assigned Tasks:
+- Finish summarizing the [Minimum Wage CBO Report](https://www.cbo.gov/system/files/2019-07/CBO-55410-MinimumWage2019.pdf) (1-2 pages)
+  - more detailed than the executive summary
+  - keep reports in the .md format  
+- Update the forked repo
+  - talk with Ryan + Emma to figure out what problems they encountered
+  - write a full report that addresses these common problems, perhaps ask Sophia to contribute the MacOS input
+- initialize the tutorial repository
+  - refer to [this website](https://www.projecttier.org/) for formatting guidance
+- Once the deworming repo has been updated
+  - proofread the report (05 file) and ensure that all errors are corrected, and ensuring that the bullet points are fleshed out
+
+##### Week 5 Progress:
+- finished summarizing the Minimum Wage CBO Report [here](https://github.com/oriajia/URAP-week-progress/blob/master/02-orianna/reports%20%2B%20summaries/federal%20minimum%20wage.md)
+- updated personal forked repos
+  - got help from Ryan + talked through the issues he also encountered
+- created the tutorial repository and shared with everyone on the team  
+- wrote/finalized the tutorial on updating forked repos
+  - partially utilized Sophia's tutorial/findings
+- worked a little bit on the deworming repository
+
+###### Total time: ~16 hours
