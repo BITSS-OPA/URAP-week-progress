@@ -140,6 +140,12 @@ c. Push in your local github desktop app
   - proofread the report (05 file) and ensure that all errors are corrected, and ensuring that the bullet points are fleshed out
 
 ##### Week 5 Progress:
+- finished summarizing the Minimum Wage CBO Report [here](https://github.com/oriajia/URAP-week-progress/blob/master/02-orianna/reports%20%2B%20summaries/federal%20minimum%20wage.md)
+- updated personal forked repos
+  - got help from Ryan + talked through the issues he also encountered
+- created the tutorial repository and shared with everyone on the team  
+- wrote/finalized the tutorial on updating forked repos
+  - partially utilized Sophia's tutorial/findings
+- worked a little bit on the deworming repository
 
-
-###### Total time:
+###### Total time: ~16 hours
