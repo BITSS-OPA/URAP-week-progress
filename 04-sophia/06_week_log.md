@@ -5,7 +5,7 @@
 
 ## Tasks
 1. Create a diagram expressing the relationships among different variables in opa deworming
-![](Week%206/diagram_demo.png)
+<img src = "Week%206/diagram_demo.png">
 
 ## Reports
 1. [Sample Diagram for variables in Approach 1](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%206/Var%20Relationships.Rmd)
