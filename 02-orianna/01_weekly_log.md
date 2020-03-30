@@ -123,7 +123,6 @@ b. Put the commands in terminal:
 
 c. Push in your local github desktop app
 
-
 ###### Total time: ~12 hours
 
 ## Week 5
@@ -144,8 +143,17 @@ c. Push in your local github desktop app
 - updated personal forked repos
   - got help from Ryan + talked through the issues he also encountered
 - created the tutorial repository and shared with everyone on the team  
-- wrote/finalized the tutorial on updating forked repos
+- wrote/finalized the tutorial on [updating forked repos](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/updating%20forked%20repos.md)
   - partially utilized Sophia's tutorial/findings
 - worked a little bit on the deworming repository
 
 ###### Total time: ~16 hours
+
+## Week 6
+##### Assigned Tasks:
+- continue to review and flesh out the deworming document
+
+##### Week 6 Progress:
+-
+
+###### Total time:
