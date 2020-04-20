@@ -188,3 +188,25 @@ c. Push in your local github desktop app
 - I found the numbering to be confusing... could we change to a combination of numbers in letters instead of purely numbers or simply omitting numbers altogether?
 
 ###### Total time: 8 hours
+
+## Week 7-8
+##### Assigned Tasks:
+- read the cited papers from the deworming document
+- continue learning r/md
+
+##### Week 7-8 Progress:
+- read the cited papers from the deworming document
+- did some more basic learning about r/md
+
+###### Total time: ~ 18 hours
+
+## Week 9
+##### Assigned Tasks:
+- write up the notes from the papers
+- move all summaries to a new folder in the tutorials repo
+- implement the changes we discussed from week 6
+
+##### Week 9 Progress:
+-
+
+###### Total time:
