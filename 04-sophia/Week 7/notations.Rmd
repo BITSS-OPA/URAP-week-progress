@@ -1,0 +1,128 @@
+---
+title: "Notation"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Approach 1 Notations
+
+### First level
+- $NPV$: Net Present Value
+
+### Second level
+- $B$: Benefit
+- $C$: Cost
+
+### Third level
+- $E_t$: Effect on earnings
+- $DC$: Direct deworming costs
+- $IC$: Indirect deworming costs
+
+### 4th level
+- $\lambda_1$: direct effects of deworming on earnings
+- $\lambda_2$: indirect effects of deworming on earnings
+- $p$: saturation, measures the fraction of the population that is effectively using the treatment
+- $w_t$: earnings in period t
+- $r$: real interest rate
+- $S_1$: take-up under a no deworming intervention
+- $Q(S_1)$: the per-capita costs of deworming under no government intervention
+- $S_2$: take-up under a mass deworming intervention
+- $Q(S_2)$: the per-capita costs of deworming under the intervention
+- $\Delta\bar{E_t}(S_1, S_2)$: the estimated increase in school attendance
+- $K$: cost per student
+
+### 5th level
+- $\lambda_{1, male}$: the estimated impact of deworming on hours of work for men
+- $\lambda_{1, female}$: the estimated impact of deworming on hours of work for women
+- $R$: coverage, defined as the fraction, among all neighboring schools (within 6 km), that belongs to the treatment group. (note: $R = 0.68$)
+- $Q(full)$: the estimated take-up with full subsidy ($Q(full) = 0.75$)
+- $Q(0)$: the value of 0, because there is almost no take-up without subsidy for this (or similar?) setting (*Miguel and Kremer 2007)
+- $w_0$: The initial wage in dollars
+- $X_p$: years of work
+- $\hat{\beta}_1$: the estimated coefficient for years of work
+- $\hat{\beta}_2$: the estimated coefficient for squared years of work
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $t$: additional years of treatment
+- $KSH$: Cost per person per year
+- $ex$: ???
+
+### 6th level:
+- $w_l$: wages in agriculture, working wage, and self-employed sectors
+- $\alpha_l$: weights for each of the above sectors
+
+### 7th level:
+- $h_l$: the average number of hours in each sector
+- $h_{ag}$: wages for control group in agriculture
+- $h_{ww}$: wages for control group in working wage
+- $h_{se}$: wages for control group in self-employed sectors
+
+\newpage
+# Approach 2 Notations
+
+### First level
+- $NPV$: Net Present Value
+
+### Second level
+- $B$: Benefit
+- $C$: Cost
+
+### Third level
+- $E_t$: Effect on earnings
+- $DC$: Direct deworming costs
+- $IC$: Indirect deworming costs
+
+### 4th level
+- $\alpha^{KLPS2}$: welfare gains from deworming after 10 years
+- $\alpha^{KLPS3}$: welfare gains from deworming after 15 years
+- $\alpha^{KLPS4}$: welfare gains from deworming after 20 years
+- $\Delta\bar{E_t}(S_1, S_2)$: the estimated increase in school attendance
+- $K$: cost per student
+- $S_1$: take-up under a no deworming intervention
+- $Q(S_1)$: the per-capita costs of deworming under no government intervention
+- $S_2$: take-up under a mass deworming intervention
+- $Q(S_2)$: the per-capita costs of deworming under the intervention
+
+
+### 5th level
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $t$: additional years of treatment
+- $KSH$: Cost per person per year
+- $ex$: ???
+
+\newpage
+# Approach 3 Notations
+
+### First level
+- $CEA_{deworming}$: cost effectiveness ratio for deworming
+
+### Second level
+- $B$: Benefits per person dewormed
+- $C$: Cost per person dewormed
+- $F_0$: a factor to account for leverage/fudging (not reviewed in this excercise)
+
+### Third level
+- $E_t$: Effect on earnings
+- $w_i$: Weight for the weighted average
+- $c_i$: Total cost per child, per year in country i
+
+### 4th level
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $N_j$: Number of treated children in country j
+- $N_i$: Number of treated children in country i
+- $C_i$: Costs in country i
+
+### 5th level
+- $C_{i,k}$: Costs in country i distributed across k payers.
+- $C_{i,k,l,m}$: ???
+- $\delta_g$: depreciation???
+- $\alpha$: the incidence of the condition.
+- $\lambda_1^{eff}$: the effect of deworming over those affected with the condition.
+
+k: Costs distribute across k payers.
+l: Each payers costs come from l items.
