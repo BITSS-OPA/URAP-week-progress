@@ -6,6 +6,6 @@
 
 ## Reports
 1. [Complete Diagram for Approach 1](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%207/Diagram_1st_Approach.Rmd)
-![](Week%206/diagram_sample.png)
+![](Week%207/Diagram_1st_Approach.png)
   - potential problems:
     - what is variable "ex" represent?
