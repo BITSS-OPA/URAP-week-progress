@@ -1,0 +1,154 @@
+---
+title: "Diagram for the 1st Approach - deworming"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DiagrammeR)
+```
+
+Diagram
+
+```{r echo=FALSE}
+add_mathjax(
+  grViz(
+"
+digraph relationship {
+
+# node definitions with substituted label text
+# First level
+node [fontname = Helvetica, shape = box]
+NPV [label = '$NPV (1) $']## label indicates the position of the letter
+
+# Second level
+node [fontname = Helvetica, shape = box, fontsize = 10, fixedsize = TRUE]
+B [label = '$B (2)$']
+C [label = '$C (10)$']
+
+# Third level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+r [label = '$r (3)$']
+Et [label = '$E_t (4)$']
+DC [label = '$DC (11)$']
+IC [label = '$IC$']
+
+# Fourth level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+g [label = '$g$']
+pi [label = '$\\\\pi$']
+wt [label = '$w_t (5)$']
+lambda1 [label = '$\\\\lambda_1 (8)$']
+lambda2 [label = '$\\\\lambda_2$']
+p [label = '$p (9)$']
+R [label = '$R$']
+
+S1 [label = '$S_1$']
+QS1 [label = '$Q(S_1)$']
+S2 [label = '$S_2$']
+QS2 [label = '$Q(S_2)$']
+
+K [label = '$K$']
+
+node [fontname = Helvetica, shape = box, fixedsize = FALSE]
+DeltaEt [label = '$\\\\Delta\\\\bar{E_t}(S_1, S_2)$']
+
+# Fifth Level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+w0 [label = '$w_0$']
+Xp [label = '$X_p$']
+beta1 [label = '$\\\\hat{\\\\beta_1}$']
+beta2 [label = '$\\\\hat{\\\\beta_2}$']
+lambda1m [label = '$\\\\lambda_{1, male}$']
+lambda1f [label = '$\\\\lambda_{1, female}$']
+R [label = '$R$']
+Qfull [label = '$Q(full)$']
+Q0 [label = '$Q(0)$']
+
+KSH [label = '$KSH$']
+ex [label = '$ex$']
+t [label = '$t$']
+
+# 6th level
+wl [label = '$w_l$']
+alphal [label = '$\\\\alpha_l$']
+
+# 7th level
+hl [label = '$h_l$']
+hag [label = '$h_{ag}$']
+hww [label = '$h_{ww}$']
+hse [label = '$h_{se}$']
+
+# edge definitions with the node IDs
+NPV -> {B C}       ##[label = ...] adds text on the edge
+B -> {r Et} 
+C -> {DC IC} 
+r -> {g pi} 
+Et -> {wt lambda1 lambda2 p R} 
+DC -> {S1 QS1 S2 QS2} 
+IC -> {K r DeltaEt}
+wt -> {w0 g Xp beta1 beta2}
+lambda1 -> {lambda1m lambda1f}
+p -> {R Qfull Q0}
+S2 -> {KSH ex t}
+w0 -> {wl alphal}
+alphal -> {hl hag hww hse}
+}
+")
+)
+```
+## Notations
+
+### First level
+- $NPV$: Net Present Value
+
+### Second level
+- $B$: Benefit
+- $C$: Cost
+
+### Third level
+- $E_t$: Effect on earnings
+- $DC$: Direct deworming costs
+- $IC$: Indirect deworming costs
+
+### 4th level
+- $\lambda_1$: direct effects of deworming on earnings
+- $\lambda_2$: indirect effects of deworming on earnings
+- $p$: saturation, measures the fraction of the population that is effectively using the treatment
+- $w_t$: earnings in period t
+- $r$: real interest rate
+- $S_1$: take-up under a no deworming intervention
+- $Q(S_1)$: the per-capita costs of deworming under no government intervention
+- $S_2$: take-up under a mass deworming intervention
+- $Q(S_2)$: the per-capita costs of deworming under the intervention
+- $\Delta\bar{E_t}(S_1, S_2)$: the estimated increase in school attendance
+- $K$: cost per student
+
+### 5th level
+- $\lambda_{1, male}$: the estimated impact of deworming on hours of work for men
+- $\lambda_{1, female}$: the estimated impact of deworming on hours of work for women
+- $R$: coverage, defined as the fraction, among all neighboring schools (within 6 km), that belongs to the treatment group. (note: $R = 0.68$)
+- $Q(full)$: the estimated take-up with full subsidy ($Q(full) = 0.75$)
+- $Q(0)$: the value of 0, because there is almost no take-up without subsidy for this (or similar?) setting (*Miguel and Kremer 2007)
+- $w_0$: The initial wage in dollars
+- $X_p$: years of work
+- $\hat{\beta}_1$: the estimated coefficient for years of work
+- $\hat{\beta}_2$: the estimated coefficient for squared years of work
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $t$: additional years of treatment
+- $KSH$: Cost per person per year
+- $ex$: ???
+
+### 6th level:
+- $w_l$: wages in agriculture, working wage, and self-employed sectors
+- $\alpha_l$: weights for each of the above sectors
+
+### 7th level:
+- $h_l$: the average number of hours in each sector
+- $h_{ag}$: wages for control group in agriculture
+- $h_{ww}$: wages for control group in working wage
+- $h_{se}$: wages for control group in self-employed sectors
+
