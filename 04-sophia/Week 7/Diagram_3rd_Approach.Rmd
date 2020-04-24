@@ -1,0 +1,118 @@
+---
+title: "Diagram for the 2nd Approach - deworming"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DiagrammeR)
+```
+
+Diagram
+
+```{r echo=FALSE}
+add_mathjax(
+  grViz(
+"
+digraph relationship {
+
+# node definitions with substituted label text
+# First level
+node [fontname = Helvetica, shape = box]
+CEA [label = '$CEA_{deworming} (21)$']
+
+# Second level
+node [fontname = Helvetica, shape = box, fontsize = 10, fixedsize = TRUE]
+B [label = '$B (2)$']
+C [label = '$C$']
+F0 [label = '$F_0$']
+
+# Third level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+r [label = '$r (3)$']
+Et [label = '$E_t (4)$']
+wi [label = '$w_i (19)$']
+ci [label = '$c_i$']
+
+# Fourth level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+g [label = '$g$']
+pi [label = '$\\\\pi$']
+
+Ni [label = '$N_i$']
+Nj [label = '$N_j$']
+Ci [label = '$C_i$']
+
+wt [label = '$w_t (5)$']
+lambda1 [label = '$\\\\lambda_1 (20)$']
+lambda2 [label = '$\\\\lambda_2$']
+p [label = '$p (9)$']
+R [label = '$R$']
+
+# 5th level
+deltag [label = '$\\\\delta_{g}$']
+Cik [label = '$C_{i,k}$']
+w0 [label = '$w_0$']
+Xp [label = '$X_p$']
+beta1 [label = '$\\\\hat{\\\\beta_1}$']
+beta2 [label = '$\\\\hat{\\\\beta_2}$']
+lambda1eff [label = '$\\\\lambda_1^{eff}$'] 
+alpha [label = '$\\\\alpha$'] 
+R [label = '$R$']
+Qfull [label = '$Q(full)$']
+Q0 [label = '$Q(0)$']
+
+# 6th level
+Ciklm [label = '$C_{i,k,l,m}$']
+
+# edge definitions with the node IDs
+CEA -> {B C F0}       ##[label = ...] adds text on the edge
+B -> {r Et} 
+C -> {wi ci} 
+r -> {g pi} 
+Et -> {wt lambda1 lambda2 p R}
+wt -> {w0 g Xp beta1 beta2}
+lambda1 -> {lambda1eff alpha}
+p -> {R Qfull Q0}
+wi -> {Ni Nj}
+ci -> {Ni Ci}
+Ci -> {deltag Cik}
+Cik -> {Ciklm}
+}
+")
+)
+```
+## Notations
+
+### First level
+- $CEA_{deworming}$: cost effectiveness ratio for deworming
+
+### Second level
+- $B$: Benefits per person dewormed
+- $C$: Cost per person dewormed
+- $F_0$: a factor to account for leverage/fudging (not reviewed in this excercise)
+
+### Third level
+- $E_t$: Effect on earnings
+- $w_i$: Weight for the weighted average
+- $c_i$: Total cost per child, per year in country i
+
+### 4th level
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $N_j$: Number of treated children in country j
+- $N_i$: Number of treated children in country i
+- $C_i$: Costs in country i
+
+### 5th level
+- $C_{i,k}$: Costs in country i distributed across k payers.
+- $C_{i,k,l,m}$: ???
+- $\delta_g$: depreciation???
+- $\alpha$: the incidence of the condition.
+- $\lambda_1^{eff}$: the effect of deworming over those affected with the condition.
+
+k: Costs distribute across k payers.
+l: Each payers costs come from l items.
+
