@@ -14,7 +14,7 @@
   - potential problems:
     - Hard to visualize how each function change, when the variables do not change (eg. DC changes)
 3. [Complete Diagram for Approach 3](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%207/Diagram_3rd_Approach.Rmd)
-![](Week%207/Diagram_2nd_Approach.png)
+![](Week%207/Diagram_3rd_Approach.png)
   - potential problems:
     - the relationships are a bit confusing, I need to double check with Fernando to make sure it is correct
 
