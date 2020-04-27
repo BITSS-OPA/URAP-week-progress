@@ -1,0 +1,107 @@
+---
+title: "Diagram for the 2nd Approach - deworming"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DiagrammeR)
+```
+
+Diagram
+
+```{r echo=FALSE}
+add_mathjax(
+  grViz(
+"
+digraph relationship {
+
+# node definitions with substituted label text
+# First level
+node [fontname = Helvetica, shape = box]
+NPV [label = '$NPV (1) $']## label indicates the position of the letter
+
+# Second level
+node [fontname = Helvetica, shape = box, fontsize = 10, fixedsize = TRUE]
+B [label = '$B (2)$']
+C [label = '$C (10)$']
+
+# Third level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+r [label = '$r (3)$']
+Et [label = '$E_t (4)$']
+DC [label = '$DC (11)$']
+IC [label = '$IC$']
+
+# Fourth level
+node [fontname = Helvetica, shape = box, fixedsize = TRUE]
+g [label = '$g$']
+pi [label = '$\\\\pi$']
+
+alphaKLPS2 [label = '$\\\\alpha^{KLPS2}$']
+alphaKLPS3 [label = '$\\\\alpha^{KLPS3}$']
+alphaKLPS4 [label = '$\\\\alpha^{KLPS4}$']
+ 
+S1 [label = '$S_1$']
+QS1 [label = '$Q(S_1)$']
+S2 [label = '$S_2$']
+QS2 [label = '$Q(S_2)$']
+
+K [label = '$K$']
+
+node [fontname = Helvetica, shape = box, fixedsize = FALSE]
+DeltaEt [label = '$\\\\Delta\\\\bar{E_t}(S_1, S_2)$']
+
+KSH [label = '$KSH$']
+ex [label = '$ex$']
+t [label = '$t$']
+
+# edge definitions with the node IDs
+NPV -> {B C}       ##[label = ...] adds text on the edge
+B -> {r Et} 
+C -> {DC IC} 
+r -> {g pi} 
+Et -> {alphaKLPS2 alphaKLPS3 alphaKLPS4} 
+DC -> {r t S1 QS1 S2 QS2} 
+IC -> {K r DeltaEt t}
+S2 -> {KSH ex t}
+}
+")
+)
+```
+## Notations
+
+### First level
+- $NPV$: Net Present Value
+
+### Second level
+- $B$: Benefit
+- $C$: Cost
+
+### Third level
+- $E_t$: Effect on earnings
+- $DC$: Direct deworming costs
+- $IC$: Indirect deworming costs
+
+### 4th level
+- $\alpha^{KLPS2}$: welfare gains from deworming after 10 years
+- $\alpha^{KLPS3}$: welfare gains from deworming after 15 years
+- $\alpha^{KLPS4}$: welfare gains from deworming after 20 years
+- $\Delta\bar{E_t}(S_1, S_2)$: the estimated increase in school attendance
+- $K$: cost per student
+- $S_1$: take-up under a no deworming intervention
+- $Q(S_1)$: the per-capita costs of deworming under no government intervention
+- $S_2$: take-up under a mass deworming intervention
+- $Q(S_2)$: the per-capita costs of deworming under the intervention
+
+
+### 5th level
+- $g$: interest rate on goverment bonds ($g = 0.118$)
+- $\pi$: the inflation rate ($\pi = 0.02$)
+- $t$: additional years of treatment
+- $KSH$: Cost per person per year
+- $ex$: ???
+
+
