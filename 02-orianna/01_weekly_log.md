@@ -188,3 +188,30 @@ c. Push in your local github desktop app
 - I found the numbering to be confusing... could we change to a combination of numbers in letters instead of purely numbers or simply omitting numbers altogether?
 
 ###### Total time: 8 hours
+
+## Week 7-8
+##### Assigned Tasks:
+- read the cited papers from the deworming document
+- continue learning r/md
+
+##### Week 7-8 Progress:
+- read the cited papers from the deworming document
+- did some more basic learning about r/md
+
+###### Total time: ~ 18 hours
+
+## Week 9
+##### Assigned Tasks:
+- write up the notes from the papers
+- move all summaries to a new folder in the tutorials repo
+- implement the changes we discussed from week 6
+
+##### Week 9 Progress:
+- still in the process of typing up notes from the papers
+- created a [summaries folder](https://github.com/BITSS-OPA/Tutorials/tree/master/Summaries) in the tutorials repo
+- added all of my previously written summaries to the above folder (3 in total)
+- updated the ReadMe file in the tutorials repo
+- worked on implementing the changes discussed from week 6... still many more need to be added (not all have been finished) --> I am drafting my changes in a document separate from the 005 document so that I can finalize the format first, before messing with the main code [here](https://github.com/oriajia/URAP-week-progress/blob/master/02-orianna/deworming%20changes)
+- question: Are we relying primarily on Evidence Action data? Can/should I be looking for/at data for other deworming efforts?
+
+###### Total time: ~12 hours
