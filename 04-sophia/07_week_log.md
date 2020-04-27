@@ -17,6 +17,7 @@
 ![](Week%207/Diagram_3rd_Approach.png)
   - potential problems:
     - the relationships are a bit confusing, I need to double check with Fernando to make sure it is correct
+    - you can choose either benefit formula from approach 1 and approach 2.
 4. [Notations for the diagrams](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%207/notations.Rmd)
 ![An example of notations](Week%207/notation.png)
 - potential problems: too much notations make diagram crowded, need to discuss another way
