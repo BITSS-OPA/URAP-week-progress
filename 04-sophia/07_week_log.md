@@ -12,7 +12,7 @@
 2. [Complete Diagram for Approach 2](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%207/Diagram_2nd_Approach.Rmd)
 ![](Week%207/Diagram_2nd_Approach.png)
   - potential problems:
-    - Hard to visualize how each function change, when the variables do not change (eg. DC changes)
+    - Hard to visualize how each function change, when the variables do not change (eg. DC changes) - maybe we can put note to let people know that the formula changed
 3. [Complete Diagram for Approach 3](https://github.com/sophiabai2022/URAP-week-progress/blob/master/04-sophia/Week%207/Diagram_3rd_Approach.Rmd)
 ![](Week%207/Diagram_3rd_Approach.png)
   - potential problems:
