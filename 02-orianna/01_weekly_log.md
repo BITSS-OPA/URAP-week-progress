@@ -215,3 +215,17 @@ c. Push in your local github desktop app
 - question: Are we relying primarily on Evidence Action data? Can/should I be looking for/at data for other deworming efforts?
 
 ###### Total time: ~12 hours
+
+## Week 10
+##### Assigned Tasks:
+- write a one sentence summary for each week of what was accomplished
+- review any materials developed or learned and convert into relevant tutorials (leave reminders)
+  - rmarkdown resources?
+- create a bulleted list of tasks of things that should be pursued further
+- finish the summaries
+- finish up the changes to 005 and implement them
+
+##### Week 10 Progress:
+-
+
+###### Total time:
