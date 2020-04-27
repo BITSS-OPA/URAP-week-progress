@@ -207,6 +207,9 @@ c. Push in your local github desktop app
 - implement the changes we discussed from week 6
 
 ##### Week 9 Progress:
--
+- still in the process of typing up notes from the papers
+- created a [summaries folder](https://github.com/BITSS-OPA/Tutorials/tree/master/Summaries) in the tutorials repo
+- added all of my previously written summaries to the above folder (3 in total)
+- worked on implementing the changes discussed from week 6... still many more need to be added (not all have been finished)
 
-###### Total time:
+###### Total time: ~12 hours
