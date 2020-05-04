@@ -226,7 +226,7 @@ c. Push in your local github desktop app
 - finish up the changes to 005 and implement them
 
 ##### Week 10 Progress:
-- wrote a [summary document]() of my week-to-week work
+- wrote a [summary document](https://github.com/oriajia/URAP-week-progress/blob/master/02-orianna/final%20report) of my week-to-week work
 - didn't have any additional materials to convert into tutorials
 - created a list of suggestions for future URAPs to pursue in the future and some things about the program that could be changed (in the same document as point 1)
 - was unable to finish the article summaries this week, but will upload them when finished
