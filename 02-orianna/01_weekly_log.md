@@ -215,3 +215,21 @@ c. Push in your local github desktop app
 - question: Are we relying primarily on Evidence Action data? Can/should I be looking for/at data for other deworming efforts?
 
 ###### Total time: ~12 hours
+
+## Week 10
+##### Assigned Tasks:
+- write a one sentence summary for each week of what was accomplished
+- review any materials developed or learned and convert into relevant tutorials (leave reminders)
+  - rmarkdown resources?
+- create a bulleted list of tasks of things that should be pursued further
+- finish the summaries
+- finish up the changes to 005 and implement them
+
+##### Week 10 Progress:
+- wrote a [summary document](https://github.com/oriajia/URAP-week-progress/blob/master/02-orianna/final%20report) of my week-to-week work
+- didn't have any additional materials to convert into tutorials
+- created a list of suggestions for future URAPs to pursue in the future and some things about the program that could be changed (in the same document as point 1)
+- was unable to finish the article summaries this week, but will upload them when finished
+- finished up the first portion of my changes to the deworming document (the context) and implemented it in the 05_final_opa document
+
+###### Total time: ~9 hours
