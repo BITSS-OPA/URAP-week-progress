@@ -18,7 +18,7 @@
     - I think *one possible concern* is that this assumes that the suffix starts with some characters, followed by a ".", then some other digits (e.g. aer.10052204, aer.20101199); I don't think this would work if the suffix didn't contain a "." at all. In theory a DOI's suffix could be any string, but the suffixes in the survey responses were all similar because they were all from the American Economic Review.
   - **update: I think it's important to keep the suffix as is,** i.e. 10.1257/aer.100.5.2205 and not 10.1257/aer.10052205. I removed my work starting from the step that splits the string by ".".
 - Watched [this introduction to bookdown video](https://www.youtube.com/watch?v=dVqVscgwSpw)
-- Updated your report of progress by the end of the week.  
+- Update report of progress (this file) by the end of the week.  
 
 
 
@@ -31,3 +31,4 @@
       - Add percentages and totals  
   - Clean paper-level data
   - Add tables
+- Update report of progress (this file) by the end of the week.  
