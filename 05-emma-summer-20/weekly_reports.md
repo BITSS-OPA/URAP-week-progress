@@ -1,6 +1,6 @@
 # Weekly reports of progress
 
-## Week 1 (5/18): Tasks assigned:
+## Week 1 (5/18)
 
 - Read the ACRE guidelines for computational reproducibility  
   - read chapters 1-3 in depth, read chapter 4 and skimmed the rest
@@ -19,3 +19,15 @@
   - **update: I think it's important to keep the suffix as is,** i.e. 10.1257/aer.100.5.2205 and not 10.1257/aer.10052205. I removed my work starting from the step that splits the string by ".".
 - Watched [this introduction to bookdown video](https://www.youtube.com/watch?v=dVqVscgwSpw)
 - Updated your report of progress by the end of the week.  
+
+
+
+## Week 2 (5/26)  
+
+- Read Survey 1 and 2.
+- Pilot report (`02_report_on_pilot.Rmd`):   
+  - Specific fixes  
+      - Sort rows of tables  
+      - Add percentages and totals  
+  - Clean paper-level data
+  - Add tables
