@@ -32,3 +32,4 @@
   - Clean paper-level data
   - Add tables
 - Update report of progress (this file) by the end of the week.  
+- Add number of hours worked during the week. 
