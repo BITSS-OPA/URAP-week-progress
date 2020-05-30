@@ -20,16 +20,24 @@
 - Watched [this introduction to bookdown video](https://www.youtube.com/watch?v=dVqVscgwSpw)
 - Update report of progress (this file) by the end of the week.  
 
-
+*added during week 2:* I worked 30 hours during Week 1.
 
 ## Week 2 (5/26)  
 
 - Read Survey 1 and 2.
+  - I read through both surveys in Preview and in Edit modes, S1 was fairly quick but S2 took a lot longer; I also looked at the "Survey Flow" tab which helped me visualize the longer survey.
 - Pilot report (`02_report_on_pilot.Rmd`):   
   - Specific fixes  
       - Sort rows of tables  
       - Add percentages and totals  
+
+  - I ran into an issue with setting the working directory when trying to knit the Rmd file, so I created a branch to work on the changes until I could resolve the issue and see my changes. For the percentages, I used summarize() to keep the column of counts for each response and created a separate column with the percentages for each response. Using the formattable package, I was able to convert the proportions to percentages and add a percentage symbol to the column values.  
+
+  I did not get to adding totals, sorting rows, or paper-level data this week.
+
   - Clean paper-level data
   - Add tables
 - Update report of progress (this file) by the end of the week.  
-- Add number of hours worked during the week. 
+- Add number of hours worked during the week.
+
+I worked 20 hours during Week 2.
