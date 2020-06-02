@@ -41,3 +41,11 @@
 - Add number of hours worked during the week.
 
 I worked 20 hours during Week 2.
+
+
+## Week 3 (6/1)
+
+-  Continues with tasks from week 2: formating.   
+-  Paper-level clean data + basic descriptives.   
+-  Work on automated report for instructors:
+  - Add claim level tables and summary.   
