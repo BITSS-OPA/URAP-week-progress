@@ -45,7 +45,16 @@ I worked 20 hours during Week 2.
 
 ## Week 3 (6/1)
 
--  Continues with tasks from week 2: formating.   
--  Paper-level clean data + basic descriptives.   
+- resolved error with knitting: updated all packages
+- Continue with tasks from week 2: formatting.   
+  - sorted rows for tables 5.9, 5.10, 8.6 by creating vector of levels of CR and using arrange(match(vector))
+  - total is the same (52) for all one-way freq tables so I used nrow(df_items_tidy) for the total and used dplyr's `add_row` to add a row with the total to the existing dataframe.
 -  Work on automated report for instructors:
-  - Add claim level tables and summary.   
+  - Add claim level tables and summary.  
+    - I created a table for one claim, but still need to finish adding footnotes to incorporate the locations from question 6.9. I think I can clean up this section using regular expressions
+    - Also need to figure out how to create similar tables for each claim (I think I should be able to do this by iterating through `1:df$n_claims[student_id]` for one student and replacing column names).
+    - Did not get to adding a summary - *can we go over what the summary should look like again?*
+-  Paper-level clean data + basic descriptives.   
+  - focused on instructor report instead; will circle back to paper level database in the future.
+
+I worked 28 hours during Week 2.
