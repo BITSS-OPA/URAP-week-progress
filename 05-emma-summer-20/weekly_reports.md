@@ -42,7 +42,6 @@
 
 I worked 20 hours during Week 2.
 
-
 ## Week 3 (6/1)
 
 - resolved error with knitting: updated all packages
@@ -57,4 +56,24 @@ I worked 20 hours during Week 2.
 -  Paper-level clean data + basic descriptives.   
   - focused on instructor report instead; will circle back to paper level database in the future.
 
-I worked 28 hours during Week 2.
+I worked 28 hours during Week 3.  
+
+## Week 4 (6/8)
+
+- Finish table formatting in `02_report_on_pilot.Rmd`:
+  - Added percentages for all tables except for the two-way frequency tables (pre-specify and diagram/depth)
+  - Corrected sorting, replaced `NA`s with 0 in diagram/depth table, and changed 0/1 response to No/Yes for Improvements table
+  - hide warnings in options: added `message = FALSE` to the top of code chunks
+- Instructor report (`03_report_card_PS1.Rmd`):
+  - added summary response from 6.1
+  - added row with location of estimates
+  - [explain a bit about function here]
+- ACRE Guidelines: convert tables to html
+  - `02-scope.Rmd` table: it looks like kableExtra only allows you to merge cells across rows (vertically) and not across columns; is trickier because only some cells are merged. You can add headers on top of each other and specify column span, according to [this page](http://haozhu233.github.io/kableExtra/awesome_table_in_html.html), so you could recreate the table entirely from headers, but I think there's less control over formatting the cells this way.
+    - *bug that breaks itemization when building book: when knitting 02, the table at the bottom just shows up as HTML. Are these issues related, or two separate issues?*
+  - `03-assess.Rmd`:
+    - converted tables on raw data info, analysis data info, code files info and adding rows to code spreadsheet; left the original tables until the tables are finalized. I ran into 2 issues with these tables: 1) for the raw data table column `directory`, the cell names with backslashes don't display correctly when the dataframe `raw_data_info` is converted using kable. 2) when knitting the document, I was unable to knit when using pipes (could not find function "%>%")
+    - did not get to tables on Levels of Computational Reproducibility.
+
+
+I worked 32 hours during Week 4.
