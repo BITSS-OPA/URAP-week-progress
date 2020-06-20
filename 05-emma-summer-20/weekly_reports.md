@@ -77,3 +77,25 @@ I worked 28 hours during Week 3.
 
 
 I worked 32 hours during Week 4.
+
+## Week 5 (6/15)
+
+- ACRE Guidelines: finish converting tables to HTML
+  - `03-assess.Rmd`:
+    - solved issues from last week: 1) change backslashes for relative file path to forward slashes 2) load tidy verse in code chunk at the top of the document
+      - added horizontal line to levels of computational reproducibility tables: [stack overflow post](https://stackoverflow.com/questions/53655983/row-spec-function-from-kableextra-does-not-create-a-horizontal-line-in-html-ou)
+    - 2.3 code files table cutting off primary_type column: added scroll bar because scaling the table to page width using `full_width = TRUE` wasn't working
+  - `04-improve.Rmd`:
+    - added table under "Reporting results"
+- Contributions: understand source code for adding contributions to R for Data Science (R4DS) welcome page
+  - this script [(contributors.R)](https://github.com/hadley/r4ds/blob/master/contributors.R) is used to generate this csv file [(contributors.csv)](https://github.com/hadley/r4ds/blob/master/contributors.csv):
+    -  using the [gh package](https://cran.r-project.org/web/packages/gh/gh.pdf), you can retrieve an R list of information on contributors to a GitHub repository as JSON
+    - then, pull relevant information (login, number of contributions) from the list
+    - the R script reads in a csv, which I believe has information on all previous contributors, including names and blogs, and also pulls this information for all new contributors using the gh package again
+    - finally, the information (login, n contributions, name, blog) for old and new contributors is combined into a tibble and saved to a csv file
+  - [notes on .Rmd file for R4DS welcome page](https://github.com/hadley/r4ds/blob/master/index.rmd):
+    - the [glue package](https://glue.tidyverse.org/) embeds R expressions in {} which are evaluated and inserted into the argument string
+    - uses `glue` and the `login` column from contributors.csv to create a link to each contributor's github profile
+  - *Applying this to the ACRE Guidelines:* a similar process could be used for contributions to the repo for the guidelines, but would probably have a separate process for the contributions from reproducers.
+
+I worked 28 hours during Week 5.
