@@ -99,3 +99,15 @@ I worked 32 hours during Week 4.
   - *Applying this to the ACRE Guidelines:* a similar process could be used for contributions to the repo for the guidelines, but would probably have a separate process for the contributions from reproducers.
 
 I worked 28 hours during Week 5.
+
+## Week 6 (6/22)  
+
+- Kable output bug: updating packages resolved some errors but not all, Fernando resolved issue in `_bookdown.yml` file
+- Cover page: edited `index.Rmd`
+  - included link to contributors chapter, added BITSS logo below title and added link to BITSS website
+- added scroll bar for robustness table; added footnotes for CRR and CRA on LCR tables
+- check links
+  - in `04-improve.Rmd`: removed "ADD LINK" for ACRE database, ACRE procedure to report coding errors, Assessment and Improvement Survey
+  - corrected _tips for communication_ link to chapter 5
+
+I worked 30 hours during Week 6.
