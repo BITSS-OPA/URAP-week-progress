@@ -111,3 +111,24 @@ I worked 28 hours during Week 5.
   - corrected _tips for communication_ link to chapter 5
 
 I worked 30 hours during Week 6.
+
+## Week 7 (6/29)  
+
+- figure out how to publish the slides in HTML format
+  - Two ways to create a static site with the slides: using GitHub pages or Netlify (free service for one individual, have to pay for teams)
+    - __GitHub pages__: can make site using private repo with a Pro account, or make ACRE_analysis repo public?
+      - to publish slides like [this example](https://jrosen48.github.io/data-science-dilemmas-presentation/#1): create a new branch "gh-pages", rename the html file to index.Rmd _in the gh-pages branch_ and turn on github pages and set to gh-pages branch
+    - building site using __Netlify__: [steps here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+      - link Netlify to GitHub account, select repo and branch to deploy site
+      - because ACRE_analysis repo belongs to BITSS I can't build the site but I can request to install Netlify to access the BITSS repos
+  - also read [this chapter](https://bookdown.org/yihui/blogdown/deployment.html) on deployment in Creating Websites with R Markdown, and read about xaringan presentations [here](https://bookdown.org/yihui/rmarkdown/xaringan.html) and [here](https://github.com/yihui/xaringan/wiki/Deploy-Slides-Online)
+    - [Rstudio community post: deploying xaringan slides to GitHub pages](https://community.rstudio.com/t/deploy-xaringan-slides-to-github-pages/16459)
+- Added minor edits to slides in `01_WEAI2020.Rmd`  
+
+
+  did not get to the tasks below:
+- Review definitions in the glossary and make sure they match the text in the guidelines. Add any definition you find missing in the glossary.
+- Write an improved readme file for the ACRE repository. See this one for an example of a good readme.
+- Spend some time with the figure on the garden of forking paths.  Try to  figure out ways to color or highly a subset of branches.
+
+I worked 22 hours during Week 7.
