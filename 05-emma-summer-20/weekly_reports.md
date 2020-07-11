@@ -123,12 +123,33 @@ I worked 30 hours during Week 6.
       - because ACRE_analysis repo belongs to BITSS I can't build the site but I can request to install Netlify to access the BITSS repos
   - also read [this chapter](https://bookdown.org/yihui/blogdown/deployment.html) on deployment in Creating Websites with R Markdown, and read about xaringan presentations [here](https://bookdown.org/yihui/rmarkdown/xaringan.html) and [here](https://github.com/yihui/xaringan/wiki/Deploy-Slides-Online)
     - [Rstudio community post: deploying xaringan slides to GitHub pages](https://community.rstudio.com/t/deploy-xaringan-slides-to-github-pages/16459)
-- Added minor edits to slides in `01_WEAI2020.Rmd`  
+- Added minor edits to slides in `01_WEAI2020.Rmd` in ACRE_analysis repo  
 
-
-  did not get to the tasks below:
+did not get to the tasks below (copied from email):    
 - Review definitions in the glossary and make sure they match the text in the guidelines. Add any definition you find missing in the glossary.
 - Write an improved readme file for the ACRE repository. See this one for an example of a good readme.
 - Spend some time with the figure on the garden of forking paths.  Try to  figure out ways to color or highly a subset of branches.
 
 I worked 22 hours during Week 7.
+
+## Week 8 (7/6)
+
+- Wasn't able to deploy slides using Netlify to set `BITSS/ACRE/slides` as base repository, so instead here is a  
+_Tutorial to deploy xaringan presentation to github pages:_  
+  (steps from [this Rstudio community post](https://community.rstudio.com/t/deploy-xaringan-slides-to-github-pages/16459))  
+  1. Create a GitHub repo with the xaringan presentation rendered to html
+  2. Create a branch titled gh-pages
+  3. In the gh-pages branch, rename the presentation file ending in .html to `index.html`
+  4. Open the Github repo in your browser and click on Settings. Then turn on GitHub pages and select gh-pages as the source.
+- Made minor edits to most recent version of slides in `WEAI2020_slides` repo before deploying
+- Embedded youtube video of WEAI presentation in Introduction chapter of Guidelines
+- Automating github contributions again:
+  - used [contributors.R](https://github.com/hadley/r4ds/blob/master/contributors.R) and index.Rmd file to write script pulling contributor info for ACRE Guidelines repo, storing in table for now.
+  - looked at [this website](https://opensource.guide/legal/) for information on using another author's open source work: "For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so."
+
+Did not get to tasks below:
+- Summarize chapter 11 of _Transparent and Reproducible Social Science Research_
+- Review definitions in the glossary and make sure they match the text in the guidelines. Add any definition you find missing in the glossary. + FIX FORMAT
+  - either fill in definition from guidelines or leave it blank; pull out any relevant terms **by end of July**
+
+I worked for 29 hours during Week 8.
