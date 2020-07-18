@@ -26,14 +26,13 @@
 
 - Read Survey 1 and 2.
   - I read through both surveys in Preview and in Edit modes, S1 was fairly quick but S2 took a lot longer; I also looked at the "Survey Flow" tab which helped me visualize the longer survey.
-- Pilot report (`02_report_on_pilot.Rmd`):   
-  - Specific fixes  
-      - Sort rows of tables  
-      - Add percentages and totals  
-
+- Pilot report (`02_report_on_pilot.Rmd`):
+  - Specific fixes
+    - Sort rows of tables
+    - Add percentages and totals
   - I ran into an issue with setting the working directory when trying to knit the Rmd file, so I created a branch to work on the changes until I could resolve the issue and see my changes. For the percentages, I used summarize() to keep the column of counts for each response and created a separate column with the percentages for each response. Using the formattable package, I was able to convert the proportions to percentages and add a percentage symbol to the column values.  
 
-  I did not get to adding totals, sorting rows, or paper-level data this week.
+I did not get to adding totals, sorting rows, or paper-level data this week.
 
   - Clean paper-level data
   - Add tables
@@ -153,3 +152,15 @@ Did not get to tasks below:
   - either fill in definition from guidelines or leave it blank; pull out any relevant terms **by end of July**
 
 I worked for 29 hours during Week 8.
+
+## Week 9 (7/13)
+
+- Add contributors to chapter; clean contributors.R file when done
+  - edited contributors.R script to write `contributors.csv`, which contains contributor info and links to each contributor's GitHub profile
+  - added chunk in contributions chapter to read in `contributors.csv` and paste each contributors name and link
+- Chapter 11 summary
+  - added summary to `09-additional-resources.Rmd`, changed chapter heading to "Tips and Resources for Reproducible Workflow" _but file name is still the same; does that need to change?_
+- Review definitions, for missing definitions leave note for Aleks/Fernando
+  - fixed formatting and added "analysis code", "cleaning code", "display item" and "reproduction tree"; "display item" and "reproduction tree" still need definitions
+
+I worked for 24 hours during Week 9.
