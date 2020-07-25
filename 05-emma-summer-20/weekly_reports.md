@@ -164,3 +164,25 @@ I worked for 29 hours during Week 8.
   - fixed formatting and added "analysis code", "cleaning code", "display item" and "reproduction tree"; "display item" and "reproduction tree" still need definitions
 
 I worked for 24 hours during Week 9.
+
+## Week 10 (7/20)
+
+##### ACRE guidelines
+- Added definitions to `11-glossary.Rmd`: claim (concept), distinguish between causal and descriptive within claim; specification, reasonable specifications; moved "coding errors" in chapter 7 to definitions chap
+- `09-additional-resources.Rmd`: added a narrative description on how each tool helps reproducibility
+
+##### deworming OPA!!! search for name in doc, refer to GH issue for priority
+- Completed values of summary tables: filled in from sources code chunk, removed w<sub>l</sub> and h<sub>l</sub> variables
+- Listed inputs and outputs in first two lines of code chunks beginning with chunk_ :
+  - Notes from weekly meeting: two long hashes separate wrapper function (first line) from action; fill in inputs/outputs from this section; res1 is anonymous output (doesn't mean anything in context so search in doc)
+  - notes and questions: Line 289 clarify CEA_var and CEA_cash_var  
+
+Did not complete the tasks below:
+- Create a [half line break](https://stackoverflow.com/questions/24467036/make-a-half-row-break-br) instead of full `<br>` HTML tag under details
+  - started working on this but was unable to change br size to less than 100% (used `<br style="line-height: 25%" />`; can adjust percentage or set size manually)
+- Remove tag in summary table caption
+- Add reference for Suri:
+  - Notes from weekly meeting: reference in 2.2.1.1 wage_ag_so l109 make comment more reproducible!!! find that specific location of 11.84 in the Suri paper (add in r source chunk); edit ~537 in doc using Rmd notation; match formatting in bibliography.bib file [import into bibtex option in google scholar]; also for self-employed profits and hours
+- Two other tasks in GH issue
+
+I worked __28__ hours during Week 10.
