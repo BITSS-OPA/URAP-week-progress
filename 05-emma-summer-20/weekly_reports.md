@@ -186,3 +186,21 @@ Did not complete the tasks below:
 - Two other tasks in GH issue
 
 I worked __28__ hours during Week 10.
+
+## Week 11 (7/27)
+
+- Complete values in summary table: rounded values to hundredths; only completed values through equation 13 (5 left)
+  - note from Monday meeting on guesswork: not cited as a result or from a resource/dataset, e.g. gains in earnings section working lifetime is 50 years
+- Suri 2011 paper reference: _Selection and Comparative Advantage in Technology Adoption_ in bibliography.bib file should be correct; cannot find hourly agricultural wage in paper
+
+#### Questions for next week
+- chunk `main-pe-print`: path to image is absolute
+- moving table_10 values to table_1: Why were treatment effects for gains in earnings (around 1059) in separate columns when they were in table_10? I think they should all be in research or guesswork
+  - was table_10 intended to be like the analysis table under approach 3? (`sum_tables21 code chunk`)
+- Go over note in cost2 code chunk inputs
+
+Did not complete the tasks below:
+- half line break: try using CSS, edit class attribute for `<p>` element to create a smaller line break
+- new tasks in GH issue: rewrite section 3 before benefits, write a new readme file; use wealth tax OPA as a starting point
+
+I worked __6__ hours during Week 11.
