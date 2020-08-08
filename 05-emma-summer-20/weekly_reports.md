@@ -185,7 +185,7 @@ Did not complete the tasks below:
   - Notes from weekly meeting: reference in 2.2.1.1 wage_ag_so l109 make comment more reproducible!!! find that specific location of 11.84 in the Suri paper (add in r source chunk); edit ~537 in doc using Rmd notation; match formatting in bibliography.bib file [import into bibtex option in google scholar]; also for self-employed profits and hours
 - Two other tasks in GH issue
 
-I worked __28__ hours during Week 10.
+I worked 28 hours during Week 10.
 
 ## Week 11 (7/27)
 
@@ -203,4 +203,23 @@ Did not complete the tasks below:
 - half line break: try using CSS, edit class attribute for `<p>` element to create a smaller line break
 - new tasks in GH issue: rewrite section 3 before benefits, write a new readme file; use wealth tax OPA as a starting point
 
-I worked __6__ hours during Week 11.
+I worked 6 hours during Week 11.
+
+# Week 12 (8/3)
+
+- Completed values of summary table: for any series (C<sub>i</sub>, N<sub>i</sub>, E<sub>t</sub>)reported mean
+  - is the N<sub>i</sub> in the summary table correct?
+- Moved half line break task to Reviewed but [this post](https://stackoverflow.com/questions/22386780/decreasing-spacing-between-two-lines-in-html) may be helpful
+- Edited first three paragraphs for approach 3
+- Removed "(#tab:sum_tables2)" from table captions: refer to [this](https://github.com/rstudio/distill/issues/46) GH issue on kable captions; chunk labels should have "-" for spaces and not underscores "\_"
+- Citations for footnote: found Nyanchama 2018 and Oduor 2017 articles, no source for students per teacher number
+
+#### Questions
+- earnings_1 chunk: coverage_var not specified; should it be coverage_so?
+
+#### Notes from Monday meeting/ tasks discussed
+- reviewed: spent ~1 hr on the task to know what it's about, will be assigned to URAPs in the Fall and will help with supervision
+- new task: how to avoid grouping messages: when knitted, a bunch of grouping messages appear at the bottom
+  - line 2129, remove suppress messages resulting from cost data for approach 3: confirm that it's nothing to worry about, try to make warning go away without having to suppress message
+
+I worked 28 hours during Week 12.
