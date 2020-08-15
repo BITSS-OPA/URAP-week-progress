@@ -223,3 +223,15 @@ I worked 6 hours during Week 11.
   - line 2129, remove suppress messages resulting from cost data for approach 3: confirm that it's nothing to worry about, try to make warning go away without having to suppress message
 
 I worked 28 hours during Week 12.
+
+# Week 13 (8/10)
+
+- Finished minor edits to summary tables
+- Edited readme file: based off wealth tax OPA example
+  - emphasized that repo, shiny app and dynamic doc are part of one product (OPA), included BITSS and CEGA logos and OPA layers figure
+- Finding references: included locations in parentheses in text
+  - Self-employed profits in baird 2016 paper
+  - Take up rates in Kremer and Miguel 2007
+- Took a look at grouping error but haven't made any changes
+
+I worked 27 hours during Week 13.
