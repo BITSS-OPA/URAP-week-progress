@@ -235,3 +235,17 @@ I worked 28 hours during Week 12.
 - Took a look at grouping error but haven't made any changes
 
 I worked 27 hours during Week 13.
+
+# Week 14 (8/17)
+
+- Readme file: added ACRE contributors code to readme
+  - created contributors.R script to create contributors.csv, then created readme.Rmd to incorporate contributors code in output readme.md
+    - __note:__ for both ACRE and deworming OPA, credit contributions are organized alphabetically by last name, but gh contributors organized alphabetically by first name
+    - make order consistent with credit section OR maybe list by number of contributions/some other metric?
+
+  - cReDiT taxonomy: breaking a project into pieces that describe each contributor's specific contribution
+- update function dependency diagram:
+ worked on this task for 4-5 hours; did not complete/did not understand how changes in cost, prevalence rates affected tree diagram
+- Added task to GH issue: verify with author about take up rate without subsidy kremer
+
+I worked 18 hours during Week 14.
