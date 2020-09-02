@@ -45,3 +45,35 @@
   + .R / .do should be machine readable & human readable?
   
   
+## Week 2 8/24-8/28
+
+
+_**Assigned Task:**_
+* How to use, edit, and write in Markdown format (Monday)  
+* Suggest some edits in the readme.md file (Monday)
+* Create a tutorial on markdown format
+* Create a tutorial git/gihub and add it to the tutorials repo 
+* Create a tutorial shiny (note on already existing tutorial) and add it to the tutorials repo
+* Buid a shiny app
+* Review the wealth tax opa
+* Review the deworming OPA, focus on DD (05_final_opa.Rmd) and shiny app. (@fhoces will fix links before) @AleksandraMaa
+
+
+_**Completed Task:**_
+* Suggest some edits in the readme.md file  
+  * "repository and its accompanying" -> "repository, its accompanying"
+  * Add a caption for the image -> Maybe use the more informative image from the paper?
+  * "demonstration of a OPA in your organization please" -> "demonstration of an OPA in your organization, please"
+  * Added: "The three things this case study includes are:"
+  * List of contributors - should there only be one list? order by first name or last name?  
+* Create a tutorial on markdown format
+* Create a tutorial git/gihub and add it to the tutorials repo 
+* Buid a shiny app
+* Create a tutorial shiny (note on already existing tutorial) and add it to the tutorials repo
+
+***Work in Progress:***
+* Review the wealth tax opa
+* Review the deworming OPA, focus on DD (05_final_opa.Rmd) and shiny app. (@fhoces will fix links before) @AleksandraMaa
+
+***Questions/Concerns:***
+* No access to Tutorials repo so I can't upload my tutorials
