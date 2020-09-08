@@ -77,3 +77,18 @@ _**Completed Task:**_
 
 ***Questions/Concerns:***
 * No access to Tutorials repo so I can't upload my tutorials
+
+## Week 3 8/31 - 9/4
+
+_**Assigned Task:**_
+* Submit readme.md as a Public Pull Request
+* Review wealth tax opa and deworming OPA
+
+_**Completed Task:**_
+* Submitted readme.md as a PR
+* Submitted all the tutorials (all 5 .md files) as PR
+* Read wealth tax opa related files
+* Read deworming OPA related files
+
+***Questions:***
+I've knitted and read all the outputs - what's next? Any specific parts that I should focus on?
