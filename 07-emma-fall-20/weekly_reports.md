@@ -25,3 +25,15 @@ I worked 10 hours during Week 1.
 
 
 I worked 8 hours during Week 2.
+
+## Week 3 (9/8)
+
+##### onboarding_ras
+- updated CBO report link, wealth tax links; added links for Jupyter Notebook tutorials and Voilà
+
+##### Deworming OPA
+- Shiny branding: wrote brief description of distribution on first tab, added links to BITSS and EA
+- Issue with rendering logo images in sidebarPanel: don't show up in output when running app.
+- Did not get to investigating deployment of shiny app/ website
+
+I worked 10 hours during Week 3.
