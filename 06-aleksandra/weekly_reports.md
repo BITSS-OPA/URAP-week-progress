@@ -92,3 +92,27 @@ _**Completed Task:**_
 
 ***Questions:***
 I've knitted and read all the outputs - what's next? Any specific parts that I should focus on?
+
+## Week 4 9/8 - 9/11
+
+_**Assigned Task:**_
+* (first create a branch of this repo, then) add dynamic text on prevalence and costs
+* Modify the aesthetics of the app. Make it as simple as possible, and improve user experience
+* Learn about the observe function for shiny, build a simple example (in a different repo).
+* Take notes as you learn how to edit this OPA. Identify things you need to know, and the answer once you figure it out. Then turn this notes into a tutorial.
+
+_**Completed Task:**_
+* Created branch `shinyAppAesthetics` and pushed updated shinyApp and readme.md
+* Fixed picture format for Tutorials
+* Added dynamic text under costs and prevalence
+ * Put placeholders for costs because I wasn't sure if I found the right one
+ * Rounded the inputs so that it only shows 2 decimal digits
+* Updates to the Shiny App plots
+ * Wrapped the code rendering the plot in a function so we don't have to copy and paste it for every plot
+ * Adjusted the plot style using the `theme()` function
+ * Adjusted the xlim for each plot
+* Learned about the `observe()` function and built [a simple example](https://github.com/AleksandraMaa/Notes/blob/master/shinyApp/observeExample/app.R) (still work in progress to complicate it a bit more, but understood how it works)
+* Created [`Steps2Unfold.md`](https://github.com/AleksandraMaa/Notes/blob/master/Steps2Unfold.md) : ongoing task
+ * Added how I unfolded the OPA from my experience 
+ * Put down some ideas how we can simplify things
+ 
