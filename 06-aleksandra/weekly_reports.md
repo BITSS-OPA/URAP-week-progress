@@ -105,14 +105,43 @@ _**Completed Task:**_
 * Created branch `shinyAppAesthetics` and pushed updated shinyApp and readme.md
 * Fixed picture format for Tutorials
 * Added dynamic text under costs and prevalence
- * Put placeholders for costs because I wasn't sure if I found the right one
- * Rounded the inputs so that it only shows 2 decimal digits
+  + Put placeholders for costs because I wasn't sure if I found the right one
+  + Rounded the inputs so that it only shows 2 decimal digits
 * Updates to the Shiny App plots
- * Wrapped the code rendering the plot in a function so we don't have to copy and paste it for every plot
- * Adjusted the plot style using the `theme()` function
- * Adjusted the xlim for each plot
+  + Wrapped the code rendering the plot in a function so we don't have to copy and paste it for every plot
+  + Adjusted the plot style using the `theme()` function
+  + Adjusted the xlim for each plot
 * Learned about the `observe()` function and built [a simple example](https://github.com/AleksandraMaa/Notes/blob/master/shinyApp/observeExample/app.R) (still work in progress to complicate it a bit more, but understood how it works)
 * Created [`Steps2Unfold.md`](https://github.com/AleksandraMaa/Notes/blob/master/Steps2Unfold.md) : ongoing task
- * Added how I unfolded the OPA from my experience 
- * Put down some ideas how we can simplify things
+  + Added how I unfolded the OPA from my experience 
+  + Put down some ideas how we can simplify things
+  
+
+## Week 5 9/14 - 9/18
+***Assigned Task:***
+
+* Create tutorial/readme for the dynamic document
+* Fix the main plot text display
+* Fix the dynamic text for shiny App
+
+***Completed Task:***
+* Fixed the main plot text display
+* Fixed dynamic text for shinyApp
+
+**ALL THE COMPLETE WORK & WORK IN PROGRESS IS IN branch `shinyAppAesthetics`**
+
+***Work in Progress:***
+* Create tutorial/readme for dynamic documents
+  + Wrote detailed tutorial up to 2.1.1.1 
+  + Met with Emma twice throughout the week to discuss / Q & A
+  + TO-DO:
+    - Complete Appendix A & B 
+    - Figure out how to add latex in ".md" extension
+
+***QUESTIONS:***
+* Could we schedule a time to go over the tutorial? I have a couple of questions about how it should look and also some questions about the dynamic document itself:
+  - Why is every chunk of code before "Part 3 Main Results" in an overarching function `chunk_xxx()`? I noticed that these `chunk_xxx()` fucntions are not called in the main results when we are trying to render the plot.
+  - What's the point of `invisible(list2env(...))`?
+  - For `wage_t_mo_f()`, what's the definition of beta hat?
+  - Should I put the code tracker that tracks different outputs/functions at the very end with the abbreviation appendix or is it fine to leave it where it is right now?
  
