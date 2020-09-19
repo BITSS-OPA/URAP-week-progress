@@ -37,3 +37,16 @@ I worked 8 hours during Week 2.
 - Did not get to investigating deployment of shiny app/ website
 
 I worked 10 hours during Week 3.
+
+## Week 4 (9/14)
+
+##### Deworming OPA
+- Helped Aleksandra clarify questions for dynamic doc readme
+  - remaining questions:
+    - why are functions organized in chunks, and then added to global environment?
+    - should &beta; hat be defined under w<sub>t</sub> calculation?
+- Shiny app branding
+  - edited description of results in side panel
+  - added BITSS and CEGA logo; to include an image in a side panel the images have to be in a subdirectory "www" in app directory
+
+I worked 8 hours during Week 4.
