@@ -1,5 +1,27 @@
 # Weekly reports of progress
 
+## Week 5 (9/21)
+
+##### Deworming OPA
+- code readme: look at edits in recent pull request
+  - intermediate values are _in
+  - results are _pe
+  - make instructions/ descriptions consistent
+  - two types of code chunks: 1) summary of info/format - these have summary table 2) analysis - follow structure of two lines of hashes, everything enclosed in a chunk without arguments SO THAT we can call argument below (can rerun step by step)
+    - analysis chunks: invisible line deposits functions as list in global (current) environment -> in some, declare values/ call function to display dynamically in the text
+  - just explain analysis code chunks; idea is to help the reader learn how to read code chunk, not to explain line by line in detail; for lines that need clarification, add comments in dynamic documents
+- keep appendix in readme for now, could shift to dynamic doc later
+- high level explanation of analysis code chunks
+- doc structure: 3 methods from 3 sources are described, functions are called later in a simulation exercise and analysis produces 1 result; montecarlo simulation runs simulation n times and produces n results, which can be interacted with in app
+- all_analysis.R called in app contains results from doc simulations (modifying doc = modifying app)
+
+- read and edit code readme, meet with Aleksandra
+- if more time, switch to deployment of app
+- new URAPs will send questions about onboarding
+
+I worked x hours during Week 5.
+
+
 ## Week 4 (9/14)
 
 ##### Deworming OPA
@@ -25,6 +47,7 @@ I worked 8 hours during Week 4.
 - Did not get to investigating deployment of shiny app/ website
 
 I worked 10 hours during Week 3.
+
 
 ## Week 2 (9/2)
 
