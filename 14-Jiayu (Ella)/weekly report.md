@@ -1,4 +1,4 @@
-## Week 1 (Sep 25)  
+## Week 1 (Sep 21-25)  
 
 - Attend onboarding session
   - Introduction to the project
@@ -8,6 +8,6 @@
   - assigned policy analyses
   - OPA paper
 - Navigated on the BTISS website
-- Learned to use git 
+- Learned to use git
 
-I worked for about 8 hours during Week 2.
+I worked for about 8 hours during Week 1.
