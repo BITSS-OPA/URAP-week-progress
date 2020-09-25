@@ -1,3 +1,13 @@
+## Week 6 9/21-9/25
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Fix formats for the new URAPs' weekly reports
+
+***Completed Task:***
+* Fixed formats for weekly reports 
+
+***Work in Progress:***
+* Completed the body of the tutorial, still working on the appendix 
 
 ## Week 5 9/14 - 9/18
 ***Assigned Task:***
