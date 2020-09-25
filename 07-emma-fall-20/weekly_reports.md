@@ -1,5 +1,16 @@
 # Weekly reports of progress
 
+## Week 5 (9/21)
+
+##### Deworming OPA
+
+- read and edit code readme_draft: made some edits for grammar and clarity
+  - reviewed overall structure sections the most; I think I'm still a bit confused about the details of unit_test function and Main Results section, but will see Aleksandra's edits after Friday pull request.
+- met with Lauren and Lea on Thursday to answer questions, explain GitHub basics (pull requests, forking, cloning)
+
+I worked 9 hours during Week 5.
+
+
 ## Week 4 (9/14)
 
 ##### Deworming OPA
@@ -25,6 +36,7 @@ I worked 8 hours during Week 4.
 - Did not get to investigating deployment of shiny app/ website
 
 I worked 10 hours during Week 3.
+
 
 ## Week 2 (9/2)
 
