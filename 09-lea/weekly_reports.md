@@ -1,4 +1,25 @@
-# Week 1 (9/21)
+# Weekly Progress Reports
+
+## Week 2  (10/28)
+#### Assigned Tasks
+- Find policy debate of interest
+- Find supporting and opposing groups involved in debate
+- Find evidence of both sides citing evidence as reasons for position
+- Find the cited papers and search through for actual numerical examples of evidential arguments
+- Synthesize and summarize papers/findings (benefits and losses of policy initiatives)
+
+#### Tasks Completed
+- Found first interesting policy debate - the movement to have governments lessen and eventually cease the practice of subsidizing fossil fuel companies.
+- extensively searched for different views and sides of the issue, for around 2 hours and had trouble identifying actual sides and positions due to the complexity of the issue and the many competing interests. As a debate it is relevant to OPA due to the disagreements of economic and environmental projections, but was too hard to find and lock down specific sides and articles.
+- Switched to the debate of subsidizing carbon-capture technology, which is controversial due to the ways that the fossil fuel industry benefit from carbon-sequestering technology; many argue that this type of technology just acts to preserve and elongate the lifespan of the fossil fuel industry.
+- Found many supporting groups based on a number of letters and petitions
+- Found evidence of each side citing evidence of projections
+- Read through cited papers to look for the evidence people are using as arguments (harder to find explicitly)
+- Summarized findings
+
+- I worked 10 hours this week.
+
+## Week 1 (9/21)
 
 ## Tasks completed
 - Familiarized self with Github, read through some of the tutorials
