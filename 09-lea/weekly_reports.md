@@ -17,6 +17,9 @@
 - Read through cited papers to look for the evidence people are using as arguments (harder to find explicitly)
 - Summarized findings
 
+##### NOTE:
+- Got too excited, mistakenly forgot about the WSJ/NYT rule for researching these topics; I circled back and found evidence of the debates in NYT, however not as much clear indications of different sides referencing specific research papers, which I could only find on other pages. 
+
 - I worked 10 hours this week.
 
 ## Week 1 (9/21)
