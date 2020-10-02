@@ -1,15 +1,19 @@
 ## Week 2 (Sep 28 - Oct 2)
 
-- Attended first weekly meeting
-  - Got task list
-- Finished reading Deworming Readme
-  - Read background
-  - Read setup
-    - Downloaded R and RStudio
-    - Watched R markdown tutorial
-    - Resolved errors when knitting the file: install packages
-  - Read Body of Analysis
-- Watched R programming tutorial (part 1)
+- Assigned Tasks
+  - Review OPA readme
+- Completed Tasks
+  - Attended first weekly meeting
+    - Got task list
+  - Finished reading Deworming Readme
+    - Read background
+    - Watched R MarkDown tutorial
+    - Read setup
+      - Downloaded R and RStudio
+      - Watched R markdown tutorial
+      - Resolved errors when knitting the file: install packages
+    - Read Body of Analysis
+      - Watched a R programming tutorial to help me understand
 
 I worked for 8 hours during Week 2.
 
