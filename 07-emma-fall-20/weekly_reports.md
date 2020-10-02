@@ -1,5 +1,19 @@
 # Weekly reports of progress
 
+## Week 6 (9/28)
+
+##### Assigned Tasks
+- create policy analysis report in new repo
+##### Completed Tasks
+- created policy analysis report in new repo
+- assisted other URAPs with track and individual tasks
+##### Questions
+- re: Lauren's report on SF Eviction Moratorium - how do we approach evidence for a policy issue that is still evolving, or that might not have an analytical study yet?
+- re: my report on UBI - unsure if opposition directly cites the PWBM dynamic modeling on UBI report, or if the url I included is referencing a different PWBM report.
+
+I worked 10 hours during Week 6.
+
+
 ## Week 5 (9/21)
 
 ##### Deworming OPA
