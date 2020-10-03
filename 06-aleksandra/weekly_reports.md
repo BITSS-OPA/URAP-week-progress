@@ -1,3 +1,19 @@
+## Week 7 9/28 - 10/2
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Review shiny deployment for previous case study, and propose new options
+
+***Completed Task:***
+* Completed tutorial/readme for the DD
+* Reviewed instructions for previous shy deployment
+* Proposal for alternatives [here](https://github.com/AleksandraMaa/Notes/blob/master/proposal.md)
+  + Best free option for now: Shiny Proxy - enterprise version of shiny server, and allows for multiple Shiny Apps for multiple users
+* Helped new URAPs with their questions with R and markdown
+
+***Questions:***
+* Quick call to discuss the proposal before URAP meeting?
+
+
 ## Week 6 9/21-9/25
 ***Assigned Task:***
 * Create tutorial/readme for the dynamic document
