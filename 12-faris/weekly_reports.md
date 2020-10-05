@@ -12,7 +12,11 @@
 - Identified main groups and summarized findings of their reports
 
 
+<<<<<<< HEAD
 I worked 10 hours during week 2. I will be using a token for next week due to academic overload.
+=======
+I worked 10 hours during week 2.
+>>>>>>> 700335201c6a246dc4e3b0444fde7699507d11bb
 
 
 
