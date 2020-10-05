@@ -11,6 +11,9 @@
 
 **Completed Tasks:**
 - Reviewed OPA readme on Deworming
+- ***Weekend Update***:
+  - Worked through Shiny [written tutorials](https://shiny.rstudio.com/tutorial/) (up to Lesson 6)
+
 
 **Work in Progress:**
 - Reviewing DW Shiny App
@@ -33,7 +36,7 @@
 - Can take-up parameter in Research sub-menu of All Assumptions menu exceed 1?
 
 I've worked 4-5 hours this week. Planning to review DW OPA Shiny App more over the weekend/learn about Shiny more in general.
-
+***Weekend Update***: I worked an additional 3-4 hours during the weekend.
 
 
 ## Week 1 (9/25/20)
