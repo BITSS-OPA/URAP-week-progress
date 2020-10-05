@@ -1,7 +1,7 @@
 
 
 
-#Weekly Reports of Progress
+# Weekly Reports of Progress
 
 ## Week 2 (9/28/20)
 
