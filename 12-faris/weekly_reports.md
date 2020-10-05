@@ -1,3 +1,25 @@
+# Week 2 (9/28/2020)
+
+#### Assigned Tasks
+- Review this website: https://libguides.gwu.edu/pubpolicydatabases
+- Create and work on policy report in policy analysis repository
+
+#### Completed Tasks
+- Looked into Biden's clean energy climate change policy
+- Extensively searched for reports but found no concrete opposing side; roadblock.
+- Looked into Sanders' free college policy and found no policy for opposing side
+- Landed on financial transaction tax policy report through above-mentioned policy
+- Identified main groups and summarized findings of their reports
+
+
+<<<<<<< HEAD
+I worked 10 hours during week 2. I will be using a token for next week due to academic overload.
+=======
+I worked 10 hours during week 2.
+>>>>>>> 700335201c6a246dc4e3b0444fde7699507d11bb
+
+
+
 # Week 1 (9/21/2020)
 ## Weekly Reports
 
