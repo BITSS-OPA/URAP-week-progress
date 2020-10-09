@@ -3,13 +3,20 @@
 
 
 ## Week 3 (10/5/20)
--1 hour editing qualtric and add cooperation 
+
+* 1 hour editing qualtric and add cooperation 
+
 link to the new survey:
 https://berkeley.ca1.qualtrics.com/jfe/preview/SV_1LDU3EvS0Rh0N7f?Q_CHL=preview&Q_SurveyVersionID=current
--3 hours reading the supporters reports 
--3 hours finding/reading opponents' reports
--1 hour summarizing them and adding them to my policy analysis 
--1 hour getting more familiar with github/ getting subscription for NYTimes and Wallstreet Journal 
+
+* 3 hours reading the supporters reports 
+
+* 3 hours finding/reading opponents' reports
+
+* 1 hour summarizing them and adding them to my policy analysis 
+
+* 1 hour getting more familiar with github/ getting subscription for NYTimes and Wallstreet Journal 
+
 
 * I worked 9 hours this week 
 
