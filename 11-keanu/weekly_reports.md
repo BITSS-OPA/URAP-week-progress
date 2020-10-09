@@ -2,6 +2,34 @@
 
 
 
+##Week 3 (10/9/20)
+
+**Assigned Tasks**
+- Run/Review DW OPA Shiny App
+- Create branch to propose changes to Shiny App
+
+**Completed Tasks**
+- Reviewed DW OPA Shiny App (broad overview)
+- Created branch to propose changes to Shiny App
+  - Proposed a few changes and submitted a pull request
+
+**WIP**
+- Reviewing DW Shiny App in more detail
+
+**Questions/Notes on DW Shiny App**
+- Why is the y-axis missing in the density plot for the Shiny App?
+- Are there transparent images for both the BITSS and CEGA logos? I think they would look nicer if the current images had clear backgrounds.
+- Should we be more specific regarding the number of times the simulation is run in the Description of Results (i.e. 'x' number of times instead of 'many times')?
+  - Probably could make this reactive as well (adjust to user input in Assumptions tab)
+- Instead of 2 Assumptions tabs: How do we feel about having 1 tab with the Key Assumptions denoted in some way?
+  - I liked the simplicity of the Warren Wealth Tax App (could see everything on 1 screen) and I feel like we can replicate this by having 1 Assumptions tab instead of 2. 
+- Would like to relabel some of the parameters in the app (particularly the various SD parameters) as they feel unclear
+- Feel like some parameters would be better as different types of inputs. (e.g. Teacher Salary input could be a NumericInput object rather than a SliderInput object).
+
+I worked 8-9 hours this week.
+
+
+
 ## Week 2 (10/2/20)
 
 **Assigned Tasks:**
@@ -12,7 +40,6 @@
 - Reviewed OPA readme on Deworming
 - ***Weekend Update***:
   - Worked through Shiny [written tutorials](https://shiny.rstudio.com/tutorial/) (up to Lesson 6)
-
 
 **Work in Progress:**
 - Reviewing DW Shiny App
@@ -36,6 +63,7 @@
 
 I've worked 4-5 hours this week. Planning to review DW OPA Shiny App more over the weekend/learn about Shiny more in general.
 ***Weekend Update***: I worked an additional 3-4 hours during the weekend.
+
 
 
 ## Week 1 (9/25/20)
