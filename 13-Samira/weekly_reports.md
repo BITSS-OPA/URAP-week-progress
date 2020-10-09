@@ -21,10 +21,13 @@ https://berkeley.ca1.qualtrics.com/jfe/preview/SV_1LDU3EvS0Rh0N7f?Q_CHL=preview&
 * I worked 9 hours this week 
 
 My information: 
-Name/last name: Samira Gholami
-Major: Economics
-Expected Graduation Year: Fall 2021
-I'm interested in public policy with a focus on social safety net programs. I'm interested to learn and conduct research to find out how effective these policies are to promote equality.
+* Name/last name: Samira Gholami
+
+* Major: Economics
+
+* Expected Graduation Year: Fall 2021
+
+* I'm interested in public policy with a focus on social safety net programs. I'm interested to learn and conduct research to find out how effective these policies are to promote equality.
 
 
 
