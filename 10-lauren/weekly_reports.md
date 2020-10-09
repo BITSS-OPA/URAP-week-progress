@@ -1,4 +1,18 @@
 # Weekly Reports
+## Week 3 (10/5)
+
+#### Assigned Tasks
+- Proposition 19 Policy Analyses Report
+
+#### Completed Tasks
+- Proposition 19 Policy Analyses Report
+
+#### Questions
+1. The reports by the Legislative Analyst Office of California seem to provide generalizations in their quantifiable evidence. Is it okay to include quantification such as "tens of millions of dollars" rather than exact percentages?
+2. What should we make of both sides citing the same policy reports? I am assuming this is a good thing, and they are interpreting it differently/holding out certain information. 
+
+I worked 9 hours this week.
+
 ## Week 2 (9/28)
 #### Notes on meeting
 - use WSJ or NYT for newspaper
