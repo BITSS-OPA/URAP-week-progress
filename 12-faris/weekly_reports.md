@@ -1,3 +1,24 @@
+# Week 3 (10/05/2020)
+
+#### Assigned Tasks
+- Follow up with comments on original policy discussion
+- Follow up with main groups and policy analyses authors
+- Work on new proposition policy analysis
+
+#### Completed Tasks
+- Corrected issues with original policy analysis based on comments
+- Modified policy analysis to include costs/benefits directly related to original issue (Free College)
+- Followed up with main groups through e-mail/web forms
+- Followed up with policy writers through e-mail
+- Read into individual proposition for next week
+
+#### Questions
+- One of the main groups (Bernie Sanders) replied with an automated e-mail that the campaign is over, and hence, e-mail support is closed. What should we do in this case?
+
+I worked 9 hours during week 3
+
+
+
 # Week 2 (9/28/2020)
 
 #### Assigned Tasks
