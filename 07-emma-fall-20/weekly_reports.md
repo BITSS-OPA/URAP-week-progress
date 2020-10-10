@@ -1,12 +1,29 @@
 # Weekly reports of progress
 
+## Week 7 (10/5)
+
+##### Assigned Tasks
+- follow up with key supporters/opponents
+- draft markdown email template to main interest groups
+- remove template language from report, change benefits/costs to more stable units
+
+##### Completed Tasks
+- follow up with key supporters/opponents; added "followups" section to policy analysis report
+- draft markdown email template, sent to Aleks for review
+- removed template language from report BUT still need to change units of policy estimates
+
+I worked 9 hours during Week 7.
+
+
 ## Week 6 (9/28)
 
 ##### Assigned Tasks
 - create policy analysis report in new repo
+
 ##### Completed Tasks
 - created policy analysis report in new repo
 - assisted other URAPs with track and individual tasks
+
 ##### Questions
 - re: Lauren's report on SF Eviction Moratorium - how do we approach evidence for a policy issue that is still evolving, or that might not have an analytical study yet?
 - re: my report on UBI - unsure if opposition directly cites the PWBM dynamic modeling on UBI report, or if the url I included is referencing a different PWBM report.
