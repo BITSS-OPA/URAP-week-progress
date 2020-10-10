@@ -1,4 +1,24 @@
-### Week 2 Progress (9/25/20)
+### Week 3 Progress (10/9/20)
+
+1) Attended weekly meeting on Monday
+2) Shiny tutorials
+3) Trying to understand how the code produces the shiny app
+    * Worked through the first section, I think I understand exactly how the code creates the document.
+    * What does the "invisible" function actually do? For example: "invisible( list2env(chunk_earnings1(),.GlobalEnv) ). I looked this up online and it didn't       clarify it for me
+4) Told Aleksandra my edits/recommendations for the readme document
+5) Worked on understanding the package situation
+    * Uninstalled all packages
+    * Reproduced the dynamic document
+    * Tried to knit
+    * The packages that I had to manually install were:
+      * bookdown
+      * tidyverse
+      * here
+      * kableExtra
+
+Work time - 8 hours
+
+### Week 2 Progress (10/2/20)
 
 1) Attended weekly meeting on Monday
 2) Kept familiarizing myself with Github
