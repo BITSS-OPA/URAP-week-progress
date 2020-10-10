@@ -9,7 +9,7 @@
 * Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder
 * Completed tutorial for the DD readme and pushed to Tutorials repo
 * Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
-  + Quick estimate: about 300-450/yr
+  + Quick estimate: about 350-500/yr
 * Helped new URAPs with their questions with R and markdown
 
 ***Proposal:***
