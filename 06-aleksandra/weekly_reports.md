@@ -6,8 +6,8 @@
 * 3-5 Suggestions for Shiny App Aesthetics
 
 ***Completed Task:***
-* Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder
-* Completed tutorial for the DD readme and pushed to Tutorials repo
+* Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/.DS_StoreIssues.md)
+* Completed tutorial for the DD readme and pushed to Tutorials repo: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)
 * Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
   + Quick estimate: about 350-500/yr
 * Helped new URAPs with their questions with R and markdown
