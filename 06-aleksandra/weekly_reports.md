@@ -1,3 +1,30 @@
+## Week 8 10/5 - 10/9
+***Assigned Task:***
+* Merge Pull Request and Create Tutorial for .DS_Store Issues
+* Create a tutorial for writing a readme for DD
+* Price Estimate for Shiny App Deployment 
+* 3-5 Suggestions for Shiny App Aesthetics
+
+***Completed Task:***
+* Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder
+* Completed tutorial for the DD readme and pushed to Tutorials repo
+* Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
+  + Quick estimate: about 300-450/yr
+* Helped new URAPs with their questions with R and markdown
+
+***Proposal:***
+* DD: Add the variable definition from readme to the dynamic document? 
+* Shiny App:
+  + In All Assumptions tab, Run Simulation button doesn't serve its original purpose because whenever we change an input below, it automatically updates. 
+  + We could present the median and sd in a better way - use different colors of lines to represent median, and one and two SDs, then use legend on top to match the colors with the name 
+  + The options of the policy estimate input are a bit unclear - could change the label or add helpText() to clarify that the options are different assumptions
+  + Under Key Assumptions tab, add the currency unit to unit costs in new country or say somewhere that we are using USD
+  + Aesthetics in All Assumptions tab:  
+    - In research and GW tab, it looks like the input types are mixed: some are sliderInput and some are numericInput. Would it be better to unify them? 
+    - Use Latex for the greek letter variables for the label of each sliderInput
+    - Group SD with the variable? So that there are not so many SD's lying around. 
+    
+  
 ## Week 7 9/28 - 10/2
 ***Assigned Task:***
 * Create tutorial/readme for the dynamic document
