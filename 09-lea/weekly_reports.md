@@ -1,6 +1,27 @@
 # Weekly Progress Reports
+## Week 3 (10/5)
+#### Assigned Tasks
+- Revise & continue work on policy debate analysis
+    - focus on explaining the policy issue first.   
+    - What about the fossil fuels business as supporters of CC?
+    - Where in IPCC exactly can you find the analysis on CC?
+    - Clarify costs presented by supporters. No costs? Hard to measure? Other?
+    - Try to get the units of benefit (GtCO2) and costs ($) to be the same across supporters and opponents. If not possible explain why.
+- Follow up with Nasir's inquiry into George Washington University's policy research database
 
-## Week 2  (10/28)
+#### Completed Tasks
+- Clarified policy debate/issue
+- Added to list of supporters: Fossil Fuel companies who benefit from CC tech.  
+- Could not find costs presented *by* supporters, but there are risks and costs discussed in the report *presented* by the supporters. Clarified and added some of those.
+- Got units of costs/benefit to be standardized across supporters and opponents in GtC02, but was not able to find a comprehensive estimate for global added C02 due to EOR, only for the United States. Could not find clean, specific economic benefits.
+- After reading through IPCC document extensively and arduously, finally found a citation of a document solely focused on CCS done by the IPCC in 2005. Was too late in process to start reading, but this paper would be a better source of evidence/opposition arguments.  
+- Followed up with GW database inquiry; spoke with agent at GW about possible access grant, who passed me along on email to people who could possibly help. Waiting for reply.
+
+- I worked 10 hours this week.
+
+
+
+## Week 2  (9/28)
 #### Assigned Tasks
 - Find policy debate of interest
 - Find supporting and opposing groups involved in debate
@@ -18,7 +39,7 @@
 - Summarized findings
 
 ##### NOTE:
-- Got too excited, mistakenly forgot about the WSJ/NYT rule for researching these topics; I circled back and found evidence of the debates in NYT, however not as much clear indications of different sides referencing specific research papers, which I could only find on other pages. 
+- Got too excited, mistakenly forgot about the WSJ/NYT rule for researching these topics; I circled back and found evidence of the debates in NYT, however not as much clear indications of different sides referencing specific research papers, which I could only find on other pages.
 
 - I worked 10 hours this week.
 
