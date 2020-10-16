@@ -7,7 +7,11 @@
 
 ***Completed Task:***
 * Completed tasks above
+* Helped Samira with GitHub
 * Contacted sales support for AWS, still waiting for a time to meet 
+
+***Discussion:***
+* In 00_bones.Rmd, should we put result before the approach?
 
 
 ## Week 8 10/5 - 10/9
