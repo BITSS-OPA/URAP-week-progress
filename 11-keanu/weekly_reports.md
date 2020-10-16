@@ -9,8 +9,9 @@
 - Group SD with variables?
 
 **Completed Tasks**
-- Changed some parameters to NumericInput objects
-- Updated images to be transparent (as per Week 3 Notes) and hyperlinked them to respective websites (as per Aleksander's recommendation)
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/59) 
+  - Changed some parameters to NumericInput objects
+  - Updated images to be transparent (as per Week 3 Notes) and hyperlinked them to respective websites (as per Aleksander's recommendation)
 
 **WIP**
 - Trying to figure out what to do with SDs
