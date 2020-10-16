@@ -5,7 +5,7 @@
 * Add variable definition to DD
 * Add helpText() for policy estimates to clarify that the options are different assumptions
 
-***Complete Task:***
+***Completed Task:***
 * Completed tasks above
 * Contacted sales support for AWS, still waiting for a time to meet 
 
