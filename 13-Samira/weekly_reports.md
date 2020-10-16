@@ -1,5 +1,17 @@
 #Weekly Reports of Progress
 
+## Week 4 (10/12/2020)
+
+-1 hour editing qualtric and getting familiar with github
+-1 hour finding what are the other main opponents groups
+-3 hours reading opponents reports 
+-2 hours reading supporters reports 
+-1 hour editing the findings and add them to the my policy analysis report
+- 1 hour collecting information on what people/organizations to send email and contact
+
+
+* I worked 9 hours this week
+
 ## Week 3 (10/05/2020)
 
 -1 hour editing qualtric and add cooperation 
