@@ -22,7 +22,9 @@
 - edited draft of policy analyst follow up email
 
 #### Questions
-- Can we go over how we should reply to the emails from policy analysts in which new information is provided that was not in the report? Do we add this new information to the main benefits and costs even if it is not stated in the report? 
+- Can we go over how we should reply to the emails from policy analysts in which new information is provided that was not in the report? Do we add this new information to the main benefits and costs even if it is not stated in the report?
+
+I worked 9 hours this week. 
 
 ## Week 3 (10/5)
 
