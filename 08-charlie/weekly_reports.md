@@ -1,3 +1,25 @@
+### Week 4 Progress (10/16/20)
+
+1) Attended weekly meeting on Monday
+2) Finished shiny tutorial (last week spent on tutorials)
+
+Assigned Tasks:
+
+1) Add suggestions to 00_bones.rmd
+2) Explain invisible( list2env()) in readme tutorial
+
+Completed Tasks:
+
+1) Worked with Aleksandra on the 00_bones.rmd edits
+    * Typo edits
+    * Question about having results earlier
+    * Fixed rendering issue for one of the equations
+2) Wrote up explanation for "invisible" in the readme file
+    * Not sure where to put it, asked Aleksandra
+    * Will create a pull request this weekend
+
+Work time - 8 hours
+
 ### Week 3 Progress (10/9/20)
 
 1) Attended weekly meeting on Monday
