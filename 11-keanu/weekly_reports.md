@@ -2,6 +2,37 @@
 
 
 
+##Week 4 (10/16/20)
+
+**Assigned Tasks**
+- Change some parameters to be different types of inputs
+- Group SD with variables?
+
+**Completed Tasks**
+- Changed some parameters to NumericInput objects
+- Updated images to be transparent (as per Week 3 Notes) and hyperlinked them to respective websites (as per Aleksander's recommendation)
+
+**WIP**
+- Trying to figure out what to do with SDs
+
+**Questions/Notes**
+- Some parameters could be either Sliders or NumericInput objects. For instance, the costs of treatment and the number of hours worked. I think this is up to personal preference so I left them alone.
+- I also left SDs alone since we're deciding how to handle them.
+- What is the staff_time_so parameter referring to?
+- Are both 'years of treatment' parameters necessary? I think two is redundant
+- Hover over parameters for more information? (I found a library to do this but need for implementation depends on our target audience.)
+  - What/who is our target audience?
+- The SDs Problem:
+  - I looked through the catalog of widgets on the website provided in the earlier meeting and found nothing in regards to grouping two widgets together.
+  - I think if we really think the SDs are cluttering the panels, then we have a couple of options:
+    - A button to reveal a panel for just SDs
+    - A pickerInput object to select which SDs will show
+    - A separate tabPanel that displays only SDs (could be really confusing; my least preferred method)
+
+I worked 10 to 11 hours this week.
+
+
+
 ##Week 3 (10/9/20)
 
 **Assigned Tasks**
@@ -22,7 +53,7 @@
 - Should we be more specific regarding the number of times the simulation is run in the Description of Results (i.e. 'x' number of times instead of 'many times')?
   - Probably could make this reactive as well (adjust to user input in Assumptions tab)
 - Instead of 2 Assumptions tabs: How do we feel about having 1 tab with the Key Assumptions denoted in some way?
-  - I liked the simplicity of the Warren Wealth Tax App (could see everything on 1 screen) and I feel like we can replicate this by having 1 Assumptions tab instead of 2. 
+  - I liked the simplicity of the Warren Wealth Tax App (could see everything on 1 screen) and I feel like we can replicate this by having 1 Assumptions tab instead of 2.
 - Would like to relabel some of the parameters in the app (particularly the various SD parameters) as they feel unclear
 - Feel like some parameters would be better as different types of inputs. (e.g. Teacher Salary input could be a NumericInput object rather than a SliderInput object).
 
