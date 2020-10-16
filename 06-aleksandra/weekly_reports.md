@@ -1,3 +1,15 @@
+## Week 9 10/12-10/16
+***Assigned Task:***
+* Complete the template for 00_bones.rmd
+* Remove run sims button
+* Add variable definition to DD
+* Add helpText() for policy estimates to clarify that the options are different assumptions
+
+***Complete Task:***
+* Completed tasks above
+* Contacted sales support for AWS, still waiting for a time to meet 
+
+
 ## Week 8 10/5 - 10/9
 ***Assigned Task:***
 * Merge Pull Request and Create Tutorial for .DS_Store Issues
