@@ -19,12 +19,12 @@
 - emailed opposing and supporting groups (main emails and directors emails)
 - emailed policy analysts from LAO , Emma helped me with edits
 - learned how to update a forked repository
-- edited draft of policy analyst follow up email
+- edited draft of policy analyst follow up email (half way through because I am still trying to update my fork)
 
 #### Questions
 - Can we go over how we should reply to the emails from policy analysts in which new information is provided that was not in the report? Do we add this new information to the main benefits and costs even if it is not stated in the report?
 
-I worked 9 hours this week. 
+I worked 9 hours this week.
 
 ## Week 3 (10/5)
 
