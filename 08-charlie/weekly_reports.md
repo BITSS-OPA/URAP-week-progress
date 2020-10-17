@@ -17,6 +17,7 @@ Completed Tasks:
 2) Wrote up explanation for "invisible" in the readme file
     * Not sure where to put it, asked Aleksandra
     * Will create a pull request this weekend
+    * WEEKEND EDIT: Added explanation to readme file
 
 Work time - 8 hours
 
