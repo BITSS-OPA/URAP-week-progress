@@ -12,6 +12,8 @@
 
 ***Discussion:***
 * In 00_bones.Rmd, should we put result before the approach?
+* Should we change the options for the policy estimates in Shiny App? 
+* Bug: In the Key Assumption tab, selecting options from the policy estimate box doesn't do anything. But changing the selection in the All Assumptions tab automatically updates the one in Key Assumption as well
 
 
 ## Week 8 10/5 - 10/9
