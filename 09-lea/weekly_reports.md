@@ -2,7 +2,7 @@
 
 ## Week 4 (10/12)
 - Using one of my "tokens" for this week due to academic overload.
-
+ 
 ## Week 3 (10/5)
 #### Assigned Tasks
 - Revise & continue work on policy debate analysis
