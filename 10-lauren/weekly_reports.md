@@ -1,4 +1,31 @@
 # Weekly Reports
+## Week 4 (10/12)
+#### Notes:
+- What are the main outcomes of your policy?
+- Follow up with groups
+- could you specify the amount
+- try to find out who is paying the tax on this new tax (look at the legislative analyst office)
+- follow up for supporters and opponents
+- draft email for policy analyst
+
+#### Assigned Tasks
+- [Prop 19 Report](https://github.com/BITSS-OPA/policy-analysis-registry/blob/master/reports/06-Lauren-proposition-19.md)
+  - find out who exactly is paying the tax
+  - create more certain quantification of data given
+  - follow up with supporters and opponents
+  - draft email for policy analyst (with Emma when you're done)
+
+#### Completed Tasks
+- emailed opposing and supporting groups (main emails and directors emails)
+- emailed policy analysts from LAO , Emma helped me with edits
+- learned how to update a forked repository
+- edited draft of policy analyst follow up email (half way through because I am still trying to update my fork)
+
+#### Questions
+- Can we go over how we should reply to the emails from policy analysts in which new information is provided that was not in the report? Do we add this new information to the main benefits and costs even if it is not stated in the report?
+
+I worked 9 hours this week.
+
 ## Week 3 (10/5)
 
 #### Assigned Tasks
@@ -9,7 +36,7 @@
 
 #### Questions
 1. The reports by the Legislative Analyst Office of California seem to provide generalizations in their quantifiable evidence. Is it okay to include quantification such as "tens of millions of dollars" rather than exact percentages?
-2. What should we make of both sides citing the same policy reports? I am assuming this is a good thing, and they are interpreting it differently/holding out certain information. 
+2. What should we make of both sides citing the same policy reports? I am assuming this is a good thing, and they are interpreting it differently/holding out certain information.
 
 I worked 9 hours this week.
 
