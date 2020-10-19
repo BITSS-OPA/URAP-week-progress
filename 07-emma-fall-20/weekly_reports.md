@@ -1,5 +1,23 @@
 # Weekly reports of progress
 
+## Week 8 (10/12)
+
+##### Assigned Tasks
+- Add to follow up sections in UBI report
+- work with Lauren to draft language for policy analyst email
+	- note: asking questions to get PAs to respond in the most standardized form possible
+- prop 22 report
+
+##### Completed Tasks
+- worked with lauren on [PA email template](https://github.com/BITSS-OPA/policy-analysis-registry/blob/master/template_email.md)
+	- Lauren found an issue with copying and pasting template into an email: BITSS link goes to repo and not BITSS website; the only solution I can think of right now is to add a note in the template_email.md file to copy from the raw file and paste into your email, then edit manually.
+- Added to follow up section in UBI report
+- Worked with Lauren on updating forked repo/ updating Xcode on Mac
+- Started policy analysis report on Prop 22, did not finish
+
+I worked 10 hours during Week 8 + I'll be using my token next week (10/19-10/23).
+
+
 ## Week 7 (10/5)
 
 ##### Assigned Tasks
