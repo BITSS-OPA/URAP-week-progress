@@ -1,4 +1,4 @@
-## Week 4 (Oct 12-16)test
+## Week 4 (Oct 12-16)
 
 - Assigned Tasks
   - Fix the shinyapp tutorial
