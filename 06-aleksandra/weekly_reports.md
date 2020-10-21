@@ -1,3 +1,74 @@
+## Week 9 10/12-10/16
+***Assigned Task:***
+* Complete the template for 00_bones.rmd
+* Remove run sims button
+* Add variable definition to DD
+* Add helpText() for policy estimates to clarify that the options are different assumptions
+
+***Completed Task:***
+* Completed tasks above
+* Helped Samira with GitHub
+* Contacted sales support for AWS, still waiting for a time to meet 
+
+***Discussion:***
+* In 00_bones.Rmd, should we put result before the approach?
+* Should we change the options for the policy estimates in Shiny App? 
+* Bug: In the Key Assumption tab, selecting options from the policy estimate box doesn't do anything. But changing the selection in the All Assumptions tab automatically updates the one in Key Assumption as well
+
+
+## Week 8 10/5 - 10/9
+***Assigned Task:***
+* Merge Pull Request and Create Tutorial for .DS_Store Issues
+* Create a tutorial for writing a readme for DD
+* Price Estimate for Shiny App Deployment 
+* 3-5 Suggestions for Shiny App Aesthetics
+
+***Completed Task:***
+* Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/.DS_StoreIssues.md)
+* Completed tutorial for the DD readme and pushed to Tutorials repo: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)
+* Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
+  + Quick estimate: about 350-500/yr
+* Helped new URAPs with their questions with R and markdown
+
+***Proposal:***
+* DD: Add the variable definition from readme to the dynamic document? 
+* Shiny App:
+  + In All Assumptions tab, Run Simulation button doesn't serve its original purpose because whenever we change an input below, it automatically updates. 
+  + We could present the median and sd in a better way - use different colors of lines to represent median, and one and two SDs, then use legend on top to match the colors with the name 
+  + The options of the policy estimate input are a bit unclear - could change the label or add helpText() to clarify that the options are different assumptions
+  + Under Key Assumptions tab, add the currency unit to unit costs in new country or say somewhere that we are using USD
+  + Aesthetics in All Assumptions tab:  
+    - In research and GW tab, it looks like the input types are mixed: some are sliderInput and some are numericInput. Would it be better to unify them? 
+    - Use Latex for the greek letter variables for the label of each sliderInput
+    - Group SD with the variable? So that there are not so many SD's lying around. 
+    
+  
+## Week 7 9/28 - 10/2
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Review shiny deployment for previous case study, and propose new options
+
+***Completed Task:***
+* Completed tutorial/readme for the DD
+* Reviewed instructions for previous shy deployment
+* Proposal for alternatives [here](https://github.com/AleksandraMaa/Notes/blob/master/proposal.md)
+  + Best free option for now: Shiny Proxy - enterprise version of shiny server, and allows for multiple Shiny Apps for multiple users
+* Helped new URAPs with their questions with R and markdown
+
+***Questions:***
+* Quick call to discuss the proposal before URAP meeting?
+
+
+## Week 6 9/21-9/25
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Fix formats for the new URAPs' weekly reports
+
+***Completed Task:***
+* Fixed formats for weekly reports 
+
+***Work in Progress:***
+* Completed the body of the tutorial, still working on the appendix 
 
 ## Week 5 9/14 - 9/18
 ***Assigned Task:***
