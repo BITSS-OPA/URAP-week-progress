@@ -1,7 +1,5 @@
 ## Week 4 (Oct 12-16)
 
-test
-
 - Assigned Tasks
   - Fix the shinyapp tutorial
   - Use Latex for the greek letter variables for the label of each sliderInput
