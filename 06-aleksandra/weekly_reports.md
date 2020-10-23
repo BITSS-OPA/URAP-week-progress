@@ -26,22 +26,23 @@
   + Changed the maximum height for the top fluidRow() from 300px to 400px
 
 
-* Tried to fix tag for the main figure, but failed (5-6 hrs)
-  + I was actually stuck on this for a good bit and tried all sorts of methods I found on Stackoverflow. Unfortunately, none of them worked well. Got really close once, but still didn't work out.
-  + Current edit: removed caption and changed it to a section header  
-
-
 * Researched RStudio Connect for computing capsule services (1-2 hrs)
   + Not much finding though - we could buy RStudio Connect AWS instead of RStudio Connect to save money [Reference link](https://support.rstudio.com/hc/en-us/articles/360021856973-FAQ-for-RStudio-Connect-AWS)
   + But could also consult the solutions architect about this next week
 
-* Fixed the figure update bug (2-3 hrs)
-  + It was because I wrapped the code into a function but it just ended up calling the same set of policy estimates. Therefore, whenever you update All Assumptions, you update everything.
-  + Fix: reverted it but still kept all the new updates
 * Fixed the resolution for the generated figure (1 hr): [Reference link](https://climate-cms.org/plots,/r,/rstudio/2019/03/06/generating-print-quality-plots.html) - use dpi
 * Added variable definition to DD (1 hr)
 * Worked with Ella on using Latex for the Greek letter variables (1-2 hr)
 * Write up this report (1 hr)
+
+***Work in Progress:***
+* Tried to fix tag for the main figure, but failed (5-6 hrs)
+  + I was actually stuck on this for a good bit and tried all sorts of methods I found on Stackoverflow. Unfortunately, none of them worked well. Got really close once, but still didn't work out.
+  + Current edit: removed caption and changed it to a section header  
+
+* Fixed the figure update bug (2-3 hrs)
+  + I've started looking at it and tried a couple of reasons but still haven't fixed it yet
+
 
 
 
