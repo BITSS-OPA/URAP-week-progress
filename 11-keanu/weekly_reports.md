@@ -20,7 +20,7 @@
 **Questions/Notes**
 - I think it would be great if we could expand the tab panels to fill the entire side bar. I think it would look better if it did so.
 - When picking some policy estimates (different models), the show/hide all SDs button does not work. I think this is an issue with picking which parameters to display based on user selection in the server file. I could take a pass at it if no one wants to.
-- Came across interesting part of package that I used for popovers. I think it could be useful in various applications, linking it [here](https://ebailey78.github.io/shinyBS/docs/Modals.html#bsModal) for future reference
+- Came across interesting part of package that I used for popovers. I think it could be useful in various applications, linking it  for future reference
 
 I worked 8 to 9 hours this week.
 
