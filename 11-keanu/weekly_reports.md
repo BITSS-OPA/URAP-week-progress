@@ -1,5 +1,3 @@
-
-
 #Weekly Reports of Progress
 
 
