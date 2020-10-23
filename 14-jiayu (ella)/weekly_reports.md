@@ -1,3 +1,22 @@
+## Week 5 (Oct 19 - 23) 
+
+**Note: I will use a token next week.**
+- Assigned Tasks
+  - Continue to work on using Latex for the greek letter variables for the label of each sliderInput
+  - Possible improvement of the shinyapp: when users scroll up the sliderInputs, it is easier to use if the "data" "research" and "GW" tabs stay there static.
+  - Reposition Equations
+- Completed Tasks
+  - Attended weekly meeting
+  - Had a meeting with Aleksandra to solve GitHub issues
+  - Repositioned equations
+- Work in Progress
+  - Use Latex notation for labels
+    - **Question: When I replaced lambda 1_1_new, lambda 1_2_new, and lambda 1_3_new with Lambda_KLPS, the graph errored. So I named each of them lambda_KLPS1, etc. What should I do about them?**
+  - Found a possible solution to make tabs static on the internet, but couldn't succeffully make the code work in our shinyapp. I need more time to degug.
+
+I worked for about 9.5 hours during week 5.
+
+
 ## Week 4 (Oct 12-16)
 
 - Assigned Tasks
