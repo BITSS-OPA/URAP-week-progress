@@ -1,15 +1,39 @@
-#Weekly Reports of Progress
+# Weekly Reports of Progress
 
 
 
-##Week 4 (10/16/20)
+## Week 5 (10/23/20)
+
+**Assigned Tasks**
+- Implement button to show/hide all SDs
+- Lookup hover over parameters for more information
+
+**Completed Tasks**
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/65)
+  - Implemented button to show/hide all SDs
+  - Implemented two hover over examples
+
+**WIP**
+- Implementing the rest of the hover over parameters.
+  - I'm going to wait for the next meeting so we can discuss where we want these hover overs to appear and what we want to display in them.
+
+**Questions/Notes**
+- I think it would be great if we could expand the tab panels to fill the entire side bar. I think it would look better if it did so.
+- When picking some policy estimates (different models), the show/hide all SDs button does not work. I think this is an issue with picking which parameters to display based on user selection in the server file. I could take a pass at it if no one wants to.
+- Came across interesting part of package that I used for popovers. I think it could be useful in various applications, linking it [here](https://ebailey78.github.io/shinyBS/docs/Modals.html#bsModal) for future reference
+
+I worked 8 to 9 hours this week.
+
+
+
+## Week 4 (10/16/20)
 
 **Assigned Tasks**
 - Change some parameters to be different types of inputs
 - Group SD with variables?
 
 **Completed Tasks**
-- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/59) 
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/59)
   - Changed some parameters to NumericInput objects
   - Updated images to be transparent (as per Week 3 Notes) and hyperlinked them to respective websites (as per Aleksander's recommendation)
 
@@ -34,7 +58,7 @@ I worked 10 to 11 hours this week.
 
 
 
-##Week 3 (10/9/20)
+## Week 3 (10/9/20)
 
 **Assigned Tasks**
 - Run/Review DW OPA Shiny App
