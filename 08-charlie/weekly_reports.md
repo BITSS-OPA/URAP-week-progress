@@ -1,3 +1,18 @@
+### Week 5 Progress (10/23/20)
+
+1) Attended weekly meeting on Monday
+
+Assigned Tasks:
+
+1) Create readme for Shiny App
+
+Completed Tasks:
+
+1) Created a very rough draft for the readme
+    * Questions I had are in the readme
+    * Would be great to get someone to provide edits
+
+
 ### Week 4 Progress (10/16/20)
 
 1) Attended weekly meeting on Monday
