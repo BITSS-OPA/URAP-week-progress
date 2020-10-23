@@ -1,4 +1,5 @@
 #Weekly Reports of Progress
+
 ## Week 5 (10/23/20)
 
 **Assigned Tasks**
