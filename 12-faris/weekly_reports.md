@@ -1,3 +1,23 @@
+# Week 5 (10/19/2020)
+
+#### Assigned Tasks
+- Add follow-up updates to reports
+- Final edits on initial report
+- Work on Proposition 21
+
+#### Completed Tasks
+- Finished final updates on initial report
+- Identified main groups on Prop 21
+- Benefits/Costs of supporting policy report
+- Did not finish opposing policy report
+
+#### Questions
+- Which policy report do we choose if there are ~5 cited by a main group?
+
+
+I worked 10 hours during week 5.
+
+
 # Week 3 (10/05/2020)
 
 #### Assigned Tasks
