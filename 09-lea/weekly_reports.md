@@ -1,6 +1,12 @@
 # Weekly Progress Reports
+## Week 5 (10/19)
+#### Assigned Tasks
+- Clean up Carbon Capture Storage report (5 hours)
+- Do policy analysis report for CA Prop 16 (5 hours)
+I worked 10 hours this week.
+
 ## Week 4 (10/12)
-- Using one of my "tokens" for this week due to academic overload. 
+- Using one of my "tokens" for this week due to academic overload.
 
 ## Week 3 (10/5)
 #### Assigned Tasks
