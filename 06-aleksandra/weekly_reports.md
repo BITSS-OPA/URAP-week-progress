@@ -1,3 +1,123 @@
+## Week 10 10/19-10/23
+***Assigned Task:***
+* Work with Ella on using Latex for the Greek letter variables
+* Add variable definition to DD
+* Update helpText() so that it's interactive
+* Fix Tag of the main figure in DD
+* Improve resolution of final figure in results section
+* Fix the figure update bug
+* Look up RStudio Connect for computing capsule services
+
+***Completed Task:***
+* Worked with Ella and Lauren on GitHub Issues (5-6 hrs)
+  + Zoomed with both people to provide solutions for their forked repository
+  + Updated the tutorial on the forked repo
+
+* Followed up with AWS Sales and researched on CPU and RAM for R Apps (6 hrs)
+  + First month - 4 vCPUs & after that 1 vCPU to maintain the app
+    - My reasoning is that it only takes 20 seconds to render app / run simulations. 10-100 users per day means about 10 per hour, but it's pretty unlikely that they will run the simulations at the exact same time. Plus, single threading doesn't mean users will be entirely blocked out from the app - it just means it might take longer for them to run the app. [Reference link](https://www.r-bloggers.com/2014/03/shiny-server-open-source-edition-solution-for-cpu-bound-apps/)
+    - 4 vCPUs: 128.77 USD, 8 vCPUs: 391.28 USD
+
+  + Meeting with Account Manager and Solutions Architect next Wednesday @ 2pm (30mins)
+  + **?** What's our budget? AWS asked during the meeting but I wasn't sure
+
+* Added dynamic helpText() to the shiny app (4-5 hrs)
+  + Used `conditionalPanel()` to do the dynamic text
+  + Changed the maximum height for the top fluidRow() from 300px to 400px
+
+
+* Researched RStudio Connect for computing capsule services (1-2 hrs)
+  + Not much finding though - we could buy RStudio Connect AWS instead of RStudio Connect to save money [Reference link](https://support.rstudio.com/hc/en-us/articles/360021856973-FAQ-for-RStudio-Connect-AWS)
+  + But could also consult the solutions architect about this next week
+
+* Fixed the resolution for the generated figure (1 hr): [Reference link](https://climate-cms.org/plots,/r,/rstudio/2019/03/06/generating-print-quality-plots.html) - use dpi
+* Added variable definition to DD (1 hr)
+* Worked with Ella on using Latex for the Greek letter variables (1-2 hr)
+* Write up this report (1 hr)
+
+***Work in Progress:***
+* Tried to fix tag for the main figure, but failed (5-6 hrs)
+  + I was actually stuck on this for a good bit and tried all sorts of methods I found on Stackoverflow. Unfortunately, none of them worked well. Got really close once, but still didn't work out.
+  + Current edit: removed caption and changed it to a section header  
+
+* Fixed the figure update bug (2-3 hrs)
+  + I've started looking at it and tried a couple of reasons but still haven't fixed it yet
+
+
+
+
+
+## Week 9 10/12-10/16
+***Assigned Task:***
+* Complete the template for 00_bones.rmd
+* Remove run sims button
+* Add variable definition to DD
+* Add helpText() for policy estimates to clarify that the options are different assumptions
+
+***Completed Task:***
+* Completed tasks above
+* Helped Samira with GitHub
+* Contacted sales support for AWS, still waiting for a time to meet
+
+***Discussion:***
+* In 00_bones.Rmd, should we put result before the approach?
+* Should we change the options for the policy estimates in Shiny App?
+* Bug: In the Key Assumption tab, selecting options from the policy estimate box doesn't do anything. But changing the selection in the All Assumptions tab automatically updates the one in Key Assumption as well
+
+
+## Week 8 10/5 - 10/9
+***Assigned Task:***
+* Merge Pull Request and Create Tutorial for .DS_Store Issues
+* Create a tutorial for writing a readme for DD
+* Price Estimate for Shiny App Deployment
+* 3-5 Suggestions for Shiny App Aesthetics
+
+***Completed Task:***
+* Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/.DS_StoreIssues.md)
+* Completed tutorial for the DD readme and pushed to Tutorials repo: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)
+* Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
+  + Quick estimate: about 350-500/yr
+* Helped new URAPs with their questions with R and markdown
+
+***Proposal:***
+* DD: Add the variable definition from readme to the dynamic document?
+* Shiny App:
+  + In All Assumptions tab, Run Simulation button doesn't serve its original purpose because whenever we change an input below, it automatically updates.
+  + We could present the median and sd in a better way - use different colors of lines to represent median, and one and two SDs, then use legend on top to match the colors with the name
+  + The options of the policy estimate input are a bit unclear - could change the label or add helpText() to clarify that the options are different assumptions
+  + Under Key Assumptions tab, add the currency unit to unit costs in new country or say somewhere that we are using USD
+  + Aesthetics in All Assumptions tab:  
+    - In research and GW tab, it looks like the input types are mixed: some are sliderInput and some are numericInput. Would it be better to unify them?
+    - Use Latex for the greek letter variables for the label of each sliderInput
+    - Group SD with the variable? So that there are not so many SD's lying around.
+
+
+## Week 7 9/28 - 10/2
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Review shiny deployment for previous case study, and propose new options
+
+***Completed Task:***
+* Completed tutorial/readme for the DD
+* Reviewed instructions for previous shy deployment
+* Proposal for alternatives [here](https://github.com/AleksandraMaa/Notes/blob/master/proposal.md)
+  + Best free option for now: Shiny Proxy - enterprise version of shiny server, and allows for multiple Shiny Apps for multiple users
+* Helped new URAPs with their questions with R and markdown
+
+***Questions:***
+* Quick call to discuss the proposal before URAP meeting?
+
+
+## Week 6 9/21-9/25
+***Assigned Task:***
+* Create tutorial/readme for the dynamic document
+* Fix formats for the new URAPs' weekly reports
+
+***Completed Task:***
+* Fixed formats for weekly reports
+
+***Work in Progress:***
+* Completed the body of the tutorial, still working on the appendix
 
 ## Week 5 9/14 - 9/18
 ***Assigned Task:***
@@ -14,7 +134,7 @@
 
 ***Work in Progress:***
 * Create tutorial/readme for dynamic documents
-  + Wrote detailed tutorial up to 2.1.1.1 
+  + Wrote detailed tutorial up to 2.1.1.1
   + Met with Emma twice throughout the week to discuss / Q & A
   + TO-DO:
     - Complete Appendix A & B
