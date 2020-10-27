@@ -1,6 +1,43 @@
 # Weekly Reports
+
+## Week 6 (10/26)
+#### Notes
+- qualtrics survey
+- make sure that everything is updated on Github
+
+#### Assigned Tasks
+- revise the Qualtrics survey and add in a follow up portion, make sure it follows the narrative that we use
+- add information about supporting, opponent and other groups (provide guidance that we can find in the instructions) and add examples
+- add checkbox (was it confirmed by other proponents) and provide if no, then add more information about
+
+#### Completed Tasks
+
+## Week 5 (10/19)
+#### Notes
+- follow up with Aleksandra about updating a forked repository (by the end of the day)
+- "Due to higher costs, LAO reports sees that this will increase movers from 10 to 60,000" change to specify
+- create consistency in numbers change to 10-70 in range
+- change the numbers of "200-400" million vs. "300" million
+- make sure units are in sync throughout
+- for follow ups on policy analysis (provide that they use this as the main analysis , show confirmation of the most up to date analysis)
+- edit template --> we would translate these "ranges" to these numbers (for example 10 to 70 million per year) and
+
+#### Assigned Tasks
+- look at the other URAP policy examples
+ - update the proposition 19 policy analysis registry
+ - edit template for email to policy analysts
+ - in instructions 1 , Fernando added information in step 4 --> add to translated range
+ - revise the Qualtrics survey and add in a follow up portion, make sure it follows the narrative that we use
+ - add information about supporting, opponent and other groups (provide guidance that we can find in the instructions) and add examples
+ - add checkbox (was it confirmed by other proponents) and provide if no, then add more information about
+
+#### Completed Tasks
+- update proposition 19 policy analysis
+- edit template for email to policy analysts
+- *used token as I was only able to do a few hours*
+
 ## Week 4 (10/12)
-#### Notes:
+#### Notes
 - What are the main outcomes of your policy?
 - Follow up with groups
 - could you specify the amount
