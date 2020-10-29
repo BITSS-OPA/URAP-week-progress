@@ -1,4 +1,14 @@
 # Weekly Progress Reports
+## Week 6 (10/26)
+#### Assigned Tasks
+- Carry out follow-up tasks for Proposition 16 policy debate
+#### Completed Tasks
+- Emailed both interest groups
+  - for this purpose, worked with Faris to create a new email form/template for emailing interest groups when there is research cited that does not have an accessible or attached analysis
+    - Supporting group responded to email
+- Emailed analyst on supporting side; researching him and finding his contact information took a great amount of time; he responded and is following up soon with files from the research brief
+
+I worked 10 hours this week.
 ## Week 5 (10/19)
 #### Assigned Tasks
 - Clean up Carbon Capture Storage report (5 hours)
