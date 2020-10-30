@@ -1,5 +1,17 @@
 #Weekly Reports of Progress
 
+## Week 5 (10/26/2020)
+- 2 hours reading about proposition 15, it's history and consequences
+- 1 hour identified supporting and opposing groups
+- 2 hours finding policy analysis for supporting and opposing group 
+- 5 hours reading the policy reports, choosing the most cited ones, and identified costs and benefits in each one. 
+
+* I worked 10 hours this week. 
+
+
+
+
+
 ## Week 4 (10/12/2020)
 
 -1 hour editing qualtric and getting familiar with github
