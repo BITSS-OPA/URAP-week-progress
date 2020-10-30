@@ -1,3 +1,22 @@
+# Week 6 (10/26/2020)
+
+#### Assigned Tasks
+- Follow up with Prop 21 groups/authors
+- Draft a template for conditional requests
+- Work on Proposition 14
+- Edit Qualtrics Survey
+
+#### Completed Tasks
+- Followed up with Prop 21 sides
+- Drafted template but couldn't pull
+- Set up prop 14 for next week
+- Couldn't access Qualtrics
+
+#### Questions
+- I will need help accessing Qualtrics page and pulling most updated version of template markdown
+
+I worked 9 hours during Week 6
+
 # Week 5 (10/19/2020)
 
 #### Assigned Tasks
