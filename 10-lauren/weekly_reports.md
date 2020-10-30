@@ -7,10 +7,13 @@
 
 #### Assigned Tasks
 - revise the Qualtrics survey and add in a follow up portion, make sure it follows the narrative that we use
-- add information about supporting, opponent and other groups (provide guidance that we can find in the instructions) and add examples
-- add checkbox (was it confirmed by other proponents) and provide if no, then add more information about
+- run the survey to make sure it works
 
 #### Completed Tasks
+- qualtrics survey edits
+- ran tested qualtrics survey with Proposition 19
+
+I worked 9 hours this week.
 
 ## Week 5 (10/19)
 #### Notes
