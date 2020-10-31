@@ -1,3 +1,31 @@
+## Week 11 10/26 - 10/30
+***Assigned Task:***
+* Fix the figure update bug
+* Remove CEA, RCEA related code and text
+* Help Charlie with the readme file
+* Look into CSS for dynamic documents and shiny app
+
+***Completed Task:***
+* Fixed the bug, removed CEA & RCEA, and explored CSS
+* Met with AWS
+
+***Proposal/Bugs***:
+* For `show equations`, when you click the checkbox multiple times, it renders the source code and not in Latex style
+* CSS for dynamic document
+  + Scrollable code block for the blocks where we set values to variables - [Reference link](https://bookdown.org/yihui/rmarkdown-cookbook/html-scroll.html)
+  + Tabs to present main results in DD - [Reference link](https://holtzy.github.io/Pimp-my-rmd/#tabs_for_sub-chapters)
+  + Our plots could be a little bit more stylish with ggplot() - [Reference link](http://www.sthda.com/english/wiki/ggplot2-density-plot-quick-start-guide-r-software-and-data-visualization)
+  + **Theme package** `prettydoc` -[Reference link](https://statr.me/2016/08/creating-pretty-documents-with-the-prettydoc-package/)
+  + Header/footer for BITSS logo - [Reference link](https://holtzy.github.io/R-Markdown-Parallax/)
+  + Preset CSS template for Markdown - [Reference link](http://markdowncss.github.io/)
+
+* CSS for shiny app
+  + Theme for shiny apps: [Reference link](https://rstudio.github.io/shinythemes/)
+  + Our plots could be a little bit ore stylish with ggplot() - [Reference link](http://www.sthda.com/english/wiki/ggplot2-density-plot-quick-start-guide-r-software-and-data-visualization)
+  + Example we could refer to with css file:
+    - [Reference link 1](https://shiny.rstudio.com/gallery/masters.html)
+    - [Reference link 2](https://shiny.rstudio.com/gallery/dublin-transport.html)
+
 ## Week 10 10/19-10/23
 ***Assigned Task:***
 * Work with Ella on using Latex for the Greek letter variables
