@@ -1,3 +1,50 @@
+#Weekly Reports of Progress
+
+## Week 5 (10/26/2020)
+- 2 hours reading about proposition 15, it's history and consequences
+- 1 hour identified supporting and opposing groups
+- 2 hours finding policy analysis for supporting and opposing group 
+- 5 hours reading the policy reports, choosing the most cited ones, and identified costs and benefits in each one. 
+
+* I worked 10 hours this week. 
+
+
+
+
+
+## Week 4 (10/12/2020)
+
+-1 hour editing qualtric and getting familiar with github
+-1 hour finding what are the other main opponents groups
+-3 hours reading opponents reports 
+-2 hours reading supporters reports 
+-1 hour editing the findings and add them to the my policy analysis report
+- 1 hour collecting information on what people/organizations to send email and contact
+
+
+* I worked 9 hours this week
+
+## Week 3 (10/05/2020)
+
+-1 hour editing qualtric and add cooperation 
+link to the new survey:
+https://berkeley.ca1.qualtrics.com/jfe/preview/SV_1LDU3EvS0Rh0N7f?Q_CHL=preview&Q_SurveyVersionID=current
+-3 hours reading the supporters reports 
+-3 hours finding/reading opponents' reports
+-1 hour summarizing them and adding them to my policy analysis 
+-1 hour getting more familiar with github/ getting subscription for NYTimes and Wallstreet Journal 
+
+* I worked 9 hours this week 
+
+My information: 
+Name/last name: Samira Gholami
+Major: Economics
+Expected Graduation Year: Fall 2021
+I'm interested in public policy with a focus on social safety net programs. I'm interested to learn and do research to find out how effective these policies are to promote equality.
+ 
+
+
+
 
 # Weekly Reports of Progress
 
@@ -57,6 +104,10 @@ My information:
 
 
 I worked 9 hours this week.
+
+
+
+
 
 ## Week 1 (9/25/20)
 
