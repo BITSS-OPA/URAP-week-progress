@@ -1,4 +1,20 @@
-# Weekly Reports of Progress. 
+# Weekly Reports of Progress
+
+
+## Week 6 (10/30/20)
+
+**Assigned Tasks**
+- Implement hover over text for parameters
+
+**Completed Tasks**
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/67)
+  - Implemented hover over text for parameters
+
+**Questions/Notes**
+- Missing info/incomplete info for some of the parameters. Sent an email to Fernando regarding this.
+
+I worked 8 to 9 hours this week.
+
 
 
 ## Week 5 (10/23/20)
