@@ -1,5 +1,25 @@
 # Weekly reports of progress
 
+## Week 10 (10/26)
+
+##### Assigned Tasks
+
+- UBI policy analyst follow up
+- Prop 22 report
+- Email template
+
+##### Completed Tasks
+- UBI policy analyst follow up
+	- Roosevelt Institute author responded -  I calculated benefits/costs using percentages and 2009 and Aug 2017 GDP but they didn't match up exactly with the figure in their policy analysis; Michalis said he will follow up with related files next week.
+- small edit on email template
+- Prop 22 report: completed Policy Estimates section. Most opposing groups didn't cite a study, but one group cited a UC Berkeley study that was cited in several news articles discussing Prop 22.
+
+I worked 9 hours during Week 10.
+
+## Week 9 (10/19)
+
+Used token; did not work during Week 9.
+
 ## Week 8 (10/12)
 
 ##### Assigned Tasks
@@ -7,7 +27,7 @@
 - work with Lauren to draft language for policy analyst email
 	- note: asking questions to get PAs to respond in the most standardized form possible
 - prop 22 report
-
+	-
 ##### Completed Tasks
 - worked with lauren on [PA email template](https://github.com/BITSS-OPA/policy-analysis-registry/blob/master/template_email.md)
 	- Lauren found an issue with copying and pasting template into an email: BITSS link goes to repo and not BITSS website; the only solution I can think of right now is to add a note in the template_email.md file to copy from the raw file and paste into your email, then edit manually.
