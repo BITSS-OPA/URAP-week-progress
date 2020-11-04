@@ -1,4 +1,5 @@
-# Weekly Reports of Progress
+test 
+#Weekly Reports of Progress
 
 ## Week 5 (10/26/2020)
 - 2 hours reading about proposition 15, it's history and consequences
