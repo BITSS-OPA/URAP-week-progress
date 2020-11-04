@@ -1,11 +1,25 @@
+## Week 12 11/2 - 11/6
+***Assigned Tasks:***
+* Fix the `show equations` bug
+* Try out ggplot() themes  
+* Go over GitHub issues with Samira
+* Try out 4-6 different CSS files/packages and recommend 1-2 final
+* Modify certain subcomponents of the CSS to customize our app
+* Learn more CSS syntax  
+
+***Completed Tasks:***
+* Fixed the `show equations` bug
+  + Deleted `\\label{eq: }`. It gets reprocessed every time we click `show equations`. Each label name can only be used once, which is why after the first click there will be a render error. - [Reference link](https://physics.meta.stackexchange.com/questions/5396/using-labels-with-mathjax)
+
+
 ## Week 11 10/26 - 10/30
-***Assigned Task:***
+***Assigned Tasks:***
 * Fix the figure update bug
 * Remove CEA, RCEA related code and text
 * Help Charlie with the readme file
 * Look into CSS for dynamic documents and shiny app
 
-***Completed Task:***
+***Completed Tasks:***
 * Fixed the bug, removed CEA & RCEA, and explored CSS
 * Met with AWS
 
@@ -27,7 +41,7 @@
     - [Reference link 2](https://shiny.rstudio.com/gallery/dublin-transport.html)
 
 ## Week 10 10/19-10/23
-***Assigned Task:***
+***Assigned Tasks:***
 * Work with Ella on using Latex for the Greek letter variables
 * Add variable definition to DD
 * Update helpText() so that it's interactive
@@ -36,7 +50,7 @@
 * Fix the figure update bug
 * Look up RStudio Connect for computing capsule services
 
-***Completed Task:***
+***Completed Tasks:***
 * Worked with Ella and Lauren on GitHub Issues (5-6 hrs)
   + Zoomed with both people to provide solutions for their forked repository
   + Updated the tutorial on the forked repo
@@ -76,13 +90,13 @@
 
 
 ## Week 9 10/12-10/16
-***Assigned Task:***
+***Assigned Tasks:***
 * Complete the template for 00_bones.rmd
 * Remove run sims button
 * Add variable definition to DD
 * Add helpText() for policy estimates to clarify that the options are different assumptions
 
-***Completed Task:***
+***Completed Tasks:***
 * Completed tasks above
 * Helped Samira with GitHub
 * Contacted sales support for AWS, still waiting for a time to meet
@@ -94,13 +108,13 @@
 
 
 ## Week 8 10/5 - 10/9
-***Assigned Task:***
+***Assigned Tasks:***
 * Merge Pull Request and Create Tutorial for .DS_Store Issues
 * Create a tutorial for writing a readme for DD
 * Price Estimate for Shiny App Deployment
 * 3-5 Suggestions for Shiny App Aesthetics
 
-***Completed Task:***
+***Completed Tasks:***
 * Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/.DS_StoreIssues.md)
 * Completed tutorial for the DD readme and pushed to Tutorials repo: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)
 * Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
