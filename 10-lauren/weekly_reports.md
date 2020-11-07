@@ -1,4 +1,27 @@
 # Weekly Reports
+## Week 7 (11/2)
+#### Notes
+- try filling out many BETA forms for ACRE - reproduction attempt
+- response yes to 1.6
+- if you have user experience issues https://github.com/BITSS/ACRE_platform_issues
+
+#### Assigned Tasks
+- update qualtrics policy analyst section
+- ACRE Tasks for URAP  
+- reproduce the report sent over email https://www.socialsciencereproduction.org
+
+#### Completed Tasks
+- updated qualtrics OPA survey
+- democracy_roads.pdf ACRE reproduction from document sent
+- read through ACRE guidelines
+- began my own attempt at reproduction of paper
+    - read the paper itself
+    - filled out scoping portion
+
+#### Questions
+- it seems that the reproduction documents sent over via email are not updated with steps after the scoping step, should we be adding those in from our own knowledge of looking up the research papers?
+
+I worked 10 hours this week.
 
 ## Week 6 (10/26)
 #### Notes
