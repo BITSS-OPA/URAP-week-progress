@@ -1,4 +1,30 @@
-### Week 6 Progress (10/23/20)
+### Week 7 Progress (11/6/20)
+
+1) Attended weekly meeting on Monday
+2) Realised that my code was not updated, fixed that 
+3) Deleted shinyapp readme that was in the code folder, not the shiny app folder
+
+Assigned Tasks:
+
+1) Edit readme for shiny app
+   * Add new section for server.R
+   * Edit slider section
+   * Discuss how the different documents interact
+
+Completed Tasks:
+
+1) Edited readme for shiny app
+   * Added a walkthrough about how to add/delete sliders
+   * Created server.R walkthrough (thank you Aleksandra!)
+   * Made a simple chart for the last section (relationship between the documents)
+2) Worked more on understanding how server.R, ui.R, and all_analysis.R interact with each other
+
+To-Do:
+
+1) Go more in-depth with the function explanations
+2) Add an image to the readme (need Fernando's help/permission I believe)
+
+### Week 6 Progress (10/30/20)
 
 
 **Have had a lot of midterms this week and last, so I am using one of my off-weeks this week**
