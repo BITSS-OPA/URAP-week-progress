@@ -1,5 +1,24 @@
 # Weekly reports of progress
 
+## Week 11 (11/2)
+
+##### Assigned Tasks
+- add UBI policy analyst followup info
+- Prop 22 outreach
+- enter survey response on platform, report issues
+
+##### Completed Tasks
+- Assisted other URAPs
+- Prop 22 outreach: emailed supporting and opposing groups, policy analysts
+	- Response from opposition policy analyst: directed to author's [working paper](https://irle.berkeley.edu/files/2020/10/Pay-Passengers-and-Profits.pdf), which may have the same figures as the paper cited by the opposition _and_ policy estimates more consistent with the supporting policy analysis
+	- Not sure if this paper is cited by an opposition group yet, or if it will be cited in the future, because the proposition passed
+- Entered survey response on platform, reported issues
+- Added follow up info for UBI report
+ 	- did not get to adding precise quantity from Roosevelt Institute dataset, but can complete at a later time.
+
+I worked 10 hours during Week 11.
+
+
 ## Week 10 (10/26)
 
 ##### Assigned Tasks
