@@ -1,3 +1,29 @@
+### Week 6 Progress (10/23/20)
+
+
+**Have had a lot of midterms this week and last, so I am using one of my off-weeks this week**
+
+1) Attended weekly meeting on Monday
+
+Assigned Tasks:
+
+1) Edit readme for shiny app
+   * Add new section for server.R
+   * Add a walkthrough about how to add/delete sliders
+   * Move to shiny app folder and rename
+
+Completed Tasks:
+
+1) Edit readme for shiny app
+   * Added a walkthrough about how to add/delete sliders
+   * Moved to shiny app folder and rename
+2) Worked on understanding how server.R, ui.R, and all_analysis.R interact with each other
+
+To-Do:
+
+1) Add new section for server.R (probably help from Aleksandra)
+
+
 ### Week 5 Progress (10/23/20)
 
 1) Attended weekly meeting on Monday

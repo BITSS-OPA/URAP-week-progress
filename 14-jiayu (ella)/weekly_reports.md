@@ -1,3 +1,7 @@
+## Week 6 (Oct 26 - 30)
+
+**Note: I will use the second token next week.**
+
 ## Week 5 (Oct 19 - 23) 
 
 **Note: I will use a token next week.**

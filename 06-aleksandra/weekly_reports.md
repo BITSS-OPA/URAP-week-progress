@@ -1,5 +1,52 @@
+## Week 12 11/2 - 11/6
+***Assigned Tasks:***
+* Fix the `show equations` bug
+* Try out ggplot() themes  
+* Go over GitHub issues with Samira
+* Try out 4-6 different CSS files/packages and recommend 1-2 final
+* Modify certain subcomponents of the CSS to customize our app
+* Learn more CSS syntax  
+
+***Completed Tasks:***
+* Fixed the `show equations` bug
+  + Deleted `\\label{eq: }`. It gets reprocessed every time we click `show equations`. Each label name can only be used once, which is why after the first click there will be a render error. - [Reference link](https://physics.meta.stackexchange.com/questions/5396/using-labels-with-mathjax)
+* Went over GitHub issues with Samira
+* Learned CSS syntax, tried themes, played with ggplot2 package, and did customization to the .css file.
+  + See the current version in the branch `CSSaesthetics` - [Branch Link](https://github.com/BITSS-OPA/opa-deworming/tree/CSSaesthetics)
+  + Email, twitter, fb linked icon for footer?
+`#c1dced`
+
+
+## Week 11 10/26 - 10/30
+***Assigned Tasks:***
+* Fix the figure update bug
+* Remove CEA, RCEA related code and text
+* Help Charlie with the readme file
+* Look into CSS for dynamic documents and shiny app
+
+***Completed Tasks:***
+* Fixed the bug, removed CEA & RCEA, and explored CSS
+* Met with AWS
+
+***Proposal/Bugs***:
+* For `show equations`, when you click the checkbox multiple times, it renders the source code and not in Latex style
+* CSS for dynamic document
+  + Scrollable code block for the blocks where we set values to variables - [Reference link](https://bookdown.org/yihui/rmarkdown-cookbook/html-scroll.html)
+  + Tabs to present main results in DD - [Reference link](https://holtzy.github.io/Pimp-my-rmd/#tabs_for_sub-chapters)
+  + Our plots could be a little bit more stylish with ggplot() - [Reference link](http://www.sthda.com/english/wiki/ggplot2-density-plot-quick-start-guide-r-software-and-data-visualization)
+  + **Theme package** `prettydoc` -[Reference link](https://statr.me/2016/08/creating-pretty-documents-with-the-prettydoc-package/)
+  + Header/footer for BITSS logo - [Reference link](https://holtzy.github.io/R-Markdown-Parallax/)
+  + Preset CSS template for Markdown - [Reference link](http://markdowncss.github.io/)
+
+* CSS for shiny app
+  + Theme for shiny apps: [Reference link](https://rstudio.github.io/shinythemes/)
+  + Our plots could be a little bit ore stylish with ggplot() - [Reference link](http://www.sthda.com/english/wiki/ggplot2-density-plot-quick-start-guide-r-software-and-data-visualization)
+  + Example we could refer to with css file:
+    - [Reference link 1](https://shiny.rstudio.com/gallery/masters.html)
+    - [Reference link 2](https://shiny.rstudio.com/gallery/dublin-transport.html)
+
 ## Week 10 10/19-10/23
-***Assigned Task:***
+***Assigned Tasks:***
 * Work with Ella on using Latex for the Greek letter variables
 * Add variable definition to DD
 * Update helpText() so that it's interactive
@@ -8,7 +55,7 @@
 * Fix the figure update bug
 * Look up RStudio Connect for computing capsule services
 
-***Completed Task:***
+***Completed Tasks:***
 * Worked with Ella and Lauren on GitHub Issues (5-6 hrs)
   + Zoomed with both people to provide solutions for their forked repository
   + Updated the tutorial on the forked repo
@@ -48,13 +95,13 @@
 
 
 ## Week 9 10/12-10/16
-***Assigned Task:***
+***Assigned Tasks:***
 * Complete the template for 00_bones.rmd
 * Remove run sims button
 * Add variable definition to DD
 * Add helpText() for policy estimates to clarify that the options are different assumptions
 
-***Completed Task:***
+***Completed Tasks:***
 * Completed tasks above
 * Helped Samira with GitHub
 * Contacted sales support for AWS, still waiting for a time to meet
@@ -66,13 +113,13 @@
 
 
 ## Week 8 10/5 - 10/9
-***Assigned Task:***
+***Assigned Tasks:***
 * Merge Pull Request and Create Tutorial for .DS_Store Issues
 * Create a tutorial for writing a readme for DD
 * Price Estimate for Shiny App Deployment
 * 3-5 Suggestions for Shiny App Aesthetics
 
-***Completed Task:***
+***Completed Tasks:***
 * Resolved the .DS_Store Issues and pushed the tutorial to Tutorials repo under GitHub folder: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/GitHub/.DS_StoreIssues.md)
 * Completed tutorial for the DD readme and pushed to Tutorials repo: [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Tutorial%20for%20DD%20readme.md)
 * Price estimate report [here](https://github.com/AleksandraMaa/Notes/blob/master/shinyAppDeployment/AWSPriceEstimate.md)
