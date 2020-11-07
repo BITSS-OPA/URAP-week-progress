@@ -1,5 +1,24 @@
 # Weekly Reports of Progress
 
+## Week 7 (11/6/29)
+
+**Assigned Tasks**
+- Attempt to condense one_run function of DD
+
+**Completed Tasks**
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/69)
+  - Created 3 examples of using apply functions to condense one_run function in DD
+
+**WIP**
+- Condensing the rest of the one_run function (if we want to)
+- Finishing up hover over text for parameters (still need info)
+
+**Questions/Notes**
+- Waiting for feedback on three examples to see if we want to condense one_run further
+
+I worked 6-7 hours this week. I'll be using my first token next week (11/9 - 11/13 (Week 8))
+
+
 
 ## Week 6 (10/30/20)
 
