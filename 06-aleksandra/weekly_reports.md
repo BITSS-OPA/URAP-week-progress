@@ -10,6 +10,11 @@
 ***Completed Tasks:***
 * Fixed the `show equations` bug
   + Deleted `\\label{eq: }`. It gets reprocessed every time we click `show equations`. Each label name can only be used once, which is why after the first click there will be a render error. - [Reference link](https://physics.meta.stackexchange.com/questions/5396/using-labels-with-mathjax)
+* Went over GitHub issues with Samira
+* Learned CSS syntax, tried themes, played with ggplot2 package, and did customization to the .css file.
+  + See the current version in the branch `CSSaesthetics` - [Branch Link](https://github.com/BITSS-OPA/opa-deworming/tree/CSSaesthetics)
+  + Email, twitter, fb linked icon for footer?
+`#c1dced`
 
 
 ## Week 11 10/26 - 10/30
