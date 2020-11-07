@@ -1,4 +1,18 @@
 # Weekly Progress Reports
+## Week 7 (11/1)
+#### Assigned tasks
+- Read through and familiarize self with ACRE guidelines
+- Re-enter PDF of reproduction sent by professor, go through the protocol to test the Technology
+- Note inconsistencies and inefficiencies
+- Enter in issues and fixes in Github
+- Begin to read through paper if have time
+#### Completed tasks
+- First four tasks listed above, and started to read through paper
+- Also found a reproduction package available for the paper despite one not being listed in the report
+- noted errors and issues
+- because the rest of the pdf was sent at 11 and had other academic commitments, could not finish entering in the report.  
+
+
 ## Week 6 (10/26)
 #### Assigned Tasks
 - Carry out follow-up tasks for Proposition 16 policy debate
