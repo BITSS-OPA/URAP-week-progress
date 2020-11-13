@@ -1,3 +1,32 @@
+### Week 8 Progress (11/13/20)
+
+1) Attended weekly meeting on Monday
+2) Worked on readme 
+3) Deleted shinyapp readme that was in the code folder
+
+Assigned Tasks:
+
+1) Edit readme for shiny app
+   * Add introduction at top
+   * Fix formatting of functions/file names using ``
+   * Discuss how the different documents interact w/chart
+
+Completed Tasks:
+
+1) Edited readme for shiny app
+   * Added introduction
+   * Fixed typos
+   * Made a simple chart for the last section (relationship between the documents)
+
+Questions:
+
+- Should the names of files be the only thing with `()` (i.e. `ui.R`) or should it also contains functions (i.e. `sim.data`)? Currently I have it for both.
+- Should more explanation be added to the last section?
+
+To Do:
+
+- Can make more edits on readme, but also feel ready to move on to new work
+
 ### Week 7 Progress (11/6/20)
 
 1) Attended weekly meeting on Monday
