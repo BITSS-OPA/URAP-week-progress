@@ -13,6 +13,7 @@
   - Found multiple reproduction packages!
 - Still working on personal reproduction attempt
 - So far, no pressing issues with the process
+I worked 10 hours this week. 
 
 
 ## Week 7 (11/1)
