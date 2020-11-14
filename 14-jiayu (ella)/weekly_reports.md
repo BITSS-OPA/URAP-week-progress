@@ -1,6 +1,15 @@
-## Week 6 (Oct 26 - 30)
+## Week 8 (Nov 9 - 13)
 
-**Note: I will use the second token next week.**
+- Assigned Tasks
+  - Design Web banner for this [website](https://www.socialsciencereproduction.org)
+  - If possible, use R to generate a colored path on the tree --- the idea of "garden of forking paths"
+- Completed Tasks
+  - Learned how to interact with R and plots in RStudio
+  - Worked with Aleksandra to come up with a proposal for visual [here](https://drive.google.com/file/d/1MyrUTtGlClDZyherV-P7WY4z6qhgXGws/view?usp=sharing)
+    - **Question: Should we only use R code to produce the colored path? If so, Aleksandra and I are planning to work on the code next week.**
+    - **Note: We used Canva to generate the banner and digital tools to color the path.**
+
+I worked for about 6 hours during week 8.
 
 ## Week 5 (Oct 19 - 23) 
 
