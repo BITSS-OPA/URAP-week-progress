@@ -1,3 +1,15 @@
+# Week 13 11/9 - 11/13
+***Completed Tasks:***
+* Worked on the "Executive Summary" style for DD
+* Updated ggplot for Shiny
+* Emailed Charlie about observeEvent
+* Updated .gitignore, added comments to the .css style
+* Reproduced the tree image, worked with Ella, and emailed Fernando and Aleks about the proposal for the website
+* Completed tasks from Fernando
+
+***Bug:***
+* `output: html_document` conflicts with `bookdown:html_document2`, and breaks the css style, so I commented it out. 
+
 ## Week 12 11/2 - 11/6
 ***Assigned Tasks:***
 * Fix the `show equations` bug
