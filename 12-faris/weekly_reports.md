@@ -1,3 +1,15 @@
+# Week 8 (11/09/2020)
+
+#### Assigned Tasks
+- Input data into platform
+- Find user issues
+
+#### Completed Tasks
+- Tested platform for issues
+- Added user issues that were not already there
+
+I worked 8 hours during week 8.
+
 # Week 7 (11/02/2020)
 
 #### Assigned Tasks
