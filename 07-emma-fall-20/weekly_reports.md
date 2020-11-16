@@ -1,5 +1,23 @@
 # Weekly reports of progress
 
+## Week 12 (11/10)
+
+##### Assigned tasks
+- Reproduce assigned paper
+- Add an auxiliary files folder to policy analysis registry repo
+- Update reports with follow up info
+
+##### Completed Tasks
+- Assisted other URAPs  
+- Added auxiliary files folder for data obtained from follow up interactions
+	- commented a draft format for recording data
+- Updated Prop 22 report
+	- LATER: read through opposition working paper on AB5, update policy estimates to correspond with supporting policy estimates
+- Read assigned paper and identified major claims; will continue with reproduction next week.
+
+I worked 9 hours during Week 12.
+
+
 ## Week 11 (11/2)
 
 ##### Assigned Tasks
