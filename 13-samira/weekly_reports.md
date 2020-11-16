@@ -1,5 +1,19 @@
 # Weekly Reports of Progress
 
+
+## Week 8 (11/09/2020) 
+
+* Assigned Task: 
+- initiate the reproduction package of the paper on my own 
+
+* Completed Tasks: 
+
+- Read the assigned paper "Institution and Behavior: Experimental Evidence on the Effects of Democracy" 
+- Reviewed ACRE guidelines 
+- Started my attempt to reproduce the paper and filled out the scoping section 
+
+* I worked 9 hours this week 
+
 ## Week 7 (11/02/2020) 
 
 - followed up with opponents and supporters of Proposition 15, using the template email for follow up. 
