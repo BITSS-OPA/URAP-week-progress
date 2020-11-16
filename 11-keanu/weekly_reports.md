@@ -1,6 +1,14 @@
 # Weekly Reports of Progress
 
-## Week 7 (11/6/29)
+
+
+## Week 8 (11/13/20)
+
+I used my first token this week. I'll be using my second token next week (11/16 - 11/20 (Week 9))
+
+
+
+## Week 7 (11/6/20)
 
 **Assigned Tasks**
 - Attempt to condense one_run function of DD
