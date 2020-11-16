@@ -1,4 +1,21 @@
 # Weekly Progress Reports
+## Week 8 (11/8)
+#### Assigned Tasks:
+- Continue inputting original survey from PDF into the database
+- Finish with copying down the other person's reproduction attempt
+- Begin project of own reproduction attempt
+- Keep noting issues with the ACRE process/software
+#### Completed Tasks:
+- Finished inputting original survey data
+- Began reproduction attempt
+  - Taking longer than expected due to the density and jargon of the paper
+  - Was trying to read more materialistically but found it difficult due to certain specifics of the study
+  - Found multiple reproduction packages!
+- Still working on personal reproduction attempt
+- So far, no pressing issues with the process
+I worked 10 hours this week. 
+
+
 ## Week 7 (11/1)
 #### Assigned tasks
 - Read through and familiarize self with ACRE guidelines
