@@ -1,4 +1,24 @@
 # Weekly Reports
+
+## Week 8 (11/10)
+
+#### Assigned Tasks
+- complete the first reproduction and submit
+- only put issues in if they are not already mentioned, if mentioned already, add comments  
+- finishing reading paper
+- complete my own ACRE reproduction
+
+#### Completed Tasks
+- finished reproduction from qualtrics survey
+- finished reading paper and appendix
+- finished scoping and worked on assessment section of my reproduction
+
+I worked for nine hours this week. 
+
+#### Questions
+- For the creating a repository section in the assessment, should we just add in the known reproduction folder if it exist, such as an ICPSR url?
+- if the claims are shown in the same table under different panels can we create two separate claims for them on the reproduction?
+
 ## Week 7 (11/2)
 #### Notes
 - try filling out many BETA forms for ACRE - reproduction attempt
