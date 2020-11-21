@@ -1,7 +1,8 @@
 ## Week 14 11/16 - 11/20
 ***Completed Tasks:***
-* Deployed deworming project on binder and wrote a tutorial on how to do so
+* Deployed deworming project on binder and wrote a tutorial on how to do so: [link](https://github.com/BITSS-OPA/Tutorials/blob/master/Binder/Deploy%20OPA%20on%20Binder.md); also updated readme file 
 * Watched tutorials, tried out some of the formats proposed in the videos, and wrote proposal below
+
 
 ***Work in Progress:***
 * Still figuring out how to move TOC to the top (tried a couple of methods, not turning out well)
