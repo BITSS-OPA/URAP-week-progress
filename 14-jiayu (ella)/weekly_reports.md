@@ -1,3 +1,23 @@
+## Week 9 (Nov 16 - 20)
+
+- Assigned Tasks
+  - Finish banner design
+  - Read through ACRE guideline
+  - Input assigned reproductions
+  - Write a bulleted list in the description of the shiny app
+- Completed Tasks
+  - Attended weekly meeting
+  - Designed banner
+    - I have emailed the files.
+  - Added bullet points to shinyapp description
+  - Re-added greek letters to slider inputs' labels
+  - Read assigned reports
+  - Read ACRE guidelines
+- Work in Progress
+  - Input assigned reproductions
+  
+I worked for about 12 hours during week 9.
+
 ## Week 8 (Nov 9 - 13)
 
 - Assigned Tasks
