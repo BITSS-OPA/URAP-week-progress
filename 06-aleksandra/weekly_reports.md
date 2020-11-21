@@ -1,4 +1,38 @@
-# Week 13 11/9 - 11/13
+## Week 14 11/16 - 11/20
+***Completed Tasks:***
+* Deployed deworming project on binder and wrote a tutorial on how to do so
+* Watched tutorials, tried out some of the formats proposed in the videos, and wrote proposal below
+
+***Work in Progress:***
+* Still figuring out how to move TOC to the top (tried a couple of methods, not turning out well)
+* Read ACRE guidelines but haven't filled out the inputs yet
+
+***Proposals:***  
+
+[Yihui's Demos](https://www.youtube.com/watch?v=qLEkUjxk7e8&ab_channel=RStudio)
+* [6:05-6:50] Change light/dark mode along with the operating system
+* [9:23-9:43] Word output -> add header for BITSS
+* [16:50-17:40] flexdashboard (alternative to bookdown)
+  + Would look nice and solve the TOC problem but might take up a lot of time to change to that format
+* [19:05-19:33] bookdown::gitbook
+  + Also bookdown format but very flexible - I wasn't able to knit it successfully though despite trying for a good bit   
+
+[Pins, Plumber, Shiny](https://www.youtube.com/watch?v=SwjlcYC_Iqw&ab_channel=RStudio)
+* Pins: used to store small, reused, current data objects so that we don't need to recreate it again (collaborative within a project group, kind of like GitHub)
+  + Could be useful to store the simulation data?
+---------
+*I don't have any proposals for input below but wrote down a summary anyways*  
+[Effective Visualizations](https://www.youtube.com/watch?v=BEnLLQaUyzQ&ab_channel=RStudio)
+* Spatial encoding is the most effective: positioning marks on a common scale (scatter plot) or using length of some sort of mark (bar chart)
+* Filled framed line charts make the shape of the line pop up (we are already doing this so yay!)
+* [15:00-17:27]Implicit error: measurement error that is inherent to a given dataset but not explicitly defined or accounted for in the dataset.
+  + Could fit our project, maybe different countries have different ways of counting different variables, and different research papers use different assumptions (already addressed in the DD)
+  + Use Annotation method on the plot
+
+[Golem Package](https://www.youtube.com/watch?v=SE6TnUV4nC4&ab_channel=RStudio)
+* I'm not sure if this package is that useful - it's almost like an automation tool that allows you to generate production-grade shiny apps easily. The video talked about its structure and how to use it, but since our shiny app is written already, I'm not sure if we need to rebuild it with this package.
+
+## Week 13 11/9 - 11/13
 ***Completed Tasks:***
 * Worked on the "Executive Summary" style for DD
 * Updated ggplot for Shiny
@@ -8,7 +42,7 @@
 * Completed tasks from Fernando
 
 ***Bug:***
-* `output: html_document` conflicts with `bookdown:html_document2`, and breaks the css style, so I commented it out. 
+* `output: html_document` conflicts with `bookdown:html_document2`, and breaks the css style, so I commented it out.
 
 ## Week 12 11/2 - 11/6
 ***Assigned Tasks:***
