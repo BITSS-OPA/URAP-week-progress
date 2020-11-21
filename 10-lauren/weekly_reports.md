@@ -13,7 +13,7 @@
 - downloaded and began my own reproduction estimations in stata
 - researched stata errors (ran into many issues that hindered the beginning of running my estimations)
 - used do file editor for data preparation using excel and stata files
-- began my own [Github Repository](https://github.com/laurenpeterson1/KenyaRoadsandDemocracy_Reproduction)
+- began my own [Github Repository](https://github.com/laurenpeterson1/KenyaRoadsandDemocracy_Reproduction) for Kenya Road Building and Democracy by Robin Burgess Et. Al
 
 I worked 10 hours this week. 
 
