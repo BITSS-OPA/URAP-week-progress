@@ -2,6 +2,10 @@
 
 
 
+## Week 9 (11/20/20)
+
+I used my second token this week.
+
 ## Week 8 (11/13/20)
 
 I used my first token this week. I'll be using my second token next week (11/16 - 11/20 (Week 9))
