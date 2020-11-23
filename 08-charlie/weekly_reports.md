@@ -1,3 +1,37 @@
+### Week 9 Progress (11/20/20)
+
+1) Attended weekly meeting on Monday
+
+Assigned Tasks:
+
+1) Improvement on wealth tax shiny app
+2) Read through ACRE guidelines
+3) Input results from previous reproductions
+4) Shiny app description
+
+Completed Tasks:
+
+1) Read through ACRE guidelines, better understood ACRE
+    * In the guidelines, there is different formatting for lists (bullet points, numbers, letters). All three are used with little to no consistency. For example...
+      * In 2.3.1, there are bullet points with a sublist of letters
+      * In 3.1.1, there are numbers with a sublist of numbers
+      * In chapter 6, there are numbers with a sublist of letters
+      * In 6.1, there are numbers with a sublist of bullet points
+      * These are just examples of inconsistencies with listing, are these inconsistencies intentional? Should I fix them?
+    * Not sure what the table/chart at the beginning is trying to show?
+2) Inputted the results of one reproduction
+3) Read through wealth tax and thought of improvements for shiny app
+    * Problem with spacing on shiny app
+    * Move credits
+    * Maybe not thick lines?
+
+To Do:
+
+1) Input the results of another reproduction
+2) Input my own reproduction
+3) Shiny app description edit
+4) Wealth tax shiny app readme
+
 ### Week 8 Progress (11/13/20)
 
 1) Attended weekly meeting on Monday
