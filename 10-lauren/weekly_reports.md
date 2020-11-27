@@ -1,4 +1,16 @@
 # Weekly Reports
+## Week 10 (11/23)
+
+#### Assigned Tasks
+- finish my reproduction of the claims (only reproduce for the claims you are working on) only relevant tables
+- for location , it should be from the github path (from my repository on github that is where it should be accessed)
+
+#### Completed Tasks
+- helped other URAPs with reproduction help
+- worked on the assessment portion of reproduction
+- (will work more over the weekend)
+
+I worked 5 hours this week.
 
 ## Week 9 (11/16)
 
@@ -15,7 +27,7 @@
 - used do file editor for data preparation using excel and stata files
 - began my own [Github Repository](https://github.com/laurenpeterson1/KenyaRoadsandDemocracy_Reproduction) for Kenya Road Building and Democracy by Robin Burgess Et. Al
 
-I worked 10 hours this week. 
+I worked 10 hours this week.
 
 ## Week 8 (11/10)
 
