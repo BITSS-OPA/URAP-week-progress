@@ -1,5 +1,17 @@
 # Weekly reports of progress
 
+## Week 14 (11/23)  
+
+##### Assigned tasks
+- Continue with reproduction
+
+##### Completed tasks
+- Continued working on reproduction, should be able to complete next week.  
+- Finished entering responses from previous reproducers.  
+
+I worked 5 hours during Week 14.
+
+
 ## Week 13 (11/16)
 
 ##### Assigned tasks
