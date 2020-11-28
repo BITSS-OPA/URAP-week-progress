@@ -1,3 +1,23 @@
+### Week 10 Progress (11/27/20)
+
+Assigned Tasks:
+
+1) Input results from previous reproductions
+2) Shiny app readme formatting
+
+Completed Tasks:
+
+1) Inputted the results of one reproduction
+2) Formatting changes to shiny app readme
+   * Was asked to reference `knitr::purl("code/05_final_opa.Rmd", "code/shiny_app/all_analysis.R")`
+         * But this was commented out? Or is my version not up to date?
+3) Read through welfare tax shiny app
+
+To Do:
+
+1) Input my own reproduction
+2) Make wealth tax shiny app improvements
+
 ### Week 9 Progress (11/20/20)
 
 1) Attended weekly meeting on Monday
