@@ -1,3 +1,15 @@
+# Week 10
+
+#### Assigned Tasks
+- Feed missing files into platform tree builder
+- Continue working on reproduction
+
+#### Completed Tasks
+- Inputted data from files
+- Continued testing platform for issues
+
+I worked 5 hours during Week 10
+
 # Week 8 (11/09/2020)
 
 #### Assigned Tasks
