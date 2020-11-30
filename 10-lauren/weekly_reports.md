@@ -1,4 +1,33 @@
 # Weekly Reports
+## Week 10 (11/23)
+
+#### Assigned Tasks
+- finish my reproduction of the claims (only reproduce for the claims you are working on) only relevant tables
+- for location , it should be from the github path (from my repository on github that is where it should be accessed)
+
+#### Completed Tasks
+- helped other URAPs with reproduction help
+- worked on the assessment portion of reproduction
+- (will work more over the weekend)
+
+I worked 5 hours this week.
+
+## Week 9 (11/16)
+
+#### Assigned Tasks
+- write issues on the reproduction package to clarify  for people that they have to start with other reproduction for revised reproduction
+- download all ICPSR data and then create my own files and run the code
+- use stata to run the code (if it doesn't run then add improvements, paper level and display item improvements)
+
+#### Completed Tasks
+- reviewed comments on issues
+- attended URAP round robin
+- downloaded and began my own reproduction estimations in stata
+- researched stata errors (ran into many issues that hindered the beginning of running my estimations)
+- used do file editor for data preparation using excel and stata files
+- began my own [Github Repository](https://github.com/laurenpeterson1/KenyaRoadsandDemocracy_Reproduction) for Kenya Road Building and Democracy by Robin Burgess Et. Al
+
+I worked 10 hours this week.
 
 ## Week 8 (11/10)
 
@@ -13,11 +42,12 @@
 - finished reading paper and appendix
 - finished scoping and worked on assessment section of my reproduction
 
-I worked for nine hours this week. 
 
 #### Questions
 - For the creating a repository section in the assessment, should we just add in the known reproduction folder if it exist, such as an ICPSR url?
 - if the claims are shown in the same table under different panels can we create two separate claims for them on the reproduction?
+
+I worked for nine hours this week.
 
 ## Week 7 (11/2)
 #### Notes

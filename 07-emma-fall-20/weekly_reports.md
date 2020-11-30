@@ -1,5 +1,30 @@
 # Weekly reports of progress
 
+## Week 14 (11/23)  
+
+##### Assigned tasks
+- Continue with reproduction
+
+##### Completed tasks
+- Continued working on reproduction, should be able to complete next week.  
+- Finished entering responses from previous reproducers.  
+
+I worked 5 hours during Week 14.
+
+
+## Week 13 (11/16)
+
+##### Assigned tasks
+- Continue with reproduction
+- Entering responses from previous reproducers: still have to add datasets from 11/13 email
+
+##### Completed tasks
+- Started reproduction, created [GH repo](https://github.com/em-ng21/railroads-of-the-raj) for author's reproduction package (downloaded from AEA [here](https://www.aeaweb.org/articles?id=10.1257/aer.20101199)) but may need to reorganize later in improvements
+	- Completed up to assessment stage
+
+I worked 9.5 hours during Week 13.
+
+
 ## Week 12 (11/10)
 
 ##### Assigned tasks

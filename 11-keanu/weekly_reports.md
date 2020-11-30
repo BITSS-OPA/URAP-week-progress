@@ -2,6 +2,26 @@
 
 
 
+## Week 10 (11/27/20)
+
+**Assigned Tasks**
+- Separate NPV numbers from the line in the density plot
+- Fix links in assigned issue
+
+**Completed Tasks**
+- Submitted a [pull request](https://github.com/BITSS-OPA/opa-deworming/pull/80)
+  - Separated NPV numbers/text from the line in the density plot
+    - Sometimes not separated. Sometimes hits the vertical line in the density plot.
+  - Fixed links in assigned issue
+
+I worked 3-4 hours this week.
+
+
+
+## Week 9 (11/20/20)
+
+I used my second token this week.
+
 ## Week 8 (11/13/20)
 
 I used my first token this week. I'll be using my second token next week (11/16 - 11/20 (Week 9))

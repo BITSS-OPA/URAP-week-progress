@@ -1,12 +1,39 @@
 # Weekly Reports of Progress
 
+## Week 10 (11/23/2020) 
+
+### Assigned Task: 
+- work on the reproduction package and report any user issue
+
+### Completed Tasks: 
+
+- contacted Lauren to learn about gitbub, downloading data, and using STATA
+- Downloaded data from ICPSR and practiced working with STATA 
+- imported missing information from previous reproduction attempts 
+ * I have never worked with STATA, although Lauren helped me a lot but I'm a bit lost on how to utilize it for the reproduction process. It would be great to have a conevrsation with Fernando next week to go over my reproduction attempt and see if I'm on the right track. 
+
+* I worked 5 hours this week 
+
+## Week 9 (11/16/2020) 
+
+### Assigned Task: 
+- work on the reproduction package and any report user issue
+
+### Completed Tasks: 
+
+- reread the assigned paper "Institution and Behavior: Experimental Evidence on the Effects of Democracy" 
+- Continued my attempt to reproduce the paper 
+- reviewed the issues already reported to see if I can add anything else. 
+
+
+* I worked 9 hours this week 
 
 ## Week 8 (11/09/2020) 
 
-* Assigned Task: 
+### Assigned Task: 
 - initiate the reproduction package of the paper on my own 
 
-* Completed Tasks: 
+### Completed Tasks: 
 
 - Read the assigned paper "Institution and Behavior: Experimental Evidence on the Effects of Democracy" 
 - Reviewed ACRE guidelines 
