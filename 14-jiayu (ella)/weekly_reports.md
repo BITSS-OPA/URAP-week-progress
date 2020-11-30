@@ -1,3 +1,14 @@
+## Week 10 (Nov 23 - 24)
+
+- Assigned Tasks
+  - Continue working on reproductions
+- Completed Tasks
+  - Inputted one reproduction 
+- Work in Progress
+  - Do my own reproduction based on the same paper
+  
+I worked for about 2.5 hours during week 10.
+
 ## Week 9 (Nov 16 - 20)
 
 - Assigned Tasks
