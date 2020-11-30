@@ -1,4 +1,21 @@
 # Weekly Progress Reports
+## Week 10 (11/23)
+#### Assigned Tasks:
+- Work on own reproduction attempt and open issues when necessary
+
+#### Completed Tasks:
+- Read through most of paper and understood claims
+- Began reproduction attempt
+- No issues needed to open
+
+I worked 5 hours this week (Thanksgiving, did not submit report on Friday due to the holiday).
+
+I need about 2 more hours to finish with my own reproduction, and then I will be done!
+
+
+## Week 9: Used second token week
+
+
 ## Week 8 (11/8)
 #### Assigned Tasks:
 - Continue inputting original survey from PDF into the database
@@ -13,7 +30,7 @@
   - Found multiple reproduction packages!
 - Still working on personal reproduction attempt
 - So far, no pressing issues with the process
-I worked 10 hours this week. 
+I worked 10 hours this week.
 
 
 ## Week 7 (11/1)
