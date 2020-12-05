@@ -1,3 +1,12 @@
+## Week 16 11/30 - 12/4
+
+***Completed Tasks:***
+* Issues that Fernando assigned
+
+***Work in Progress:***
+* Reorganize the helptext into a table (trying to pass the variable value into the table)
+
+
 ## Week 15 11/23 - 11/25
 
 ***Completed Tasks:***
