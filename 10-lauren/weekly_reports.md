@@ -1,4 +1,20 @@
 # Weekly Reports
+
+## Week 11 (11/30)
+
+#### Assigned Tasks
+- rewrite claim to be more specific with results and the populations within the scoping portion
+- look at the assessment page for the other reproduction
+- write issue for the old reproduction using example data that was not supposed to be shown
+- be prepared to show the claim, the diagram tree, the level of reproducibility
+
+#### Completed Tasks
+- finished all sections of first reproduction
+- helped with Stata issues for other URAPs
+- read and scoping for Hendren and Sprung-Keyser 2020
+
+I worked 9 hours this week. 
+
 ## Week 10 (11/23)
 
 #### Assigned Tasks
