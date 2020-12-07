@@ -1,3 +1,19 @@
+## Week 11 (Nov 30 - Dec 4)
+
+- Assigned Tasks
+  - Do my own reproduction on the same paper
+  - Help Aleksandra if needed
+- Completed Tasks
+  - Attended weekly meeting 
+  - Read through ACRE guidelines again more in-depth 
+  - Completed survey 1 of my production
+- Work in Progress
+  - The rest of my production
+  - **Note: I haven’t recieved the link to the second survey yet.**
+  - **Question: Do I need to input my production? As for now I have inputted the Scoping part (All survey 1 contents).**
+  
+I worked for about 6 hours during week 11.
+
 ## Week 10 (Nov 23 - 24)
 
 - Assigned Tasks
