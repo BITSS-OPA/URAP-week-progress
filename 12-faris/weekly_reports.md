@@ -1,3 +1,13 @@
+# Week 11
+
+#### Assigned Tasks
+- Finish working on own reproduction and continue with any open issues
+
+#### Completed Tasks
+- Nearly done with own reproduction (Will be done by weekend)
+
+I worked 9 + 2 (Weekend) hours during Week 11
+
 # Week 10
 
 #### Assigned Tasks
