@@ -2,6 +2,17 @@
 
 
 
+## Week 11 (12/4/20)
+
+**Assigned Tasks**
+- Reorganize components in the app
+
+**Completed Tasks**
+- Reorganized components in the app
+
+I worked 5-6 hours this week.
+
+
 ## Week 10 (11/27/20)
 
 **Assigned Tasks**
