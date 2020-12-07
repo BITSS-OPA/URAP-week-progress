@@ -1,4 +1,14 @@
 # Weekly Progress Reports
+## Week 11 (12/1)
+#### Assigned Tasks:
+- Finish Reproduction attempt
+- open ACRE platform issues if and when necessary
+- if have time, try to do second reproduction attempt
+
+#### Completed Tasks:
+- Finished first reproduction attempt
+- started reading through second paper for reproduction practice, but did not finish. 
+
 ## Week 10 (11/23)
 #### Assigned Tasks:
 - Work on own reproduction attempt and open issues when necessary
