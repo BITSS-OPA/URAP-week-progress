@@ -1,3 +1,22 @@
+### Week 11 Progress (12/04/20)
+
+Assigned Tasks:
+
+1) Created my own reproduction
+2) Shiny app readme updates/formatting
+3) Updated names of reproductions
+
+Completed Tasks:
+
+1) Fixed my previous input of someone else's reproduction (made a minor error)
+2) Created my own reproduction
+   * Read the paper
+   * Inputted my reproduction online
+2) Formatting changes to shiny app readme
+   * Added explanation of `knitr::purl("code/05_final_opa.Rmd", "code/shiny_app/all_analysis.R")`
+   * Can't figure out how to have the readme show a photoshop file
+3) Updated names of reproductions
+
 ### Week 10 Progress (11/27/20)
 
 Assigned Tasks:
