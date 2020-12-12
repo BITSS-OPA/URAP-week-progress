@@ -1,5 +1,19 @@
 # Weekly Reports of Progress
 
+## Week 11 (11/30/2020) 
+
+### Assigned Task: 
+- finish working on the reproduction package and report any user issue
+- start reproduction on another paper
+
+### Completed Tasks: 
+
+- worked with Lauren to learn more about STATA 
+- Finished my reproduction attempt on "Institution and Behavior: Experimental Evidence on the Effects of Democracy" 
+- started a new reproduction attempt on "Methods Matter: p-Hacking and Publication Bias in Causal Analysis in Economics", finished Scoping section. 
+
+* I worked 10 hours this week 
+
 ## Week 10 (11/23/2020) 
 
 ### Assigned Task: 
