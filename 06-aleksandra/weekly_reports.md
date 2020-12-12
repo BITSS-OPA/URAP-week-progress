@@ -1,3 +1,29 @@
+## Week 17 12/7 - 12/11
+
+***Completed Tasks:***
+* investigate resizing for large screens
+* organize sources
+* clean up all names in DD and app:
+* all sources finish _so
+
+***Ongoing Tasks:***
+* Stuck at all-steps code chunk: trying to wrap it around a chunk_xxx() format but keeps breaking
+
+***Questions/Notes:***
+* Add sources/info:
+  * lambda1_new_sd_so # Add source
+  * tax_so # Add INFO!
+
+* delta_ed_par_so <- 1 Are they place holders?
+* delta_ed_ext_par_so <- 1 Are they place holders?
+* costs2_ea_in: not all shiny app inputs need to be from sources right?
+
+* switched data and research because research variables use data variables to calculate. ex. ex_rate_2018
+
+* chunk analytic code chunks:
+  + setup code chunk does it need to be in the form of chunk_xxx ?
+
+
 ## Week 16 11/30 - 12/4
 
 ***Completed Tasks:***
