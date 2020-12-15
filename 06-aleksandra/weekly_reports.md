@@ -5,7 +5,7 @@
 * organize sources
 * clean up all names in DD and app:
 * all sources finish _so
-
+* changed wage_0_mo_f to wage_0_f 
 ***Ongoing Tasks:***
 * Stuck at all-steps code chunk: trying to wrap it around a chunk_xxx() format but keeps breaking
 
@@ -23,6 +23,12 @@
 * chunk analytic code chunks:
   + setup code chunk does it need to be in the form of chunk_xxx ?
 
+* _var1:
+  + 2474, 2529: wage_0_var = wage_0_in, not wage_0_var1
+  + 2491, 2518: lambda1_var = lambda1_t_temp
+  + 2530: lambda1_var = lambda1_in[1]
+  + 2531: lambda2_var = 0,
+  + 2532: saturation_var = saturation_in
 
 ## Week 16 11/30 - 12/4
 
