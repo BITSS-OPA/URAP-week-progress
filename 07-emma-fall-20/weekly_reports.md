@@ -1,5 +1,15 @@
 # Weekly reports of progress
 
+## Week 15 (11/30)
+
+##### Assigned tasks
+- Complete reproduction, start next reproduction if finished
+
+##### Completed tasks
+- Worked on Assessment stage of my own reproduction
+
+I worked 9 hours during Week 15. 
+
 ## Week 14 (11/23)  
 
 ##### Assigned tasks
