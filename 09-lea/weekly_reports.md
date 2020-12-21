@@ -7,7 +7,7 @@
 
 #### Completed Tasks:
 - Finished first reproduction attempt
-- started reading through second paper for reproduction practice, but did not finish. 
+- started reading through second paper for reproduction practice, but did not finish.
 
 ## Week 10 (11/23)
 #### Assigned Tasks:
@@ -67,15 +67,12 @@ I worked 10 hours this week.
 - Emailed analyst on supporting side; researching him and finding his contact information took a great amount of time; he responded and is following up soon with files from the research brief
 
 I worked 10 hours this week.
+
 ## Week 5 (10/19)
 #### Assigned Tasks
 - Clean up Carbon Capture Storage report (5 hours)
 - Do policy analysis report for CA Prop 16 (5 hours)
 I worked 10 hours this week.
-
-## Week 4 (10/12)
-- Using one of my "tokens" for this week due to academic overload.
-
 
 ## Week 4 (10/12)
 - Using one of my "tokens" for this week due to academic overload.
