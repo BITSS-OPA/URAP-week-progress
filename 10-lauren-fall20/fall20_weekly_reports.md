@@ -1,4 +1,15 @@
 # Weekly Reports
+## Week 12 (12/7)
+
+#### Assigned Tasks
+- create issues on ACRE_platform_issues for any other issues
+   - the improvements section deleted (create an issue)
+   - share in the improvements section about how the data sources do not have explicit files mentioned for the data sources
+- write the URAP report
+
+#### Completed Tasks
+- URAP final semester report
+- re-filled out improvements section of reproduction 
 
 ## Week 11 (11/30)
 
@@ -13,7 +24,7 @@
 - helped with Stata issues for other URAPs
 - read and scoping for Hendren and Sprung-Keyser 2020
 
-I worked 9 hours this week. 
+I worked 9 hours this week.
 
 ## Week 10 (11/23)
 
