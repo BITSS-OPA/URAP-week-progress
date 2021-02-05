@@ -1,3 +1,14 @@
+## Week 2 (Feb 1-5)
+
+- Assigned Tasks
+  - Debug RMD file's error that prevents it from knitting in binder
+- Completed Tasks
+    -  Debugged the RMD file's error that prevents it from knitting in binder with Gabriel
+
+- I spent the rest of the hours learning R language
+
+I worked for about 3-4 hours during week 1.
+
 ## Week 1 (Jan 25-29)
 
 - Assigned Tasks
