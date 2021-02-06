@@ -1,5 +1,18 @@
 # Weekly reports of progress
 
+## Week 2 (2/1)
+
+##### Assigned tasks
+- review with deworming OPA
+##### Completed tasks
+- reviewed deworming OPA, specifically:
+  - checked links *up to *
+  - added in text reference for 2004 Miguel and Kremer paper
+  - issue: footnote 4 in dynamic doc isn't connected to anything; is a duplicate of footnote 5. I couldn't find corresponding footnote in the Rmd file.
+- helped Lauren with bug when knitting
+
+I worked 9 hours during Week 2.  
+
 ## Week 1 (1/25)
 
 ##### Assigned tasks  
