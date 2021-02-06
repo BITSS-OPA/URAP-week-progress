@@ -3,10 +3,10 @@
 ## Week 2 (2/1)
 
 ##### Assigned tasks
-- review with deworming OPA
+- review deworming OPA
 ##### Completed tasks
 - reviewed deworming OPA, specifically:
-  - checked links *up to *
+  - checked links for accuracy
   - added in text reference for 2004 Miguel and Kremer paper
   - issue: footnote 4 in dynamic doc isn't connected to anything; is a duplicate of footnote 5. I couldn't find corresponding footnote in the Rmd file.
 - helped Lauren with bug when knitting
