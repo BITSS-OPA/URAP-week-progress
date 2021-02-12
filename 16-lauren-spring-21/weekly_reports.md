@@ -11,7 +11,9 @@
 - watched Github onboarding
 
 ### Continuing tasks
-- assessment stage of ACRE reproduction - united welfare 
+- assessment stage of ACRE reproduction - united welfare
+
+I worked 9 hours this week.
 
 ## Week 2 (2/1)
 ### Assigned Tasks
