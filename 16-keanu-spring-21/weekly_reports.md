@@ -1,5 +1,27 @@
 # Weekly Reports of Progress
 
+
+## Week 3 (2/12/21)
+
+**Assigned Tasks:**
+- Edit/add things to the template gitignore
+- Edit/add CSS editing tutorial
+- Add readme to subfolders
+- Add Rproj template file
+
+**Completed Tasks:**
+- Added some things to the template gitignore
+- Edited the CSS editing tutorial
+- Added readme to data and doc subfolders
+- Added Rproj template file
+
+**Notes:**
+- I wasn't sure what to add to the gitignore as these things may change depending on the OPA Project
+- Added a snippet to Aleksandra's CSS editing tutorial on current OPA protocol
+- Added readmes but want to talk about overall file structure on Tuesday to better fit TIER 3.0, make OPA Projects more transparent, and improve reproducibility
+
+I worked 6-7 hours this week.
+
 ## Week 2 (2/5/21)
 
 **Assigned Tasks**
