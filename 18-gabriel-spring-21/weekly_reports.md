@@ -1,5 +1,5 @@
 Week 1 (2/1 - 2/5)
-Tasks assigned: 
+Tasks assigned:
 + Fix error preventing knitting
 
 Tasks completed:
