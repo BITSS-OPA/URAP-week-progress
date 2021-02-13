@@ -1,5 +1,28 @@
 # Weekly reports of progress
 
+## Week 3 (2/8)
+
+##### Assigned tasks
+- Finish reviewing shiny app
+- Reproducing [new paper](https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf)
+
+##### Completed tasks
+- Reviewed shiny app, specifically:
+  - checked links
+  - fixed typos in popover text
+- Read assigned paper
+  - repository with data to produce results [here](https://github.com/OpportunityInsights/EconomicTracker)
+
+##### Notes
+- Shiny app
+  - minor note in All Assumptions tab: some parameter labels have `=` and some do not; I can fix this/create issue if needed
+  - 4 popovers missing bc "need more info" comment
+  - popover "Kenyan tax rate in 2013?": no comment with what needs to be done
+- Reproduction
+  - still identifying main claims; will have ready by Week 4 meeting.
+
+I worked 9 hours during Week 3.
+
 ## Week 2 (2/1)
 
 ##### Assigned tasks
