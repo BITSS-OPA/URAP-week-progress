@@ -1,23 +1,28 @@
 # Weekly reports of progress
 
+## Week 3 (2/15)
+
+
+
 ## Week 2 (2/8)
 
 ##### Assigned tasks  
 
 - Update new paper link
+- Build dynamic links
 - Explore ACRE for Cutler & Summers 2020
-- Build link integration
 
 ##### Completed tasks
 
 - Fixed paper link
-- Began ACRE for Cutler & Summers
+- Dynamic links tentatively working
+- Conducted ACRE for Cutler & Summers
   - Identified Appendix
   - Reproduced results using R script and compiled data sources
   - Contacted original authors for clarification on rounding and data source, adjusted calculations
   - Logged progress in SSRP
 
-I worked 9 hours during Week 2.
+I worked 10 hours during Week 2.
 
 ## Week 1 (2/1)
 
