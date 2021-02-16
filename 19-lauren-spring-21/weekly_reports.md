@@ -11,7 +11,7 @@
 - watched Github onboarding
 
 ### Continuing tasks
-- assessment stage of ACRE reproduction - united welfare
+- assessment stage of ACRE reproduction - united welfare [here](https://www.socialsciencereproduction.org/reproductions/02125576-b36e-4854-a082-5bfc921f31a4/index)
 
 I worked 9 hours this week.
 
