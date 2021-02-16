@@ -15,7 +15,7 @@
 ##### Completed tasks
 
 - Fixed paper link
-- Dynamic links tentatively working
+- Dynamic links working for shiny app
 - Conducted ACRE for Cutler & Summers
   - Identified Appendix
   - Reproduced results using R script and compiled data sources
