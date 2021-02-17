@@ -1,5 +1,18 @@
 # Weekly reports of progress
 
+## Week 4 (2/16)
+
+##### Assigned tasks
+- shiny app
+  - create issue for popovers
+  - add equal signs to shiny apps
+- reproduction: count num claims, don't necessarily have to assess all (high-level reproduction)
+  - find stimulus payments claim
+  - start reproduction on platform
+  - maybe reach out to authors to get code to reproduce analysis (next week? let fernando know)
+- Address questions from new URAPs
+
+
 ## Week 3 (2/8)
 
 ##### Assigned tasks
