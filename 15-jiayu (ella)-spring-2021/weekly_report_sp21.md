@@ -1,3 +1,10 @@
+## Week 3 (Feb 8-12)
+
+- Assigned Tasks
+  - Pick a paper about Covid-19 and start a reproduction
+- I used a token this week. 
+
+
 ## Week 2 (Feb 1-5)
 
 - Assigned Tasks
