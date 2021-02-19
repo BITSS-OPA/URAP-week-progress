@@ -1,6 +1,6 @@
 ## Week 1 (2/15)
 _______________
-**Assigned Tasks:**
+**Assigned Tasks:**  
 Go over:
 - OPA paper
 - ACRE guidelines
