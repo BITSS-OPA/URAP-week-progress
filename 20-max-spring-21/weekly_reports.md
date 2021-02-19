@@ -4,13 +4,10 @@
 
 #### Assigned Tasks
 
-- OPA paper
-- ACRE guidelines
-- Rmarkdown tutorials
-- Review wealth tax and dw app and DD
-- Come up with questions (~10) then meet at the end of the week to discuss those questions. Submit unsolved questions in your weekly report so we can discuss during next meeting.
-
-#### Completed Tasks
-
+- [x] read OPA paper
+- [ ] read ACRE guidelines
+- [ ] Rmarkdown tutorials
+- [ ] review wealth tax and deworming app and dynamic documentation
+- [ ] come up with questions (~10) then meet at the end of the week to discuss those questions. submit unsolved questions in your weekly report so we can discuss during next meeting.
 
 #### Notes
