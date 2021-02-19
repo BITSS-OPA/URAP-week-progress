@@ -2,7 +2,29 @@
 
 ## Week 3 (2/15)
 
+##### Assigned tasks
 
+* Finish SSRP for Cutler and Summers
+* Update links for Shiny app, dynamic doc, and readme
+* Fix "All Assumptions" bug
+* Design opaque analysis
+  * Change logos
+  * Point links in right direction
+  * Deploy new app
+  * Remove OPA references
+  * Add warnings
+
+##### Completed tasks
+
+- Completed and declared SSRP reproducibility attempt for Cutler and Summers
+- Updated links for Shiny app, DD, and readme
+  - Found broken Google doc links
+- Designed opaque analysis
+  - Fixed links/designs
+  - Removed OPA/BITSS references & added warnings
+  - Built Binder app
+
+I worked 12 hours during Week 3.
 
 ## Week 2 (2/8)
 
