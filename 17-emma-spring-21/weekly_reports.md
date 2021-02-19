@@ -3,15 +3,22 @@
 ## Week 4 (2/16)
 
 ##### Assigned tasks
-- shiny app
+- Shiny app edits
   - create issue for popovers
-  - add equal signs to shiny apps
-- reproduction: count num claims, don't necessarily have to assess all (high-level reproduction)
-  - find stimulus payments claim
-  - start reproduction on platform
-  - maybe reach out to authors to get code to reproduce analysis (next week? let fernando know)
+  - make parameter formatting consistent
+- Continue reproduction
 - Address questions from new URAPs
 
+##### Completed tasks
+- Assisted other URAPs
+  - helped Rohan w git
+- Shiny app edits
+  - edited formatting in all assumptions tab
+  - fixed Evidence Action link in main assumptions tab
+  - created issue: popovers with note
+- Started reproduction on platform
+
+I worked 9 hours during Week 4.
 
 ## Week 3 (2/8)
 
