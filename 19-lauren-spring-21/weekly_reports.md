@@ -1,5 +1,17 @@
 # Weekly Reports
+## Week 4 (2/15)
 
+### Assigned Tasks
+- work on [reproduction](https://www.socialsciencereproduction.org/reproductions/108/index?step=1)
+
+### Completed Tasks
+- scoping and assessment stage of reproduction
+- worked with stata
+
+### Continuing Tasks
+- finish improvement stage (worked through this also on weekend)
+
+I worked for 9 hours this week.
 ## Week 3 (2/8)
 
 ### Assigned Tasks
