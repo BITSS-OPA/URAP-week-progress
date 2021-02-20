@@ -1,6 +1,31 @@
 # Weekly Reports of Progress
 
 
+## Week 4 (2/19/21)
+
+**Assigned Tasks**
+- Edit template gitignore
+- Add readme/data guide to rawdata subfolder
+For both opposition repos:
+- Change BITTS and CEGA logo for made up anti-deworming logos
+- Make sure that key links point in the right direction
+- Remove credits
+- Add warnings in DD, app, and repo readme that these are fictitious examples
+
+**Completed Tasks**
+- Added readme/data guide to rawdata subfolder
+For both opposition repos:
+- Changed BITTS and CEGA logo for made up anti-deworming logos
+- Made sure that key links point in the right direction
+- Removed credits
+- Added warnings in DD, app, and repo readme that these are fictitious examples
+
+**WIP**
+- Still need to edit/clean up template gitignore
+- Would like to clarify CSS tutorial/add some links to resources future URAPs can use (after learning that the DD uses an external css file)
+
+I worked 8-9 hours this week
+
 ## Week 3 (2/12/21)
 
 **Assigned Tasks:**
