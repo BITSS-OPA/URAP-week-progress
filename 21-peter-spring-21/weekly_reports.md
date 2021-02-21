@@ -17,12 +17,15 @@
 ##### Completed tasks
 
 - Completed and declared SSRP reproducibility attempt for Cutler and Summers
+  - Reviewed submission
+  - Submitted issues encountered with ACRE
 - Updated links for Shiny app, DD, and readme
   - Found broken Google doc links
 - Designed opaque analysis
   - Fixed links/designs
   - Removed OPA/BITSS references & added warnings
   - Built Binder app
+  - Deploy to shinyapps.io
 
 I worked 12 hours during Week 3.
 
@@ -60,5 +63,3 @@ I worked 10 hours during Week 2.
 - Completed ACRE guidelines
 
 I worked 6 hours during Week 2.  
-
-
