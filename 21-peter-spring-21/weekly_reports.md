@@ -1,5 +1,22 @@
 # Weekly reports of progress
 
+## Week 4 (2/22)
+
+##### Assigned tasks
+
+- Finish opaque analysis
+- Update ACRE
+  - Add cleaning code
+  - Update analysis
+  - Add readme
+  - Contact authors
+
+##### Completed tasks
+
+
+
+
+
 ## Week 3 (2/15)
 
 ##### Assigned tasks
@@ -26,6 +43,7 @@
   - Removed OPA/BITSS references & added warnings
   - Built Binder app
   - Deploy to shinyapps.io
+  - Fixed "All Assumptions tab"
 
 I worked 12 hours during Week 3.
 
