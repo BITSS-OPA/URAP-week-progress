@@ -1,3 +1,21 @@
+## Week 2 (2/22)
+_______________
+**Assigned Tasks:**  
+Go over:
+- Figure out a new way of scrolling through reproduction trees for ACRE guidelines
+- Reread the DD and think of another way to account for the outlier of Swiss tax evasion data
+- Get started on reproducing your first paper
+
+**Finished Tasks:**
+- Explored scrolling through reproduction trees for ACRE guidelines
+- Thought of a new way to approach the outlier that is Swiss tax evasion data
+-
+
+**Notes**
+- I have a text file demonstrating horizontal scrolling but I have concluded that the amount of effort it takes to perform horizontal scrolling will probably not be worth the relatively small benefit it'll add to the ACRE guidelines.
+- I think it might be helpful to reproduce the paper in 2 ways: one that takes an average of all the tax evasion data (like it is right now), and another one that disregards the Swiss data entirely as an outlier. Have 2 different analysis would likely result in a more comprehensive and convincing dataset.
+- 
+
 ## Week 1 (2/15)
 _______________
 **Assigned Tasks:**  
