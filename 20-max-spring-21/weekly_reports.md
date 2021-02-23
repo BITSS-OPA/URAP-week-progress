@@ -1,6 +1,15 @@
 # Weekly Reports
 
-### Week 1 (Feb. 14 - Feb. 21)
+### Week 2 (Feb. 21 - Feb. 27)
+
+#### Assigned Tasks
+- [ ] edits to wealth tax DD
+- [ ] edits to ACRE guidelines
+
+
+
+
+### Week 1 (Feb. 14 - Feb. 20)
 
 #### Assigned Tasks
 
