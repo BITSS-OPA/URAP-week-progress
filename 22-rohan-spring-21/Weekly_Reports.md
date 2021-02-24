@@ -1,6 +1,5 @@
 ## Week 2 (2/22)
 **Assigned Tasks:**  
-Go over:
 - Figure out a new way of scrolling through reproduction trees for ACRE guidelines
 - Reread the DD and think of another way to account for the outlier of Swiss tax evasion data
 - Get started on reproducing your first paper
