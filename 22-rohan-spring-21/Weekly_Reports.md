@@ -1,5 +1,4 @@
 ## Week 2 (2/22)
-_______________
 **Assigned Tasks:**  
 Go over:
 - Figure out a new way of scrolling through reproduction trees for ACRE guidelines
@@ -23,7 +22,6 @@ Go over:
 I worked around 9-10 hours in week 2.
 
 ## Week 1 (2/15)
-_______________
 **Assigned Tasks:**  
 Go over:
 - OPA paper
