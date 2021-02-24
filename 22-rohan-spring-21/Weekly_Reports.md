@@ -20,6 +20,8 @@ Go over:
 - I'm not sure how to determine how many claims there are in the paper, how to choose a claim and then how to reproduce one.
 - I can't seem to open lot of the files I got from the cloned repository.
 
+I worked around 9-10 hours in week 2.
+
 ## Week 1 (2/15)
 _______________
 **Assigned Tasks:**  
