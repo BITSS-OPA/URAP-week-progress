@@ -13,8 +13,8 @@ Go over:
 
 **Notes**
 - I have a text file demonstrating horizontal scrolling but I have concluded that the amount of effort it takes to perform horizontal scrolling will probably not be worth the relatively small benefit it'll add to the ACRE guidelines.
-- I think it might be helpful to reproduce the paper in 2 ways: one that takes an average of all the tax evasion data (like it is right now), and another one that disregards the Swiss data entirely as an outlier. Have 2 different analysis would likely result in a more comprehensive and convincing dataset.
-- 
+- I think it might be helpful to reproduce the paper in 2 ways: one that takes an average of all the tax evasion data (like it is right now), and another one that disregards the Swiss data entirely as an outlier. Have 2 different analysis would likely result in a more comprehensive and convincing dataset. Additionally, this may be too much work/not possible, but I suspect the Swiss high tax evasion rate may be due to their strong banking privacy laws which result in more money laundering/tax evasion. Therefore, if we kept the same 4 countries but accounted for the amount of black money in their economies in some way, that may result in a more fruitful analysis.
+-
 
 ## Week 1 (2/15)
 _______________
