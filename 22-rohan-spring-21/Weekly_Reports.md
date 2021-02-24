@@ -12,7 +12,7 @@
 **Notes**
 - I have a text file demonstrating horizontal scrolling but I have concluded that the amount of effort it takes to perform horizontal scrolling will probably not be worth the relatively small benefit it'll add to the ACRE guidelines.
 - I think it might be helpful to reproduce the paper in 2 ways: one that takes an average of all the tax evasion data (like it is right now), and another one that disregards the Swiss data entirely as an outlier. Have 2 different analysis would likely result in a more comprehensive and convincing dataset. Additionally, this may be too much work/not possible, but I suspect the Swiss high tax evasion rate may be due to their strong banking privacy laws which result in more money laundering/tax evasion. Therefore, if we kept the same 4 countries but accounted for the amount of black money in their economies in some way, that may result in a more fruitful analysis.
-- I'm not sure what's the Andrews and Kasy (2019) measurement of publication bias.
+- I looked up the Andrews and Kasy (2019) measurement of publication bias, but I'm still not sure what it is.
 - I didn't understand some of the study methods in the research paper (eg: DID, IV and RDD), and so I researched them.
 - Why are there differences between which study methods male and female authors use? Why are authors at 'top institutions' more likely to use RCTs? Which institutions come under 'top institutions'?
 - I'm not sure how to determine how many claims there are in the paper, how to choose a claim and then how to reproduce one.
