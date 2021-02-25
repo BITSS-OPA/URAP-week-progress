@@ -15,7 +15,7 @@
 - I looked up the Andrews and Kasy (2019) measurement of publication bias, but I'm still not sure what it is.
 - I didn't understand some of the study methods in the research paper (eg: DID, IV and RDD), and so I researched them.
 - Why are there differences between which study methods male and female authors use? Why are authors at 'top institutions' more likely to use RCTs? Which institutions come under 'top institutions'?
-- I'm not sure how to determine how many claims there are in the paper, how to choose a claim and then how to reproduce one.
+- I'm not sure how to determine the number of claims in a paper, choose a claim and then reproduce one.
 - I can't seem to open lot of the files I got from the cloned repository.
 
 I worked around 9-10 hours in week 2.
