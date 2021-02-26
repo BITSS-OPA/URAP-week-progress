@@ -4,15 +4,16 @@
 
 ### Assigned Tasks
 - [ ] edits to wealth tax DD
-- [ ] edits to ACRE guidelines
+- [x] edits to ACRE guidelines
 
 
 
-time log: I
+time log: Ii
 
 # Questions
 
 - for 'Scoping' chapter of ACRE Guidelines, `03-scope.Rmd` on Github ends after '2.3 Declare possible robustness checks for main estimates (optional)'
+  - specifically, cannot see code for 2.5.1, 2.5.2 and therefore cannot fix broken reproduction tree
 
 
 
