@@ -5,10 +5,11 @@
 ### Assigned Tasks
 - [ ] edits to wealth tax DD
 - [x] edits to ACRE guidelines
+- [ ] methods matter paper
 
 
 
-time log: Ii
+time log: III
 
 # Questions
 
