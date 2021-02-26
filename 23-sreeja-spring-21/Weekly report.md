@@ -1,4 +1,4 @@
-#Week 2 Submission Report (2/27)
+# Week 2 Submission Report (2/27)
 
 Tasks assigned for Week 2
 1. ACRE guidelines
@@ -13,7 +13,7 @@ Tasks Completed for Week 2
 
 Hours worked ~ 7-8 hours 
 
-#Week 1 Submission Report
+# Week 1 Submission Report
 
 Tasks assigned for Week 1-3
 1. OPA paper
