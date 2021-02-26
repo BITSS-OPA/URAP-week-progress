@@ -7,14 +7,17 @@
 - [x] edits to ACRE guidelines
 - [ ] methods matter paper
 
+time log: IIIIII
 
+### Questions/Issues
 
-time log: III
-
-# Questions
-
-- for 'Scoping' chapter of ACRE Guidelines, `03-scope.Rmd` on Github ends after '2.3 Declare possible robustness checks for main estimates (optional)'
-  - specifically, cannot see code for 2.5.1, 2.5.2 and therefore cannot fix broken reproduction tree
+- I created a pull request for adding # Assessment to 04-assess.Rmd
+  - I believe this should restore the assessment chapter. However, after doing some testing in my fork of ACRE and the associated Github Pages site the chapter does not show up except under certain conditions. If I knit in RStudio a chapter's specific .Rmd, then when looking at that chapter on the site, the assessment chapter is restored. If I click on a different chapter, whose .Rmd file I have not explicitly knitted, then the assessment chapter disappears.
+  - It seems that clicking on a chapter that I've knitted "restores" my ACRE site to a older, unbroken version. Besides the assessment chapter reappearing, the scoping chapter reverts to 3 subsections instead of the current 6 and the reproduction diagrams render properly.
+- My fixes for the incorrect list nesting do work after testing in my fork. I am not sure if my fixes for the broken reproduction diagrams were helpful -- in my fork they were never broken, unlike in the actual ACRE site (https://bitss.github.io/ACRE).
+  - After merging pull requests to the ACRE repo, do those changes reflect immediately at the ACRE site? The incorrect list nesting is still there.
+- The new sections Aleks added to the scoping chapter (2.4 to 2.6) do not show up in 03-scope.Rmd on Github -- I am not sure why.
+- All chapters (aside from the missing assessment chapter) are still rendered in the proper order!
 
 
 
