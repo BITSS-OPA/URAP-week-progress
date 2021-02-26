@@ -1,17 +1,24 @@
 # Weekly Reports
 
-### Week 2 (Feb. 21 - Feb. 27)
+## Week 2 (Feb. 21 - Feb. 27)
 
-#### Assigned Tasks
+### Assigned Tasks
 - [ ] edits to wealth tax DD
 - [ ] edits to ACRE guidelines
 
 
 
+time log: I
 
-### Week 1 (Feb. 14 - Feb. 20)
+# Questions
 
-#### Assigned Tasks
+- for 'Scoping' chapter of ACRE Guidelines, `03-scope.Rmd` on Github ends after '2.3 Declare possible robustness checks for main estimates (optional)'
+
+
+
+## Week 1 (Feb. 14 - Feb. 20)
+
+### Assigned Tasks
 
 - [x] read OPA paper
 - [x] read ACRE guidelines
@@ -21,11 +28,11 @@
 
 I worked 8 hours this week
 
-#### Notes
+### Notes
 
 - Our onboarding meeting (between Gabriel, Rohan, Sreeja, and myself) is happening at 5pm, so all of our questions, solved or unsolved, will be submitted to the weekly report. We will let you know which ones have been solved next week :)
 
-##### Questions/Thoughts
+### Questions/Thoughts
 
 - bigger picture/historical context of open science and open policy analysis?
 - commit vs pull request vs push request
