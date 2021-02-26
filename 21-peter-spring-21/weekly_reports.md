@@ -13,9 +13,15 @@
 
 ##### Completed tasks
 
+- Completed opaque analysis
+  - Set up dynamic doc
+- Completed ACRE
+  - Added cleaning code
+  - Added missing source files
+  - Added readme
+  - Redid/documented analysis to include alternatives
 
-
-
+I worked 10 hours in Week 4.
 
 ## Week 3 (2/15)
 
