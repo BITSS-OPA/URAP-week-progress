@@ -1,5 +1,18 @@
 # Weekly Reports of Progress
 
+## Week 5 (2/26/21)
+
+**Assigned Tasks**
+- Perform SSRP reproduction of Polarization and Public Health paper
+
+**Completed Tasks**
+- Met with Gabriel to discuss SSRP reproduction
+- Finished scoping and assessment of SSRP reproduction
+
+**WIP**
+- Finishing other portions of reproduction
+
+I worked 8-9 hours this week
 
 ## Week 4 (2/19/21)
 
