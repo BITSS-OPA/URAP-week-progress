@@ -1,5 +1,21 @@
 # Weekly reports of progress
 
+## Week 5 (2/22)
+
+##### Assigned tasks
+- create issue for inline paragraph, page # for albert on platform repo
+- continue with reproduction; contact authors for reproduction package (code to reproduce, particularly 1.43 estimate but entire paper would be optimal)
+
+##### Completed tasks
+- drafted email to authors of COVID paper to get code for reproduction package; will send Monday (3/1) morning
+- Continued reproduction through Assessment stage, but will have to revise after author response
+- Created issues on github:
+  - for inline paragraph, locked pre-Assessment stages
+  - for clarity on Outline Claims section
+  - allowing reproducers to copy reproductions without starting over
+
+I worked 9 hours during Week 5.
+
 ## Week 4 (2/16)
 
 ##### Assigned tasks
