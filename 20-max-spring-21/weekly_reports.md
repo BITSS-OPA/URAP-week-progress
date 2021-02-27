@@ -7,7 +7,7 @@
 - [x] edits to ACRE guidelines
 - [ ] methods matter paper
 
-time log: IIIIIII
+I worked 8 hours this week
 
 ### Issues/Comments
 
@@ -20,6 +20,10 @@ ACRE GUIDELINES: In summary, issues seem to arise because
   - I will need to see what changed in Aleks' .Rmd files that caused the diagrams to break.
   - I am wondering what needs to be done for the changes I sent pull requests for last night to reflect on the ACRE site. I know that after knitting the .Rmd files locally and pushing changes to my ACRE fork, the changes showed up immediately on my own site (https://myzhang01.github.io/ACRE).
 - All chapters (aside from the missing assessment chapter) are still rendered in the proper order!
+
+Methods Matter: I am reading through the paper and studying each figure/table (including in the online appendix). I have an idea of which ones to reproduce, but I have not yet had the chance to start a reproduction on SSRP or look through the provided reproduction package.
+
+Wealth tax OPA: Unfortunately I haven't yet sketched up revisions to the app/edited the DD :(
 
 
 
