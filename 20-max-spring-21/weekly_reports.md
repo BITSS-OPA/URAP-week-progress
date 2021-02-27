@@ -7,16 +7,18 @@
 - [x] edits to ACRE guidelines
 - [ ] methods matter paper
 
-time log: IIIIII
+time log: IIIIIII
 
-### Questions/Issues
+### Issues/Comments
 
-- I created a pull request for adding # Assessment to 04-assess.Rmd
-  - I believe this should restore the assessment chapter. However, after doing some testing in my fork of ACRE and the associated Github Pages site the chapter does not show up except under certain conditions. If I knit in RStudio a chapter's specific .Rmd, then when looking at that chapter on the site, the assessment chapter is restored. If I click on a different chapter, whose .Rmd file I have not explicitly knitted, then the assessment chapter disappears.
-  - It seems that clicking on a chapter that I've knitted "restores" my ACRE site to a older, unbroken version. Besides the assessment chapter reappearing, the scoping chapter reverts to 3 subsections instead of the current 6 and the reproduction diagrams render properly.
-- My fixes for the incorrect list nesting do work after testing in my fork. I am not sure if my fixes for the broken reproduction diagrams were helpful -- in my fork they were never broken, unlike in the actual ACRE site (https://bitss.github.io/ACRE).
-  - After merging pull requests to the ACRE repo, do those changes reflect immediately at the ACRE site? The incorrect list nesting is still there.
-- The new sections Aleks added to the scoping chapter (2.4 to 2.6) do not show up in 03-scope.Rmd on Github -- I am not sure why.
+ACRE GUIDELINES: In summary, issues seem to arise because
+1. The live site (https://bitss.github.io/ACRE) reflects the changes Aleks made a day ago, but the Github repository does not. Specifically, it seems the final ACRE_book.html file (which is used to render the live site?) is updated, but the .Rmd files that generate it are not.
+2. After Aleks' changes, the assessment chapter disappeared and reproduction diagrams failed to render properly. Knitting the book from the unupdated .Rmd files fixes these issues, but of course we lose Aleks' revisions.
+
+- I created a pull request for adding `# Assessment` to 04-assess.Rmd. This should make the assessment chapter reappear.
+- My fixes for the incorrect list nesting do work after testing in my ACRE fork. I am not sure if my fixes for the broken reproduction diagrams were necessary: I was editing the unupdated .Rmd files whose diagrams already displayed correctly.
+  - I will need to see what changed in Aleks' .Rmd files that caused the diagrams to break.
+  - I am wondering what needs to be done for the changes I sent pull requests for last night to reflect on the ACRE site. I know that after knitting the .Rmd files locally and pushing changes to my ACRE fork, the changes showed up immediately on my own site (https://myzhang01.github.io/ACRE).
 - All chapters (aside from the missing assessment chapter) are still rendered in the proper order!
 
 
