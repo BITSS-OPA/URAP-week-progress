@@ -1,3 +1,13 @@
+### Week 5 (Feb 22-26)
+- Assigned Tasks
+  - Finish up my reproduction of [this paper](https://www.nature.com/articles/s41591-020-0843-2#data-availability)
+- Completed tasks
+  - 30-min meeting with Fernando and helped me with some questions about the reproduction
+  - Finished the reproduction 
+  - Notes: the examples in the improvements section were very helpful! Other sections could have more examples as well.
+
+I worked for about 8 hours this week.
+
 ### Week 4 (Feb 16-19)
 - Continued learning R language and coding and added the link to resources that I found useful to the tutorials repository 
 - read and comprehended one [covid-19 paper](https://www.nature.com/articles/s41591-020-0843-2#data-availability) 
