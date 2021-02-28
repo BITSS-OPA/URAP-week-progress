@@ -14,7 +14,8 @@
 ##### Completed tasks
 
 - Completed opaque analysis
-  - Set up dynamic doc
+  - Set up dynamic docs
+  - Fixed logos/links/images
 - Completed ACRE
   - Added cleaning code
   - Added missing source files
