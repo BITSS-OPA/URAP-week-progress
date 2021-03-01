@@ -1,8 +1,35 @@
 # Weekly Reports
 
-### Week 1 (Feb. 14 - Feb. 21)
+## Week 2 (Feb. 21 - Feb. 27)
 
-#### Assigned Tasks
+### Assigned Tasks
+- [ ] edits to wealth tax DD
+- [x] edits to ACRE guidelines
+- [ ] methods matter paper
+
+I worked 8 hours this week
+
+### Issues/Comments
+
+ACRE GUIDELINES: In summary, issues seem to arise because
+1. The live site (https://bitss.github.io/ACRE) reflects the changes Aleks made a day ago, but the Github repository does not. Specifically, it seems the final ACRE_book.html file (which is used to render the live site?) is updated, but the .Rmd files that generate it are not.
+2. After Aleks' changes, the assessment chapter disappeared and reproduction diagrams failed to render properly. Knitting the book from the unupdated .Rmd files fixes these issues, but of course we lose Aleks' revisions.
+
+- I created a pull request for adding `# Assessment` to 04-assess.Rmd. This should make the assessment chapter reappear.
+- My fixes for the incorrect list nesting do work after testing in my ACRE fork. I am not sure if my fixes for the broken reproduction diagrams were necessary: I was editing the unupdated .Rmd files whose diagrams already displayed correctly.
+  - I will need to see what changed in Aleks' .Rmd files that caused the diagrams to break.
+  - I am wondering what needs to be done for the changes I sent pull requests for last night to reflect on the ACRE site. I know that after knitting the .Rmd files locally and pushing changes to my ACRE fork, the changes showed up immediately on my own site (https://myzhang01.github.io/ACRE).
+- All chapters (aside from the missing assessment chapter) are still rendered in the proper order!
+
+Methods Matter: I am reading through the paper and studying each figure/table (including in the online appendix). I have an idea of which ones to reproduce, but I have not yet had the chance to start a reproduction on SSRP or look through the provided reproduction package.
+
+Wealth tax OPA: Unfortunately I haven't yet sketched up revisions to the app/edited the DD :(
+
+
+
+## Week 1 (Feb. 14 - Feb. 20)
+
+### Assigned Tasks
 
 - [x] read OPA paper
 - [x] read ACRE guidelines
@@ -12,11 +39,11 @@
 
 I worked 8 hours this week
 
-#### Notes
+### Notes
 
 - Our onboarding meeting (between Gabriel, Rohan, Sreeja, and myself) is happening at 5pm, so all of our questions, solved or unsolved, will be submitted to the weekly report. We will let you know which ones have been solved next week :)
 
-##### Questions/Thoughts
+### Questions/Thoughts
 
 - bigger picture/historical context of open science and open policy analysis?
 - commit vs pull request vs push request
