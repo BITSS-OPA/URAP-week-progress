@@ -1,5 +1,48 @@
 # Weekly reports of progress
 
+## Week 4 (2/16)
+
+##### Assigned tasks
+- Shiny app edits
+  - create issue for popovers
+  - make parameter formatting consistent
+- Continue reproduction
+- Address questions from new URAPs
+
+##### Completed tasks
+- Assisted other URAPs
+  - helped Rohan w git
+- Shiny app edits
+  - edited formatting in all assumptions tab
+  - fixed Evidence Action link in main assumptions tab
+  - created issue: popovers with note
+- Started reproduction on platform
+
+I worked 9 hours during Week 4.
+
+## Week 3 (2/8)
+
+##### Assigned tasks
+- Finish reviewing shiny app
+- Reproducing [new paper](https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf)
+
+##### Completed tasks
+- Reviewed shiny app, specifically:
+  - checked links
+  - fixed typos in popover text
+- Read assigned paper
+  - repository with data to produce results [here](https://github.com/OpportunityInsights/EconomicTracker)
+
+##### Notes
+- Shiny app
+  - minor note in All Assumptions tab: some parameter labels have `=` and some do not; I can fix this/create issue if needed
+  - 4 popovers missing bc "need more info" comment
+  - popover "Kenyan tax rate in 2013?": no comment with what needs to be done
+- Reproduction
+  - still identifying main claims; will have ready by Week 4 meeting.
+
+I worked 9 hours during Week 3.
+
 ## Week 2 (2/1)
 
 ##### Assigned tasks

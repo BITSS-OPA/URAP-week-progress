@@ -3,3 +3,7 @@ Each week, you are expected to complete/attempt your assigned tasks and update y
 As a minimum requirement to obtain a pass grade, URAPs must submit at least 8 good reports during a semester. A good report must contain three elements: (1) list of assigned tasks, (2) list of progress and questions in each task, (3) number of hours worked during the week. The following are some examples of good and bad:
   - Good examples: learned git, learned R, learned about PA, summarized # reports, pushed # commits, clean shiny app code, support a fellow URAP, etc.
   - Bad examples: apologies, promises, comments, etc. Will be counted as not submitted.  
+
+
+
+
