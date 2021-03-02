@@ -1,5 +1,20 @@
 # Weekly Reports
 
+## Week 3 (Feb. 28 - Mar. 6)
+
+### Assigned Tasks
+
+- [ ] methods matter reproduction
+- [ ] wealth tax?
+
+time log: I
+
+### Notes
+
+- submitted a small pull request to fix reproduction diagrams in the assessment chapter for ACRE. will keep looking for broken formatting as i read thru it again while doing reproduction at SSRP
+
+
+
 ## Week 2 (Feb. 21 - Feb. 27)
 
 ### Assigned Tasks
