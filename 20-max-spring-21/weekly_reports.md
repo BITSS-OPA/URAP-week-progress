@@ -12,6 +12,7 @@ time log: I
 ### Notes
 
 - submitted a small pull request to fix reproduction diagrams in the assessment chapter for ACRE. will keep looking for broken formatting as i read thru it again while doing reproduction at SSRP
+  - once pull req gets merged, refork ACRE repo
 
 
 
