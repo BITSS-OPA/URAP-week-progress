@@ -6,6 +6,7 @@
 
 - [ ] methods matter reproduction
 - [ ] wealth tax?
+  - [nyt article](https://www.nytimes.com/2021/03/01/business/elizabeth-warren-wealth-tax.html)
 
 time log: I
 
