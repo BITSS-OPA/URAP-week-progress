@@ -8,12 +8,18 @@
 - [ ] wealth tax?
   - [nyt article](https://www.nytimes.com/2021/03/01/business/elizabeth-warren-wealth-tax.html)
 
-time log: I
+time log: III
 
 ### Notes
 
 - submitted a small pull request to fix reproduction diagrams in the assessment chapter for ACRE. will keep looking for broken formatting as i read thru it again while doing reproduction at SSRP
   - once pull req gets merged, refork ACRE repo
+
+methods matter
+- error in Readme.pdf: setup.do not make setup.do
+- .dta and .do files do not come in folders like the Readme.pdf says they do
+
+
 
 
 
