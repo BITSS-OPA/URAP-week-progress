@@ -1,4 +1,35 @@
 # Weekly Reports
+
+## Week 6 (3/1)
+### Assigned Tasks
+- Finish reproduction (run code for do file)
+- [OPA wealth tax] (https://www.nytimes.com/2021/03/01/business/elizabeth-warren-wealth-tax.html)
+
+### Completed Tasks
+- Met with Rohan on Stata download
+- Met with Fernando about Stata help
+
+### Continuing Tasks
+- OPA Wealth Tax
+
+### Notes
+- do-files will not run due to errors on locating the files, not sure what the issue is
+- do files that I have been using
+  - prepare_causal_estimates.do
+  - run_program.ado         (creates global assumptions)
+  - bootstrap_wrapper.do   (creates global assumptions)
+  - Abecedarian.do
+  - abcedarian.csv
+  - Abecedarian.xlsx
+  - default_assumptions.xlsx
+
+
+I have worked 4 hours and will continue to work 6 more this weekend.
+
+## Week 5 (2/22)
+
+Break week.
+
 ## Week 4 (2/15)
 
 ### Assigned Tasks
