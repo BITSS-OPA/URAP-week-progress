@@ -1,5 +1,21 @@
 # Weekly Reports of Progress
 
+## Week 6 (3/5/21)
+
+**Assigned Tasks**
+- Ensure Wealth Tax OPA complies w/ format of DW OPA
+- Propose a way to incorporate open report and data previous
+
+**Completed Tasks**
+- Forked wealth tax repo and made edits to Wealth Tax DD to match format of DW OPA
+  - Link to [repo](https://github.com/keanulim123/opa-wealthtax). Click github page link to easily access the DD
+
+**WIP**
+- Trying to find a way to make main visualization/policy estimate easily reproducible. There doesn't seem to be an easy way to export the ggvis plot and I haven't found any resources to do so without an external application (may be harder for individuals to reproduce).
+- Currently working w/ Gabriel and Sreeja on finding relevant chunks from Wealth Tax DD to import to an all_analysis file. Such implementation seems like it would require extensive work on server element of existing Wealth Tax visualization.
+
+I worked 9-10 hours this week
+
 ## Week 5 (2/26/21)
 
 **Assigned Tasks**
