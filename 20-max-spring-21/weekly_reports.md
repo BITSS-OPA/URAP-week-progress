@@ -1,5 +1,30 @@
 # Weekly Reports
 
+## Week 3 (Feb. 28 - Mar. 6)
+
+### Assigned Tasks
+
+- [x] work on methods matter reproduction
+  - scoping: main claim is that p-hacking varies by greatly by method, but might consider other three claims as well in second attempt
+    - paper did not use typical econometric methods (IV, DID, RDD, RCT) but other statistical tests for essentially anomalies or goodness of fit
+  - assessment: familiarized self with Stata and managed to generate the figures and tables used
+  - improvement: raw data is either missing or manually constructed -- will have to take closer look at authors' process
+  - robustness: the authors provide over 100 separate figures and dozens of tables testing a huge variety of possibilities -- robustness check probably not necessary?
+
+I worked 10 hours this week
+
+### Notes
+
+- submitted a small pull request to fix reproduction diagrams in the assessment chapter for ACRE. will keep looking for broken formatting
+  - remember to re-fork ACRE repo
+
+methods matter
+- error in `Readme.pdf`: `setup.do` not `make setup.do`
+- `.dta` and `.do` files do not come in folders like the `Readme.pdf` says they do
+- will the revised reproduction package I have on GitHub need to be copied to a trusted repository ('Dataverse, openICPSR, Figshare, Dryad, Zenodo, Open Science Framework' mentioned in ACRE)?
+
+
+
 ## Week 2 (Feb. 21 - Feb. 27)
 
 ### Assigned Tasks

@@ -1,3 +1,18 @@
+## Week 3 (2/29)
+**Assigned Tasks:** 
+- Continue reproducing the p-hacking paper
+
+**Finished Tasks:**
+- Continued reproducing the p-hacking paper as much as I could.
+
+**Notes**
+- On the social sciences reproduction website, I couldn't progress past the scoping stage because I wasn't comfortable with submitting everything in the scoping stage (eg: robustness checks, all tables needed to reproduce for claim).
+- What do I do if readme file isn't fully accurate (eg: make setup.do was actually setup.do).
+- Some packages aren't getting installed properly.
+- Super long run times on stata.
+
+I have currently worked around 5-6 hours in week 3, although I may get more work done during the weekend.
+
 ## Week 2 (2/22)
 **Assigned Tasks:**  
 - Figure out a new way of scrolling through reproduction trees for ACRE guidelines

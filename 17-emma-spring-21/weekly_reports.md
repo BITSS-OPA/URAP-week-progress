@@ -1,5 +1,26 @@
 # Weekly reports of progress
 
+## Week 6 (3/1)
+
+##### Assigned tasks
+- Create dimensions to judge OPAs
+    - reference: [TOP guidelines](https://www.cos.io/initiatives/top-guidelines) for assessing paper transparency
+- Assess current work on unemployment insurance according to OPA standards
+  - https://observablehq.com/@jamesohawkins-obs/relief-payments-interactive
+  - https://youngamericans.berkeley.edu/2021/02/18/simulating-economic-impact-payments-an-interactive-model/
+- Complete reproduction
+
+##### Completed tasks
+- Completed COVID-19 Economic Impact reproduction (for now); link to SSRP reproduction [here](https://www.socialsciencereproduction.org/reproductions/7b794f10-0b5f-4fd8-a951-1e0ab0b90451/index).
+- Working on dimensions to assess OPAs [here](https://docs.google.com/document/d/1QIzq6d1MmkCjVmMgpSF60uHpYQy2sniAvw4QeDMDdGY/edit); will have a draft ready by Monday.
+- Will assess current unemployment insurance interactive models before Monday meeting.
+
+##### Notes
+- Received response from authors on 3/1; open to future SSRP inquiries (added in Assessment stage because first 2 sections are locked)
+  - _"We are actually in the midst of putting together a reproduction package for this working paper. I expect they'll be posted within a month or two. At that time, we also plan to post the data to a stable Dataverse DOI."_
+
+I worked 6 hours during Week 6. (Will complete at least 9 hours by Monday)
+
 ## Week 5 (2/22)
 
 ##### Assigned tasks
