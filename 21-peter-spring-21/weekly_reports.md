@@ -1,5 +1,23 @@
 # Weekly reports of progress
 
+## Week 5 (3/1)
+
+**Assigned tasks**
+
+- Update logo
+- Complete SSRP attempt
+- Build an assessment tool to evaluate a policy analysis
+- Evaluate the report
+  - Describe how Observable works
+  - Use TOP Guidelines
+
+**Completed tasks**
+
+- Updated the opaque Shinyapp
+- Submitted SSRP attempt
+  - Documented robustness checks
+- 
+
 ## Week 4 (2/22)
 
 ##### Assigned tasks
