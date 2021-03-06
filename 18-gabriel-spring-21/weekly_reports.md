@@ -1,3 +1,15 @@
+Week 5 (3/1 - 3/5)
+Tasks assigned:
++ Work with Sreeja and Keanu to alter the Wealth Tax OPA to be more inline with the Deworming OPA (open ended)
+
+Work completed:
++ Mapped functionality of Wealth Tax DD to assist in creating environment document for R Shiny app (alongside team mates)
++ Wrote draft executive summary and OPA description from BITSS materials
++ Coached fellow URAP Sreeja on R Shiny structure, file path manipulation and code analysis
++ Read/learned a great deal about CSS formatting and R Shiny app structures
++ Proposed adds to Wealth Tax OPA: add readme files to repository, minor edits to wording in DD and visalization, creation of environment component
+Spent 11 hours this week
+
 Week 4 (2/22 - 2/26)
 Tasks assigned:
 + Finish ACRE materials
