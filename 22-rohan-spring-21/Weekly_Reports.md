@@ -11,6 +11,8 @@
 - Some packages aren't getting installed properly.
 - Super long run times on stata.
 
+I have currently worked around 5-6 hours in week 3, although I may get more work done during the weekend.
+
 ## Week 2 (2/22)
 **Assigned Tasks:**  
 - Figure out a new way of scrolling through reproduction trees for ACRE guidelines
