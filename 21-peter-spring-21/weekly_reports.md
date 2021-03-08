@@ -30,7 +30,7 @@
 - Submitted SSRP attempt
   - Documented robustness checks
 - Created guidelines based on OSF guidelines
-  - Assessment/guidelines available here
+  - Assessment/guidelines available [here](Hawkins Assessment.md)
 
 I worked 6 hours in Week 5.
 
