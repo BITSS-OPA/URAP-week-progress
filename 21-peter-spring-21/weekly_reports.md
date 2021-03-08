@@ -1,5 +1,18 @@
 # Weekly reports of progress
 
+# Week 6 (3/8)
+
+**Assigned tasks**
+
+- Paper
+- Email ACRE
+- Fix bugs
+- Meet with Emma
+
+**Completed tasks**
+
+- 
+
 ## Week 5 (3/1)
 
 **Assigned tasks**
@@ -16,7 +29,10 @@
 - Updated the opaque Shinyapp
 - Submitted SSRP attempt
   - Documented robustness checks
-- 
+- Created guidelines based on OSF guidelines
+  - Assessment/guidelines available here
+
+I worked 6 hours in Week 5.
 
 ## Week 4 (2/22)
 
