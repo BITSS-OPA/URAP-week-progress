@@ -1,3 +1,12 @@
+### Week 6 (Mar 1-5)
+- Assigned Tasks
+  - Start my reproduction of [this paper: Gender Bias among Professionals](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00877)
+- Completed tasks
+  - Edited my previous [reproduction of Efficiency of Facial Masks](https://www.socialsciencereproduction.org/reproductions/88e30ab9-41ef-4909-b8bf-f6548ee5ebab/index) according to Fernando's comments
+  - Finished the new [reproduction of Gender Bias among Professionals](https://www.socialsciencereproduction.org/reproductions/91b69145-18d1-4a73-9cf2-7024c67af1d6/index) 
+
+I worked for about 8.5 hours this week.
+
 ### Week 5 (Feb 22-26)
 - Assigned Tasks
   - Finish up my reproduction of [this paper](https://www.nature.com/articles/s41591-020-0843-2#data-availability)
