@@ -3,14 +3,16 @@
 ## Week 6 (3/1)
 ### Assigned Tasks
 - Finish reproduction (run code for do file)
-- [OPA wealth tax] (https://www.nytimes.com/2021/03/01/business/elizabeth-warren-wealth-tax.html)
+- [OPA wealth tax](https://www.nytimes.com/2021/03/01/business/elizabeth-warren-wealth-tax.html)
 
 ### Completed Tasks
 - Met with Rohan on Stata download
 - Met with Fernando about Stata help
+- initial OPA on [current wealth tax proposal](https://github.com/BITSS-OPA/policy-analysis-registry/blob/master/reports/13-Lauren-WealthTax.md)   
 
 ### Continuing Tasks
-- OPA Wealth Tax
+- contact policy analysts for follow ups [OPA Wealth Tax](https://github.com/BITSS-OPA/policy-analysis-registry/blob/master/reports/13-Lauren-WealthTax.md)
+- finish reproduction once stata issues are addressed
 
 ### Notes
 - do-files will not run due to errors on locating the files, not sure what the issue is
@@ -24,7 +26,7 @@
   - default_assumptions.xlsx
 
 
-I have worked 4 hours and will continue to work 6 more this weekend.
+I have worked 9 hours this week.
 
 ## Week 5 (2/22)
 
