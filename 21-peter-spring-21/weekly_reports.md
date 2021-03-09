@@ -6,12 +6,13 @@
 
 - Paper
 - Email ACRE
-- Fix bugs
+- Fix advocacy repo bugs
 - Meet with Emma
 
 **Completed tasks**
 
-- 
+- Sent email to Cutler
+- Fixed repo bugs
 
 ## Week 5 (3/1)
 
