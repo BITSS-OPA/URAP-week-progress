@@ -1,3 +1,18 @@
+#Week 4 Submission Report (3/13)
+Tasks assigned for Week 4
+1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
+
+Tasks Completed 
+1. Done Reading the paper 
+2. Workin on the scoping section of the paper
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/c565463f-a939-4dd0-af92-69a9b3889dc3/index
+
+Note:
+Hours worked ~ 2 hours and will complete the remaining 6-7 hours over the weekend
+
+
+
 # Week 3 Submission Report (3/5)
 
 Tasks assigned for Week 3
