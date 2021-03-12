@@ -1,5 +1,43 @@
 # Weekly Reports
 
+## Week 7 (3/8)
+
+### Assigned Tasks
+- go to dlab to figure out stata issue with metafile.do
+- reproduce this paper https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00877
+  - identify the claims
+  - compare with others working on this paper
+- attend homeless webinar on Friday
+
+### Completed Tasks
+- read Wu paper
+- attended Covid-19 Homeless webinar
+
+### Contining Tasks
+- OPA wealth tax (hold off till next week)
+- finish reproduction
+
+__HOLD OFF TILL WEEK 8 (3/15)__
+- confirm the bill mentions the estimations
+- reword the would raise 1.0% of GDP per years
+- mention the yearly amount that it would Raise
+- **main question for this OPA**: __ask the supporting group who the main opponents are (organization)__
+- ask the opposing group what the main costs and benefits are
+    - could you give us the best estimate of the wealth tax?
+    (need to address and think about how to approach them)
+    - consider but do not email them yet
+
+  - follow up with saez and zucman (they are not as interested right now)
+      - what are the costs of the wealth tax?
+- do not use the opposing side policies
+
+- wait a week to pursue more..
+- how to approach supporters to affirm supporters
+- how to approach opponents to affirm supporters
+- template: in case we need to better identify the costs, please follow up with an email
+
+I worked 5 hours this week and will complete 4 more this weekend. 
+
 ## Week 6 (3/1)
 ### Assigned Tasks
 - Finish reproduction (run code for do file)
