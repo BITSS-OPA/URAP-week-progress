@@ -1,5 +1,25 @@
 # Weekly Reports of Progress
 
+## Week 7 (3/12/21)
+**Assigned Tasks**
+- Perform SSRP reproduction of Gender Bias paper
+
+**Completed Tasks**
+- Link to [reproduction](https://www.socialsciencereproduction.org/reproductions/78a5f08a-78e4-439e-b818-8a0dcf744de0/index)
+- Finished scoping
+
+**WIP**
+- Finishing assessment portion of SSRP over the weekend
+
+**Notes**
+
+_Issues with SSRP_
+- I checked 'attempted to count all figures' but when I reviewed the scoping it does not indicate this
+- Problems creating GitHub repo due to large file sizes (could not find a solution to this so still local)
+- I decided to add a claim and the platform deleted one of my claims which was somewhat frustrating
+
+I've worked 6 hours so far this week. I plan to work at least another 3 over the weekend to finish the assessment portion. I'll be using my 1st token next week though I plan on attending Monday's meeting as to not fall too far behind.
+
 ## Week 6 (3/5/21)
 
 **Assigned Tasks**
