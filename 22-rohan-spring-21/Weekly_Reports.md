@@ -1,4 +1,19 @@
-## Week 3 (2/29)
+## Week 4 (3/8)
+**Assigned Tasks:**
+ - Finish documenting the p-hacking reproduction.
+ - Read the gender bias paper and begin reproducing it.
+
+ **Finished Tasks:**
+ - Finished the p-hacking reproduction documentation.
+ - Began reading gender bias paper.
+
+ **Notes**
+ - While I'm not done with deciding the claims of the paper yet, I will get more work done over the weekend so I'm ready to properly discuss the paper on our Monday meeting.
+ - I couldn't find a reproduction package for the paper's data. This prevented me from being able to fully enter the paper on the social sciences reproduction website.
+
+ By Monday's meeting, I will have worked around 6-8 hours in week 4.
+
+## Week 3 (3/1)
 **Assigned Tasks:** 
 - Continue reproducing the p-hacking paper
 
