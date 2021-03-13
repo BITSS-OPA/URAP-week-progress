@@ -10,6 +10,7 @@
  **Notes**
  - While I'm not done with deciding the claims of the paper yet, I will get more work done over the weekend so I'm ready to properly discuss the paper on our Monday meeting.
  - I couldn't find a reproduction package for the paper's data. This prevented me from being able to fully enter the paper on the social sciences reproduction website.
+ - What if we find some of the EJMR statistics interesting and worth duplicating?
 
  By Monday's meeting, I will have worked around 6-8 hours in week 4.
 
