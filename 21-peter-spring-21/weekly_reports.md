@@ -4,15 +4,18 @@
 
 **Assigned tasks**
 
-- Paper
+- Reproduce paper
 - Email ACRE
 - Fix advocacy repo bugs
 - Meet with Emma
 
 **Completed tasks**
 
+- Repo is [here](https://github.com/petezh/ACRE-Wu) and SSRP submission is [here](https://www.socialsciencereproduction.org/reproductions/a860b7ac-3dbc-4fdb-bd46-f92ba34062cb/index)
 - Sent email to Cutler
 - Fixed repo bugs
+
+I worked 8 hours in Week 6.
 
 ## Week 5 (3/1)
 
