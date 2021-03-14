@@ -1,3 +1,14 @@
+### Week 7 (Mar 8-12)
+- Assigned tasks
+  - Start a new production on this [paper](https://www.aeaweb.org/articles?id=10.1257/aer.20190687)
+- Work in progress
+  - Read and understand the paper
+  - started my [reproduction](https://www.socialsciencereproduction.org/reproductions/8c3705f0-68fa-4088-9018-b84ad95cc263/index)
+  - Question: Do I need to "submit reproduction attempt" for all previous reproductions? There is a button at the stage overview for each reproduction.
+
+I worked for about 6.5 hours this week.
+
+
 ### Week 6 (Mar 1-5)
 - Assigned Tasks
   - Start my reproduction of [this paper: Gender Bias among Professionals](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00877)
