@@ -1,5 +1,19 @@
 # Weekly Reports
 
+## Week 5 (Mar. 14 - Mar. 20)
+
+### Assigned Tasks
+
+-
+
+time log: 1 hr for housing meeting
+
+## Week 4 (Mar. 7 - Mar. 13)
+
+- I took a midterm token this week
+
+
+
 ## Week 3 (Feb. 28 - Mar. 6)
 
 ### Assigned Tasks
