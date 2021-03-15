@@ -1,3 +1,13 @@
+Week 6 (3/8 = 3/12)
+Tasks assigned:
++ Work on ACRe
+
+Tasks completed:
++ Studying of paper and documenting of claims
++ Analyzing workflow on reproduction poackage (pre-platform analysis)
++Spent 6 hours this week
+
+
 Week 5 (3/1 - 3/5)
 Tasks assigned:
 + Work with Sreeja and Keanu to alter the Wealth Tax OPA to be more inline with the Deworming OPA (open ended)
