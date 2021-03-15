@@ -1,6 +1,16 @@
 # Weekly reports of progress
 
-# Week 6 (3/8)
+## Week 7 (3/15)
+
+**Assigned tasks**
+
+- Begin OPA proposal for Cutler and Summers
+
+**Completed tasks**
+
+- 
+
+## Week 6 (3/8)
 
 **Assigned tasks**
 
