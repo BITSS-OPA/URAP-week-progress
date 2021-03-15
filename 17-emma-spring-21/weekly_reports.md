@@ -1,5 +1,18 @@
 # Weekly reports of progress
 
+## Week 7 (3/8)
+
+##### Assigned tasks
+- New reproduction on SSRP
+  - [Gender Bias among Professionals paper](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00877)
+
+##### Completed tasks
+- Attended housing forum (3 hrs)
+- Started reproduction of assigned paper; will start Assessment stage next week.
+
+I worked 9 hours during Week 7.
+
+
 ## Week 6 (3/1)
 
 ##### Assigned tasks
