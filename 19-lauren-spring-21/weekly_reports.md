@@ -10,12 +10,12 @@
 - attend homeless webinar on Friday
 
 ### Completed Tasks
-- read Wu paper
+- read Wu paper and completed scoping section
 - attended Covid-19 Homeless webinar
 
 ### Contining Tasks
 - OPA wealth tax (hold off till next week)
-- finish reproduction
+- assessment and improvement section of Wu 2020
 
 __HOLD OFF TILL WEEK 8 (3/15)__
 - confirm the bill mentions the estimations
@@ -36,7 +36,7 @@ __HOLD OFF TILL WEEK 8 (3/15)__
 - how to approach opponents to affirm supporters
 - template: in case we need to better identify the costs, please follow up with an email
 
-I worked 5 hours this week and will complete 4 more this weekend. 
+I worked 9 hours this week. 
 
 ## Week 6 (3/1)
 ### Assigned Tasks
