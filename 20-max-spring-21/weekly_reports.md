@@ -14,6 +14,7 @@
 ### Notes
 
 - reproduction package is 3.6 GB, some files are too large to be uploaded to GitHub -- do I need to host my revised reproduction package at a separate host?
+- I plan to work next week over break!
 
 
 time log: 1 hr for housing meeting IIIIII
