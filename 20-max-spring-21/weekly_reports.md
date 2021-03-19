@@ -4,9 +4,15 @@
 
 ### Assigned Tasks
 
--
+- [x] assist with policy analysis for Housing and Homelessness panel
+  - made .Rmd file describing discrepancy between McKinsey's 3.5 mn homes estimate and Livable California/Embarcadero Institute's 1.5 mn homes estimate
 
-time log: 1 hr for housing meeting
+### Notes
+
+- reproduction package is 3.6 GB, some files are too large to be uploaded to GitHub -- do I need to host my revised reproduction package at a separate host?
+
+
+time log: 1 hr for housing meeting IIIIII
 
 ## Week 4 (Mar. 7 - Mar. 13)
 
