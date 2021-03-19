@@ -6,6 +6,10 @@
 
 - [x] assist with policy analysis for Housing and Homelessness panel
   - made .Rmd file describing discrepancy between McKinsey's 3.5 mn homes estimate and Livable California/Embarcadero Institute's 1.5 mn homes estimate
+- [x] begin Gender Bias among Professionals reproduction
+  - scoped paper and looked at reproduction package
+
+ I worked 9 hours this week
 
 ### Notes
 
