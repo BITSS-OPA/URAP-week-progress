@@ -1,4 +1,15 @@
-Week 6 (3/8 = 3/12)
+Week 7 (3/15 - 3/19)
+Tasks assigned:
++ Work on Wu ACRe
++ Share Proposed READMe and Executive Summary files for Wealth Tax OPA (unshared from previous weeks)
+
+Tasks completed:
++ Continued work on Wu ACRe
++ Finished proposed wealth tax OPA README files (see here for proposed readmes)[https://docs.google.com/document/d/1jldJAiPTL1fn8wsfQFtpZGEF-1pTqlrp_9Q_OYIcnSs/edit?usp=sharing]
++ Sharing proposed wealth tax OPA executive summary from two weeks ago (see here)[https://docs.google.com/document/d/1dO7oK8PaJcz23L4LO94XfnjfSJuTUPJ0-NL42HaXpP8/edit?usp=sharing]
++ Spent 10 hours this week (counting weekend hours)
+
+Week 6 (3/8 - 3/12)
 Tasks assigned:
 + Work on ACRe
 
