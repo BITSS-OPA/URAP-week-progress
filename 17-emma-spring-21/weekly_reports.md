@@ -1,5 +1,22 @@
 # Weekly reports of progress
 
+
+## Week 8 (3/15)
+
+##### Assigned
+- finish reproduction
+- policy analysis registry entry for housing panel
+
+##### Completed tasks
+- added policy analysis registry entry
+  - broadly describing difference in estimates of CA housing shortage; not much information for costs and benefits in Embarcadero Institute report, just that McKinsey accounting is an overestimate
+- working on reproduction
+
+##### Notes
+- I'm not going to work for the full 9-11 hours next week but I'll finish my reproduction before the next track meeting on 3/29!
+
+I worked 6 hours during Week 8 (will work 3-5 more hours over break).
+
 ## Week 7 (3/8)
 
 ##### Assigned tasks
