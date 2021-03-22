@@ -1,5 +1,30 @@
 # Weekly Reports
 
+## Week 5 (Mar. 14 - Mar. 20)
+
+### Assigned Tasks
+
+- [x] assist with policy analysis for Housing and Homelessness panel
+  - made .Rmd file describing discrepancy between McKinsey's 3.5 mn homes estimate and Livable California/Embarcadero Institute's 1.5 mn homes estimate
+- [x] begin Gender Bias among Professionals reproduction
+  - scoped paper and looked at reproduction package
+
+ I worked 9 hours this week
+
+### Notes
+
+- reproduction package is 3.6 GB, some files are too large to be uploaded to GitHub -- do I need to host my revised reproduction package at a separate host?
+- I plan to work next week over break!
+
+
+time log: 1 hr for housing meeting IIIIII
+
+## Week 4 (Mar. 7 - Mar. 13)
+
+- I took a midterm token this week
+
+
+
 ## Week 3 (Feb. 28 - Mar. 6)
 
 ### Assigned Tasks

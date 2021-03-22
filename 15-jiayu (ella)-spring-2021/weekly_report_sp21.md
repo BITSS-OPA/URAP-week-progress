@@ -1,3 +1,11 @@
+### Week 8 (Mar 15-19)
+- Assigned Tasks
+  - Finish ACRE on [this paper](https://www.aeaweb.org/articles?id=10.1257/aer.20190687)
+- Completed Tasks
+  - Completed ACRE [reproduction](https://www.socialsciencereproduction.org/reproductions/8c3705f0-68fa-4088-9018-b84ad95cc263/index)
+
+I worked for about 6.5 hours this week.
+
 ### Week 7 (Mar 8-12)
 - Assigned tasks
   - Start a new production on this [paper](https://www.aeaweb.org/articles?id=10.1257/aer.20190687)
