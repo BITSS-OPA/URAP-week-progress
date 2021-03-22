@@ -8,7 +8,9 @@
 
 **Completed tasks**
 
-- 
+- OPA Proposal, published [here](https://github.com/petezh/ACRE-Cutler-Summers/blob/main/OPA%20Proposal.md)
+
+I worked 6 hours during Week 7.
 
 ## Week 6 (3/8)
 
