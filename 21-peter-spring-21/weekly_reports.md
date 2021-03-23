@@ -1,5 +1,31 @@
 # Weekly reports of progress
 
+## Week 8 (3/22)
+
+**Assigned tasks**
+
+- OPA Deworming
+  - Tag it as a package, release number
+  - 2.11 Gains in earnings, "Show all the details" should have 1 line
+  - Executive summary closing line
+  - Replace "getwd()" with "here()" in UI and DD, add [tutorial](https://github.com/BITSS-OPA/Tutorials)
+  - Test on Mac
+  - Wrap the text in Shiny app help tab
+  - Review check list, "how would I deploy this?"
+  - If full deployment, rename to html
+  - Contributors.R list
+  - Delete branches
+
+**Completed tasks**
+
+- OPA Deworming
+  - Drafted tag
+  - Removed "show details" extra line
+  - Reached out to Keanu for closing line
+  - Replaced getwd() with here and add [Tutorial](https://github.com/BITSS-OPA/Tutorials/blob/master/R_markdown/Here%20Tutorial.md)
+  - Wrap text fixed
+  - Ran contributors
+
 ## Week 7 (3/15)
 
 **Assigned tasks**
