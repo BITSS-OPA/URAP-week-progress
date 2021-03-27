@@ -24,7 +24,11 @@
   - Reached out to Keanu for closing line
   - Replaced getwd() with here and add [Tutorial](https://github.com/BITSS-OPA/Tutorials/blob/master/R_markdown/Here%20Tutorial.md)
   - Wrap text fixed
-  - Ran contributors
+  - Ran/fixed contributors
+  - Deleted branches
+  - Fixed closing line
+
+I worked 8 hours in Week 8.
 
 ## Week 7 (3/15)
 
