@@ -1,10 +1,12 @@
 # Weekly Reports
+
+## Week 10 (3/29)
+
+## Week 9 (3/22)
+
+Spring Break
+
 ## Week 8 (3/15)
-notes:
-- confirm issue on github
-- i used causal claim but Fernando used descriptive
-- in the table in scoping method, you should put all key claims that will help build claim
-- claim
 
 ### Assigned Tasks
 - finish reproduction of Figure 5
@@ -12,7 +14,15 @@ notes:
 
 ### Completed Tasks
 - finished [reproduction](https://github.com/laurenpeterson1/ACRE_Wu_2020)
-I worked ___ hours this week. I will be taking next week off for spring break. I will finish my hours over the weekend and break. 
+
+notes:
+- confirm issue on github
+- i used causal claim but Fernando used descriptive
+- in the table in scoping method, you should put all key claims that will help build claim
+- claim
+- confused what file this is supposed to be: "/accounts/grad/haowen.wu/Documents/EJR-revise/dynamic/AME-by-length.log" within the . do file I am trying to run
+
+I worked 5 hours this week. I got stuck with the line of code so I wasn't able to complete more hours.
 
 ## Week 7 (3/8)
 
