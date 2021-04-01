@@ -1,5 +1,34 @@
 # Weekly reports of progress
 
+### Week 9 (3/29)
+
+**Assigned tasks**
+
+- OPA Deworming
+  - Finish tag/details
+  - Deploy
+  - Add name to contributors
+  - Create issue template
+  - Fix time <1 bug
+- Graphics
+  - Update figures
+  - Add to Shiny app, dynamic doc
+  - Add shaded version
+  - Update advocacy/opposition repos
+- Review UI OPA
+  - SSRP
+
+**Completed tasks**
+
+- OPA Deworming
+  - Fixed tag/details/contributors and deployed DD
+  - Created [issue template](https://github.com/BITSS-OPA/opa-deworming/blob/master/.github/ISSUE_TEMPLATE.md)
+  - Fixed [issue](https://github.com/BITSS-OPA/opa-deworming/issues/121)
+- Graphics
+  - Updated figures in app, DD, readme
+  - Linked images
+  - Requested shaded versions
+
 ## Week 8 (3/22)
 
 **Assigned tasks**
