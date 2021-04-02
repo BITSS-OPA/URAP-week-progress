@@ -1,3 +1,15 @@
+## Week 5 (3/29)
+**Assigned Tasks:**
+- Continue reproducing gender bias paper
+
+**Finished Tasks:** 
+- Successfully reproduced a figure from the paper and got started on documenting my work (unfortunately, the documentation is not finished).
+
+**Notes**
+- I have a few questions regarding how I should document the data sources on the social sciences reproduction website that I'll ask during our next meeting.
+
+I have currently worked around 6 hours in this week, but I do plan on doing more work over the weekend and will have done 8-10 hours of work by Monday's meeting.
+
 ## Week 4 (3/8)
 **Assigned Tasks:**
  - Finish documenting the p-hacking reproduction.
