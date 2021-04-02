@@ -2,6 +2,20 @@
 
 ## Week 10 (3/29)
 
+### Assigned Tasks
+- finish [reproduction](https://www.socialsciencereproduction.org/reproductions/3d1054f0-ad3e-46be-851d-a636bf623fb8/index)
+- work on the housing OPA
+
+### Completed Tasks
+- finished [reproduction attempt](https://www.socialsciencereproduction.org/reproductions/3d1054f0-ad3e-46be-851d-a636bf623fb8/index)
+- reviewed stata commands for graphics
+
+### Notes
+  - look for save and export commands in the . do file
+  - learn about stata commands for figures
+
+I worked 9 hours this week. 
+
 ## Week 9 (3/22)
 
 Spring Break
