@@ -1,5 +1,24 @@
 # Weekly Reports of Progress
 
+
+## Week 10 (4/2/21)
+
+**Assigned Tasks**
+- Finish SSRP reproduction of Gender Bias paper
+
+**Completed Tasks**
+- Finished with reproduction; need to polish over weekend after meeting with Sreeja on Saturday morning
+- Link to [reproduction](https://www.socialsciencereproduction.org/reproductions/78a5f08a-78e4-439e-b818-8a0dcf744de0/index)
+
+I've worked 7-8 hours this week.
+
+
+## Week 9 (3/26/21)
+Spring break
+
+## Week 8 (3/19/21)
+I used a token this week
+
 ## Week 7 (3/12/21)
 **Assigned Tasks**
 - Perform SSRP reproduction of Gender Bias paper
