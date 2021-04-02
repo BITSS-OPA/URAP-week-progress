@@ -1,5 +1,25 @@
 # Weekly Reports
 
+## Week 7 (Mar. 28 - Apr. 3)
+
+- uploaded housing gap .pdf and .Rmd
+- about to submit Gender Bias reproduction
+  - added all data and code and built diagram
+  - assessed reproducibility
+  - minor improvements: some broken filepaths (discussed on Slack)
+- looked back at Methods Matter reproduction
+  - finished scoping and starting Assessment
+
+I worked 9 hours this week
+
+
+
+## Week 6 (Mar. 21 - Mar. 27)
+
+- Spring break!
+
+
+
 ## Week 5 (Mar. 14 - Mar. 20)
 
 ### Assigned Tasks
@@ -9,7 +29,7 @@
 - [x] begin Gender Bias among Professionals reproduction
   - scoped paper and looked at reproduction package
 
- I worked 9 hours this week
+I worked 9 hours this week
 
 ### Notes
 
@@ -17,7 +37,6 @@
 - I plan to work next week over break!
 
 
-time log: 1 hr for housing meeting IIIIII
 
 ## Week 4 (Mar. 7 - Mar. 13)
 
