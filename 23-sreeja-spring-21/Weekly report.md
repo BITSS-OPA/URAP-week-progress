@@ -1,4 +1,20 @@
-#Week 4 Submission Report (3/13)
+# Week 5 Submission Report (4/02)
+Tasks assigned for Week 4
+1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
+
+Tasks Completed 
+1. Completed working till the Diagram Builder portion of the Assessment Section
+2. Learning and understanding the basics of Stata  
+3. Working on the reproducibility of the display items (Trying to work with Stata)
+4. Scheduled a meeting with Keanu on Saturday to discuss our reproductions 
+
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/c565463f-a939-4dd0-af92-69a9b3889dc3/index
+
+Note:
+Hours worked ~ 9 hours 
+
+# Week 4 Submission Report (3/13)
 Tasks assigned for Week 4
 1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
 
