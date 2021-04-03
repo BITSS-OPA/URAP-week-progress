@@ -1,10 +1,21 @@
 # Weekly reports of progress
 
+## Week 9 (3/29)
+
+##### Assigned tasks
+- Finish [SSRP reproduction](https://www.socialsciencereproduction.org/reproductions/811be8f3-8cbe-4b04-ab8d-97c95ab0847b/index)
+- Reproduction tree for UI OPA: [here](https://www.socialsciencereproduction.org/reproductions/9953bbf1-4918-43bc-a0e6-f3b91834c5b7/index) (in progress, will start tree by Monday meeting)
+
+##### Completed tasks
+- Finished Wu paper reproduction on SSRP
+  - link to [gh repo for reproduction](https://github.com/em-ng21/gender-bias-rumors)
+
+I worked 11 hours during Week 9.
 
 ## Week 8 (3/15)
 
-##### Assigned
-- finish reproduction
+##### Assigned tasks
+- finish [reproduction](https://www.socialsciencereproduction.org/reproductions/811be8f3-8cbe-4b04-ab8d-97c95ab0847b/index)
 - policy analysis registry entry for housing panel
 
 ##### Completed tasks
@@ -15,7 +26,8 @@
 ##### Notes
 - I'm not going to work for the full 9-11 hours next week but I'll finish my reproduction before the next track meeting on 3/29!
 
-I worked 6 hours during Week 8 (will work 3-5 more hours over break).
+I worked 6 hours during Week 8 (will work 3-5 more hours over break).  
+{3/29: worked 4 additional hours on reproduction last week.}
 
 ## Week 7 (3/8)
 
