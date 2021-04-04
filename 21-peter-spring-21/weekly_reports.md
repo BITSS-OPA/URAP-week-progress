@@ -28,6 +28,9 @@
   - Updated figures in app, DD, readme
   - Linked images
   - Requested shaded versions
+  - Updated app/DD/readme of advocacy and opposition repos
+
+I worked 12 hours during Week 9.
 
 ## Week 8 (3/22)
 
