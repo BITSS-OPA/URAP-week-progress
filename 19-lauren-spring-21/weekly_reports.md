@@ -2,6 +2,20 @@
 
 ## Week 10 (3/29)
 
+### Assigned Tasks
+- finish [reproduction](https://www.socialsciencereproduction.org/reproductions/3d1054f0-ad3e-46be-851d-a636bf623fb8/index)
+- work on the housing OPA
+
+### Completed Tasks
+- finished [reproduction attempt](https://www.socialsciencereproduction.org/reproductions/3d1054f0-ad3e-46be-851d-a636bf623fb8/index)
+- reviewed stata commands for graphics
+
+### Notes
+  - look for save and export commands in the . do file
+  - learn about stata commands for figures
+
+I worked 9 hours this week. 
+
 ## Week 9 (3/22)
 
 Spring Break
@@ -13,7 +27,7 @@ Spring Break
 - help Emma with any work needed on OPA
 
 ### Completed Tasks
-- finishing [reproduction](https://github.com/laurenpeterson1/ACRE_Wu_2020)
+- finishing [reproduction](https://www.socialsciencereproduction.org/reproductions/3d1054f0-ad3e-46be-851d-a636bf623fb8/index)
 
 notes:
 - . dta file is too large to add to reproduction file on Github (what do we do in this case?)
