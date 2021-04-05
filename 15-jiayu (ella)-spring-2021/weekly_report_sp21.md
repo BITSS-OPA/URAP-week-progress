@@ -1,3 +1,21 @@
+### Week 9 (Mar 29 - Apr 2)
+- Assigned Tasks
+  - create an ORCID account
+  - create a repo in bitts-opa with a prototype that contains more 10 (title only) slide decks 
+  - deploy the all 10 slide decks using the same repo 
+  - draft a tutorial explaining the steps to publish multiple slide decks using xaringan
+  - compare notes on the reproduction of the Wu paper with other Uraps
+- Completed Tasks
+  - created an ORCID account and I will use it to login to SSRP
+  - created a new sample [private repo](https://github.com/BITSS-OPA/slides-prototype)
+  - created sample folders for 10 slides to hold slides' addresses and their complementary files
+  - made a [tutorial draft](http://rpubs.com/sjy-ella/slide-repository-tutorial) of the steps in these tasks 
+- Work in Progress
+  - **Notes: The sample repository is my scratch work based off my understanding. If I'm working in the wrong direction or need to improve on anything I'm very prepared to do so! I made the repository private because of this. Once it's approved I will collect all real repos into one centralized repo. My tutorial will also be adjusted along with the improvement.**
+  - started comparing my reproduction of Wu's paper with other Uraps'
+
+I worked for about 7 hours this week.
+
 ### Week 8 (Mar 15-19)
 - Assigned Tasks
   - Finish ACRE on [this paper](https://www.aeaweb.org/articles?id=10.1257/aer.20190687)
