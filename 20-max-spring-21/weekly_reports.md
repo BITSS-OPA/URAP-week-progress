@@ -6,10 +6,10 @@
   - [ ] submit problem with saving in Assessment to ACRE_platform_issues
   - [ ] illustrate and submit problem with erroneous 'CYCLE DETECTED' in diagram builder to ACRE_platform_issues
 - [x] begin 'Twenty-year economic impacts of deworming' reproduction
-  - [ ] complete scoping
+  - [x] complete scoping
+  - [ ] complete assessment
 
-I worked II hours this week
-
+I worked IIII hours this week
 
 
 
