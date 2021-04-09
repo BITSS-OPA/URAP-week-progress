@@ -4,12 +4,14 @@
 
 - [x] submit 'Gender Bias among Professionals' reproduction
   - [ ] submit problem with saving in Assessment to ACRE_platform_issues
-  - [ ] illustrate and submit problem with erroneous 'CYCLE DETECTED' in diagram builder to ACRE_platform_issues
+    - will submit when I can provide steps to reproduce issue
+  - [x] illustrate problem with erroneous 'CYCLE DETECTED' in diagram builder to ACRE_platform_issues
 - [x] begin 'Twenty-year economic impacts of deworming' reproduction
   - [x] complete scoping
   - [ ] complete assessment
+    - issues with reproduction -- documented in `notes.md` in repository
 
-I worked IIII hours this week
+I worked 10 hours this week
 
 
 
