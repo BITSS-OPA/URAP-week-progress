@@ -1,5 +1,18 @@
 # Weekly Reports
 
+## Week 11 (4/5)
+
+### Assigned Tasks
+- write issue about ACRE diagram builder and the "cycle detected" comment
+    - the inputs are the same for two outputs so it says there is a cycle detected
+- [deworming - twenty years later] (https://www.pnas.org/content/118/14/e2023185118.short?rss=1) reproduction
+
+### Completed tasks
+- read paper
+- [started reproduction attempt](https://www.socialsciencereproduction.org/reproductions/e25330d8-dcee-4141-b343-b54a0d95cd30/index)
+
+I worked 9 hours this week.
+
 ## Week 10 (3/29)
 
 ### Assigned Tasks
@@ -14,7 +27,7 @@
   - look for save and export commands in the . do file
   - learn about stata commands for figures
 
-I worked 9 hours this week. 
+I worked 9 hours this week.
 
 ## Week 9 (3/22)
 
