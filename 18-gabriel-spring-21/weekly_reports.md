@@ -1,3 +1,16 @@
+Week 10 (4/5 - 4/9)
+Tasks assgined:
++ work on Deworming ACRe
+
+Tasks completed:
++ Finished Wu ACRe shortly before Weekly meeting
++ Scoping, reading and analyzing code for Deworming ACRe
++ Spent 10 hours
+
+Week 9 (3/29 - 4/2) - trapped in Arizona, used tokens, no work
+
+Week 8 (3/22- 3/26) - no work, Spring Break
+
 Week 7 (3/15 - 3/19)
 Tasks assigned:
 + Work on Wu ACRe
