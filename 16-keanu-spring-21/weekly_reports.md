@@ -1,5 +1,20 @@
 # Weekly Reports of Progress
 
+## Week 11 (4/9/21)
+**Assigned Tasks**
+- SSRP Reproduction of 20 year deworming paper
+
+**Completed Tasks**
+- Reproduction is [here](https://www.socialsciencereproduction.org/reproductions/17037f8e-0136-4bc9-938d-72b105251545/index)
+  - Finished with scoping, assessment, and improvements
+
+**WIP**
+- Reviewing reproduction before submitting
+
+**Notes**
+- Ask about adding an additional input category for master scripts in the SSRP on Monday
+
+I've worked 9-10 hours this week.
 
 ## Week 10 (4/2/21)
 
