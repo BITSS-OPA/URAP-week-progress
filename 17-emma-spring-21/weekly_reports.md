@@ -1,9 +1,23 @@
 # Weekly reports of progress
 
+## Week 10 (4/5)
+
+##### Assigned tasks
+- New reproduction - [Twenty-year economic impacts of deworming](https://www.pnas.org/content/118/14/e2023185118.short?rss=1) (exp. 1-2 weeks)
+- Finish Wu reproduction
+
+##### Completed tasks
+- UI OPA reproduction tree ([here](https://www.socialsciencereproduction.org/reproductions/9953bbf1-4918-43bc-a0e6-f3b91834c5b7/index)); still pretty fragmented and may need revision
+- Submitted Wu reproduction
+- Started new reproduction on deworming: [SSRP link](https://www.socialsciencereproduction.org/reproductions/b1081425-7bbc-45a6-8895-27312a4e6132/index)
+- (will complete by next week) Added Citrix/Stata tutorial to tutorials repo
+
+I worked 10 hours during Week 9.
+
 ## Week 9 (3/29)
 
 ##### Assigned tasks
-- Finish [SSRP reproduction](https://www.socialsciencereproduction.org/reproductions/811be8f3-8cbe-4b04-ab8d-97c95ab0847b/index)
+- Finish [SSRP reproduction](https://www.socialsciencereproduction.org/reproductions/8e36ebc0-bf19-4170-a24b-ae53df4b330f/index)
 - Reproduction tree for UI OPA: [here](https://www.socialsciencereproduction.org/reproductions/9953bbf1-4918-43bc-a0e6-f3b91834c5b7/index) (in progress, will start tree by Monday meeting)
 
 ##### Completed tasks
