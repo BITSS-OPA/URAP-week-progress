@@ -1,5 +1,20 @@
 # Weekly Reports
 
+## Week 8 (Apr. 4 - Apr. 10)
+
+- [x] submit 'Gender Bias among Professionals' reproduction
+  - [ ] submit problem with saving in Assessment to ACRE_platform_issues
+    - will submit when I can provide steps to reproduce issue
+  - [x] illustrate problem with erroneous 'CYCLE DETECTED' in diagram builder to ACRE_platform_issues
+- [x] begin 'Twenty-year economic impacts of deworming' reproduction
+  - [x] complete scoping
+  - [ ] complete assessment
+    - issues with reproduction -- documented in `notes.md` in repository
+
+I worked 10 hours this week
+
+
+
 ## Week 7 (Mar. 28 - Apr. 3)
 
 - uploaded housing gap .pdf and .Rmd
