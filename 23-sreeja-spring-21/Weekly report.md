@@ -5,7 +5,7 @@ Tasks assigned for Week 6
 Tasks Completed 
 1. Reading the paper 
 2. Scoping the paper 
-3. Diagram builder for the paper 
+3. Working on the diagram builder for the paper 
 
 Link for the reproduction below:
 https://www.socialsciencereproduction.org/reproductions/3b9d4a38-3d58-4b82-b4ee-bef7b8460958/index
