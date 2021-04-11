@@ -1,5 +1,5 @@
 # Week 6 Submission Report (4/11)
-Tasks assigned for Week 4
+Tasks assigned for Week 6
 1. Reproduction for 20 year deworming paper
 
 Tasks Completed 
@@ -14,7 +14,7 @@ Note:
 Hours worked ~ 9 hours 
 
 # Week 5 Submission Report (4/02)
-Tasks assigned for Week 4
+Tasks assigned for Week 5
 1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
 
 Tasks Completed 
