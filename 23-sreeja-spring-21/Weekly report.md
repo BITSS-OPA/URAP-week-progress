@@ -1,3 +1,18 @@
+# Week 6 Submission Report (4/11)
+Tasks assigned for Week 4
+1. Reproduction for 20 year deworming paper
+
+Tasks Completed 
+1. Reading the paper 
+2. Scoping the paper 
+3. Diagram builder for the paper 
+
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/3b9d4a38-3d58-4b82-b4ee-bef7b8460958/index
+
+Note:
+Hours worked ~ 9 hours 
+
 # Week 5 Submission Report (4/02)
 Tasks assigned for Week 4
 1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
