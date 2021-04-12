@@ -1,5 +1,23 @@
 # Weekly reports of progress
 
+### Week 10 (4/5)
+
+**Assigned tasks**
+
+- Reproduce deworming paper
+- Reproduce UI paper
+
+**Completed tasks**
+
+- Completed reproduction of Hamory et al. 2021
+  - Published public [repository](https://github.com/petezh/Reproduction-Deworming)
+  - Logged SSRP [attempt](https://www.socialsciencereproduction.org/reproductions/4043c95e-0a6a-4acc-b228-4c4abe10b3c4/index)
+- Completed reproduction of Hawkin's unemployment insurance paper
+  - Published private [repository](https://github.com/petezh/Reproduction-Unemployment-Insurance)
+  - Logged SSRP [attempt](https://www.socialsciencereproduction.org/reproductions/f112c47a-9c75-4f55-a9a7-f00d9add5712/index)
+
+I worked 16 hours in Week 10.
+
 ### Week 9 (3/29)
 
 **Assigned tasks**
@@ -29,6 +47,8 @@
   - Linked images
   - Requested shaded versions
   - Updated app/DD/readme of advocacy and opposition repos
+- Review UI OPA
+  - Viewed files
 
 I worked 12 hours during Week 9.
 
