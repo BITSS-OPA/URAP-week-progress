@@ -1,5 +1,13 @@
 # Weekly Reports
 
+## Week 9 (Apr. 11 - Apr. 17)
+
+- continue working on 'Twenty-year economic impacts of deworming' reproduction
+  - [ ] complete assessment
+
+
+
+
 ## Week 8 (Apr. 4 - Apr. 10)
 
 - [x] submit 'Gender Bias among Professionals' reproduction
