@@ -1,3 +1,17 @@
+## Week 6 (4/12)
+**Assigned Tasks:**
+- Continue reproducing gender bias paper.
+
+**Finished Tasks:**
+- Re-reproduced the paper fully from raw data.
+- Finished documenting my reproduction on the website.
+
+**Notes**
+- The diagram builder is marking some files as unused analytic data even though they were used.
+- Would be super helpful if we could add multiple rows at once while doing the assessment stage. Also it takes a lot of scrolling if you're entering multiple files into the input/output column.
+
+I worked around 10-12 hours in week 6.
+
 ## Week 5 (3/29)
 **Assigned Tasks:**
 - Continue reproducing gender bias paper
