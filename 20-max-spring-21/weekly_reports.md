@@ -4,8 +4,9 @@
 
 - continue working on 'Twenty-year economic impacts of deworming' reproduction
   - [ ] complete assessment
+  - [ ] make guide on running files if using Stata through Citrix
 
-I worked IIIII hours this week
+I worked IIIIIII hours this week
 
 
 
