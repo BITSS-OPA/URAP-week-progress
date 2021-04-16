@@ -1,11 +1,25 @@
 # Weekly Reports
+## Week 12 (4/12)
+Notes:
+https://stackoverflow.com/questions/43287524/stata-ado-package-not-found
+https://www.statalist.org/forums/forum/general-stata-discussion/general/1299948-stata-won-t-change-content-directory
+https://www.statalist.org/forums/forum/general-stata-discussion/general/1542570-stata-does-not-find-the-location-of-an-ado-file
+https://www.statalist.org/forums/forum/general-stata-discussion/general/1468243-cannot-write-in-directory-c-ado-plus-o
+https://kb.iu.edu/d/arur
+https://www.stata.com/manuals/psysdir.pdf
+
+### Assigned tasks
+- [finish reproduction](https://www.socialsciencereproduction.org/reproductions/7e3cd262-ad49-48cf-bebb-2f015f7cc084/index)
+### Completed tasks
+
+I will be completing my 9-11 hours over the weekend.
 
 ## Week 11 (4/5)
 
 ### Assigned Tasks
 - write issue about ACRE diagram builder and the "cycle detected" comment
     - the inputs are the same for two outputs so it says there is a cycle detected
-- [deworming - twenty years later] (https://www.pnas.org/content/118/14/e2023185118.short?rss=1) reproduction
+- [deworming - twenty years later](https://www.pnas.org/content/118/14/e2023185118.short?rss=1) reproduction
 
 ### Completed tasks
 - read paper
