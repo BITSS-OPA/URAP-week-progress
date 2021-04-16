@@ -3,10 +3,10 @@
 ## Week 9 (Apr. 11 - Apr. 17)
 
 - continue working on 'Twenty-year economic impacts of deworming' reproduction
-  - [ ] complete assessment
+  - [x] complete assessment
   - [x] make guide on running files if using Stata through Citrix
 
-I worked IIIIIIIII hours this week
+I worked 11 hours this week
 
 
 
