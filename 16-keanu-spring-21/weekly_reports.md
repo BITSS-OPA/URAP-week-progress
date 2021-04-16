@@ -1,5 +1,18 @@
 # Weekly Reports of Progress
 
+## Week 12 (4/16/21)
+**Assigned Tasks**
+- Robustness test of 20 year DW paper
+
+**WIP**
+- Implementing alternative spec for Table 1. GitHub repo [here](https://github.com/keanulim123/Reproduction-of-Twenty-year-economic-impacts-of-deworming).
+
+**Notes**
+- Attempting to define alternative spec for Table 1 (older fem, younger fem, older male, younger male) but not working. Still have a couple of hours over the weekend to (hopefully) produce something
+
+I've worked 8 hours so far this week. Planning to use 2 more hours to debug code
+
+
 ## Week 11 (4/9/21)
 **Assigned Tasks**
 - SSRP Reproduction of 20 year deworming paper
