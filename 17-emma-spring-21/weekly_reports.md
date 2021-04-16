@@ -1,5 +1,16 @@
 # Weekly reports of progress
 
+## Week 11 (4/12)
+
+##### Assigned tasks
+- Continue with reproduction
+- Citrix tutorial
+
+##### Completed tasks
+- Continued working on reproduction: [SSRP link](https://www.socialsciencereproduction.org/reproductions/b1081425-7bbc-45a6-8895-27312a4e6132/index)
+
+I worked 2 hours during Week 11, will complete hours over the weekend.
+
 ## Week 10 (4/5)
 
 ##### Assigned tasks
@@ -12,7 +23,7 @@
 - Started new reproduction on deworming: [SSRP link](https://www.socialsciencereproduction.org/reproductions/b1081425-7bbc-45a6-8895-27312a4e6132/index)
 - (will complete by next week) Added Citrix/Stata tutorial to tutorials repo
 
-I worked 10 hours during Week 9.
+I worked 10 hours during Week 10.
 
 ## Week 9 (3/29)
 
