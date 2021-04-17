@@ -1,5 +1,88 @@
 # Weekly Reports of Progress
 
+## Week 11 (4/9/21)
+**Assigned Tasks**
+- SSRP Reproduction of 20 year deworming paper
+
+**Completed Tasks**
+- Reproduction is [here](https://www.socialsciencereproduction.org/reproductions/17037f8e-0136-4bc9-938d-72b105251545/index)
+  - Finished with scoping, assessment, and improvements
+
+**WIP**
+- Reviewing reproduction before submitting
+
+**Notes**
+- Ask about adding an additional input category for master scripts in the SSRP on Monday
+
+I've worked 9-10 hours this week.
+
+## Week 10 (4/2/21)
+
+**Assigned Tasks**
+- Finish SSRP reproduction of Gender Bias paper
+
+**Completed Tasks**
+- Finished with reproduction; need to polish over weekend after meeting with Sreeja on Saturday morning
+- Link to [reproduction](https://www.socialsciencereproduction.org/reproductions/78a5f08a-78e4-439e-b818-8a0dcf744de0/index)
+
+I've worked 7-8 hours this week.
+
+
+## Week 9 (3/26/21)
+Spring break
+
+## Week 8 (3/19/21)
+I used a token this week
+
+## Week 7 (3/12/21)
+**Assigned Tasks**
+- Perform SSRP reproduction of Gender Bias paper
+
+**Completed Tasks**
+- Link to [reproduction](https://www.socialsciencereproduction.org/reproductions/78a5f08a-78e4-439e-b818-8a0dcf744de0/index)
+- Finished scoping
+
+**WIP**
+- Finishing assessment portion of SSRP over the weekend
+
+**Notes**
+
+_Issues with SSRP_
+- I checked 'attempted to count all figures' but when I reviewed the scoping it does not indicate this
+- Problems creating GitHub repo due to large file sizes (could not find a solution to this so still local)
+- I decided to add a claim and the platform deleted one of my claims which was somewhat frustrating
+
+I've worked 6 hours so far this week. I plan to work at least another 3 over the weekend to finish the assessment portion. I'll be using my 1st token next week though I plan on attending Monday's meeting as to not fall too far behind.
+
+## Week 6 (3/5/21)
+
+**Assigned Tasks**
+- Ensure Wealth Tax OPA complies w/ format of DW OPA
+- Propose a way to incorporate open report and data previous
+
+**Completed Tasks**
+- Forked wealth tax repo and made edits to Wealth Tax DD to match format of DW OPA
+  - Link to [repo](https://github.com/keanulim123/opa-wealthtax). Click github page link to easily access the DD
+
+**WIP**
+- Trying to find a way to make main visualization/policy estimate easily reproducible. There doesn't seem to be an easy way to export the ggvis plot and I haven't found any resources to do so without an external application (may be harder for individuals to reproduce).
+- Currently working w/ Gabriel and Sreeja on finding relevant chunks from Wealth Tax DD to import to an all_analysis file. Such implementation seems like it would require extensive work on server element of existing Wealth Tax visualization.
+
+I worked 9-10 hours this week
+
+## Week 5 (2/26/21)
+
+**Assigned Tasks**
+- Perform SSRP reproduction of Polarization and Public Health paper
+
+**Completed Tasks**
+- Met with Gabriel to discuss SSRP reproduction
+- Finished scoping and assessment of SSRP reproduction
+
+**WIP**
+- Finishing other portions of reproduction
+
+I worked 8-9 hours this week
 
 ## Week 4 (2/19/21)
 

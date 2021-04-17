@@ -1,3 +1,66 @@
+# Week 6 Submission Report (4/11)
+Tasks assigned for Week 6
+1. Reproduction for 20 year deworming paper
+
+Tasks Completed 
+1. Reading the paper 
+2. Scoping the paper 
+3. Working on the diagram builder for the paper 
+
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/3b9d4a38-3d58-4b82-b4ee-bef7b8460958/index
+
+Note:
+Hours worked ~ 9 hours 
+
+# Week 5 Submission Report (4/02)
+Tasks assigned for Week 5
+1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
+
+Tasks Completed 
+1. Completed working till the Diagram Builder portion of the Assessment Section
+2. Learning and understanding the basics of Stata  
+3. Working on the reproducibility of the display items (Trying to work with Stata)
+4. Scheduled a meeting with Keanu on Saturday to discuss our reproductions 
+
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/c565463f-a939-4dd0-af92-69a9b3889dc3/index
+
+Note:
+Hours worked ~ 9 hours 
+
+# Week 4 Submission Report (3/13)
+Tasks assigned for Week 4
+1. Reproduction for Gender Bias among Professionals: An Identity-Based Interpretation Paper
+
+Tasks Completed 
+1. Done Reading the paper 
+2. Workin on the scoping section of the paper
+Link for the reproduction below:
+https://www.socialsciencereproduction.org/reproductions/c565463f-a939-4dd0-af92-69a9b3889dc3/index
+
+Note:
+Hours worked ~ 2 hours and will complete the remaining 6-7 hours over the weekend
+
+
+
+# Week 3 Submission Report (3/5)
+
+Tasks assigned for Week 3
+1. Compare the opa-wealth tax and opa-dw
+2. Incorporate visualization with code for DD
+
+Tasks Completed 
+1. Understood the arrangement of code under the all_analysisR file in dw
+2. Met with Keanu and Gabriel to discuss and understand how to proceed with analysis 
+3. Played around the code with Keanu's forked repo which taught me a lot of broken links and errors
+4. Thanks to Keanu and Gabriel who really guided me on how to navigate through the R code and repo
+
+WIP
+1. Trying to decode particular chucks to understand which functions to retain
+2. Will support the creation of all_analysis document for wealth-tax 
+
+Hours worked ~ 8 hours 
 # Week 2 Submission Report (2/27)
 
 Tasks assigned for Week 2

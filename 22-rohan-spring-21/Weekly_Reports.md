@@ -1,3 +1,60 @@
+## Week 6 (4/12)
+**Assigned Tasks:**
+- Continue reproducing gender bias paper.
+
+**Finished Tasks:**
+- Re-reproduced the paper fully from raw data.
+- Finished documenting my reproduction on the website.
+
+**Notes**
+- The diagram builder is marking some files as unused analytic data even though they were used.
+- Would be super helpful if we could add multiple rows at once while doing the assessment stage. Also it takes a lot of scrolling if you're entering multiple files into the input/output column.
+
+I worked around 10-12 hours in week 6.
+
+## Week 5 (3/29)
+**Assigned Tasks:**
+- Continue reproducing gender bias paper
+
+**Finished Tasks:** 
+- Successfully reproduced a figure from the paper and got started on documenting my work (unfortunately, the documentation is not finished).
+
+**Notes**
+- I have a few questions regarding how I should document the data sources on the social sciences reproduction website that I'll ask during our next meeting.
+
+I have currently worked around 6 hours in this week, but I do plan on doing more work over the weekend and will have done 8-10 hours of work by Monday's meeting.
+
+## Week 4 (3/8)
+**Assigned Tasks:**
+ - Finish documenting the p-hacking reproduction.
+ - Read the gender bias paper and begin reproducing it.
+
+ **Finished Tasks:**
+ - Finished the p-hacking reproduction documentation.
+ - Began reading gender bias paper.
+
+ **Notes**
+ - While I'm not done with deciding the claims of the paper yet, I will get more work done over the weekend so I'm ready to properly discuss the paper on our Monday meeting.
+ - I couldn't find a reproduction package for the paper's data. This prevented me from being able to fully enter the paper on the social sciences reproduction website.
+ - What if we find some of the EJMR statistics interesting and worth duplicating?
+
+ By Monday's meeting, I will have worked around 6-8 hours in week 4.
+
+## Week 3 (3/1)
+**Assigned Tasks:** 
+- Continue reproducing the p-hacking paper
+
+**Finished Tasks:**
+- Continued reproducing the p-hacking paper as much as I could.
+
+**Notes**
+- On the social sciences reproduction website, I couldn't progress past the scoping stage because I wasn't comfortable with submitting everything in the scoping stage (eg: robustness checks, all tables needed to reproduce for claim).
+- What do I do if readme file isn't fully accurate (eg: make setup.do was actually setup.do).
+- Some packages aren't getting installed properly.
+- Super long run times on stata.
+
+I have currently worked around 5-6 hours in week 3, although I may get more work done during the weekend.
+
 ## Week 2 (2/22)
 **Assigned Tasks:**  
 - Figure out a new way of scrolling through reproduction trees for ACRE guidelines
