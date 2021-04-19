@@ -1,5 +1,18 @@
 # Weekly reports of progress
 
+### Week 12 (4/19)
+
+**Assigned tasks**
+
+- Update R markdown improvements notebook
+- Reproduce welfare [study](https://opportunityinsights.org/wp-content/uploads/2019/07/Welfare_paper.pdf)
+
+**Completed tasks**
+
+- Updated R markdown notebook is [here](https://github.com/petezh/Reproduction-Deworming/blob/main/improvements/improvements_report.Rmd)
+
+I worked _ hours in Week 12.
+
 ### Week 11 (4/12)
 
 **Assigned tasks**
