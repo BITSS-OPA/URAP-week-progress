@@ -1,5 +1,16 @@
 # Weekly Reports
 
+## Week 10 (Apr. 18 - Apr. 24)
+
+- [ ] finish 'Twenty-year economic impacts of deworming' reproduction
+  - [ ] merge `notes.md` into `README.md`
+- [ ] create tutorial on using Citrix for Stata for new apprentices
+- [ ] resume 'Methods Matter' reproduction
+
+I worked  hours this week
+
+
+
 ## Week 9 (Apr. 11 - Apr. 17)
 
 - continue working on 'Twenty-year economic impacts of deworming' reproduction
