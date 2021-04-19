@@ -1,5 +1,17 @@
 # Weekly reports of progress
 
+### Week 11 (4/12)
+
+**Assigned tasks**
+
+- Create R markdown notebook for displaying improvements from ACRE JSON
+
+**Completed tasks**
+
+- R markdown notebook is [here](https://github.com/petezh/Reproduction-Deworming/blob/main/improvements/improvements_report.Rmd), and the Markdown output is [here](https://github.com/petezh/Reproduction-Deworming/blob/main/improvements/improvements_report.md).
+
+I worked 7 hours in Week 11.
+
 ### Week 10 (4/5)
 
 **Assigned tasks**
