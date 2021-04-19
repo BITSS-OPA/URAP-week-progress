@@ -1,3 +1,15 @@
+Week 11 (4/12 - 4/16)
+Tasks assgined:
++ Finish Deworming ACRe
++ Send email to social science reproduction platform suggesting changes to assessment phase
+
+Tasks completed:
++ Finished DeWorming ACRe (Reproduction link here: https://www.socialsciencereproduction.org/reproductions/01f33fa5-c26c-4907-8415-c512138d283c/index )
++ Sent detailed report to SSRP suggestions (text in google doc here: https://docs.google.com/document/d/1MANOSvd-Ecyk3T6HAy43OSN_Sb_gV9KtrBBOKByJasI/edit?usp=sharing )
++ Spent 10 hours
+
+
+
 Week 10 (4/5 - 4/9)
 Tasks assgined:
 + work on Deworming ACRe

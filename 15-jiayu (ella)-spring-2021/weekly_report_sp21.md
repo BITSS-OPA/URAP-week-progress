@@ -1,3 +1,14 @@
+### Week 11 (Apr 12-16)
+I'm using a token this week.
+
+### Week 10 (Apr 5-9)
+- Assigned Tasks
+  - Continue to working on slide repo
+- Work in progress
+  - Watched the netlify tutorial, and sent my questions in email 
+
+I worked for about 5.5 hours this week. I will compensate my short in time by working more hours after break. 
+
 ### Week 9 (Mar 29 - Apr 2)
 - Assigned Tasks
   - create an ORCID account
