@@ -1,5 +1,20 @@
 # Weekly reports of progress
 
+## Week 12 (4/19)
+
+##### Assigned tasks
+- Work on draft OPA concept note for AV with Katie
+- Look for jobs, internships + add tutorial
+
+
+##### Completed tasks
+- Added tutorials on citrix and revised summer funding file
+- Worked on concept note draft
+- Looked for jobs and internships, tutorial [here](https://github.com/BITSS-OPA/Tutorials/blob/master/Policy%20Analysis%20Opportunities.md)
+  - Internship program applications for this summer are largely over, but could be helpful for next year/ for URAPs looking for full-time positions.
+
+I worked 9 hours during Week 12.
+
 ## Week 11 (4/12)
 
 ##### Assigned tasks
@@ -10,6 +25,7 @@
 - Continued working on reproduction: [SSRP link](https://www.socialsciencereproduction.org/reproductions/b1081425-7bbc-45a6-8895-27312a4e6132/index)
 
 I worked 2 hours during Week 11, will complete hours over the weekend.
+{4/18: worked 7 additional hours over the weekend.}
 
 ## Week 10 (4/5)
 
