@@ -2,12 +2,19 @@
 
 ## Week 10 (Apr. 18 - Apr. 24)
 
-- [ ] finish 'Twenty-year economic impacts of deworming' reproduction
-  - [ ] merge `notes.md` into `README.md`
-- [ ] create tutorial on using Citrix for Stata for new apprentices
-- [ ] resume 'Methods Matter' reproduction
+- [x] finish 'Twenty-year economic impacts of deworming' reproduction
+  - [x] merge `notes.md` into `README.md`
+- [x] create tutorial on using Citrix for Stata for new apprentices
+- [x] resume 'Methods Matter' reproduction
+- [x] ACRE regex task
 
-I worked  hours this week
+## Notes
+
+- need to submit suggestion for diagram builder
+- comment on assessment saving bug issue thread
+- submit suggestion for display of master files in diagram builder?
+
+I worked 9 hours this week
 
 
 
