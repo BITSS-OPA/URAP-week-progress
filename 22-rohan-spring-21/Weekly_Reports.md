@@ -1,3 +1,16 @@
+## Week 7 (4/19)
+**Assigned Tasks:**
+- Fully finish reproducing gender bias paper; check if I can create a shell script to run all the files.
+- Review and wrap up p-hacking paper.
+
+**Finished Tasks:**
+- Made a markdown file documenting my reproduction for the gender bias paper; could not succesfully make a shell script.
+- Will review and wrap up p-hacking paper over the weekend.
+
+By monday's meeting, I will have worked around 8 hours in week 7.
+Gender bias paper reproduction link: https://www.socialsciencereproduction.org/reproductions/131/index?step=2
+P-hacking paper reproduction link: https://www.socialsciencereproduction.org/reproductions/116/index?step=2 
+
 ## Week 6 (4/12)
 **Assigned Tasks:**
 - Continue reproducing gender bias paper.
