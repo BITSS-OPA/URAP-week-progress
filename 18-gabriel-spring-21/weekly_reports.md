@@ -1,3 +1,11 @@
+Week 12 (4/19 - 4/23)
+Tasks assigned:
++ Finish Allcott ACRe
+
+Tasks completed:
++ Finished Allcott ACRe
++ Spent 8 hours
+
 Week 11 (4/12 - 4/16)
 Tasks assgined:
 + Finish Deworming ACRe
