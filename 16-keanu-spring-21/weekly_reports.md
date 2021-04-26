@@ -1,5 +1,21 @@
 # Weekly Reports of Progress
 
+
+## Week 13 (4/23/21)
+**Assigned Tasks**
+- Input robustness test (failed)
+- SSRP Reproduction of Replicability paper
+
+**Completed Tasks**
+- Inputted robustness test and submitted reproduction of 20 year DW paper
+- Reproduction is [here](https://www.socialsciencereproduction.org/reproductions/40709111-7332-4f45-b103-3d5fed4c884b/index)
+  - Finished with scoping
+
+**WIP**
+- Finishing reproduction. Just started on assessment/figuring out structure of reproduction package
+
+I've worked 9 hours this week.
+
 ## Week 12 (4/16/21)
 **Assigned Tasks**
 - Robustness test of 20 year DW paper
