@@ -4,6 +4,8 @@
 - Write a summary document for the work done in the semester.
 - Add to the BITSS tutorials if necessary.
 
+I worked around 3 hours in week 8.
+
 **Finished Tasks:**
 - Began drafting an email to Alice Wu, but realized I didn't have enough content for a proper email.
 - Wrote the summary document for the semester.
