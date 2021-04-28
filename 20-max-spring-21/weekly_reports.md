@@ -1,5 +1,15 @@
 # Weekly Reports
 
+## Week 11 (Apr. 25 - May 1)
+
+- [x] finish Methods Matter reproduction
+  - SSRP link [here](https://www.socialsciencereproduction.org/reproductions/feeb3d29-7d55-4e15-84c9-9903d7e923b7/index)
+- [ ] write up summary of experiences
+
+I worked IIII hours this week
+
+
+
 ## Week 10 (Apr. 18 - Apr. 24)
 
 - [x] finish 'Twenty-year economic impacts of deworming' reproduction
