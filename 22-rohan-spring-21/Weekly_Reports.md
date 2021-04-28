@@ -9,6 +9,8 @@
 - Wrote the summary document for the semester.
 - Added a folder and file to the BITSS tutorials with instructions for running Python files.
 
+I worked around 3 hours in week 8.
+
 ## Week 7 (4/19)
 **Assigned Tasks:**
 - Fully finish reproducing gender bias paper; check if I can create a shell script to run all the files.
