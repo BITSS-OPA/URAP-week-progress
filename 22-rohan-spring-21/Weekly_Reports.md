@@ -4,12 +4,12 @@
 - Write a summary document for the work done in the semester.
 - Add to the BITSS tutorials if necessary.
 
-I worked around 3 hours in week 8.
-
 **Finished Tasks:**
 - Began drafting an email to Alice Wu, but realized I didn't have enough content for a proper email.
 - Wrote the summary document for the semester.
 - Added a folder and file to the BITSS tutorials with instructions for running Python files.
+
+I worked around 3 hours in week 8.
 
 ## Week 7 (4/19)
 **Assigned Tasks:**
