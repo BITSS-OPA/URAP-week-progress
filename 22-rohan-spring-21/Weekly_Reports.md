@@ -1,3 +1,14 @@
+## Week 8 (4/26)
+**Assigned Tasks:**
+- Draft an email to Alice Wu detailing my reproduction.
+- Write a summary document for the work done in the semester.
+- Add to the BITSS tutorials if necessary.
+
+**Finished Tasks:**
+- Began drafting an email to Alice Wu, but realized I didn't have enough content for a proper email.
+- Wrote the summary document for the semester.
+- Added a folder and file to the BITSS tutorials with instructions for running Python files.
+
 ## Week 7 (4/19)
 **Assigned Tasks:**
 - Fully finish reproducing gender bias paper; check if I can create a shell script to run all the files.
