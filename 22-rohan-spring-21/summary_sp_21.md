@@ -1,6 +1,6 @@
 ## Spring 2021 Summary
 
-**Week 1:** Read the OPA paper, ACRE guidelines, weath tax and DD. Noted down any questions I had during this process and had a meeting with my peers to help answer these questions. <br>  
+**Week 1:** Read the OPA paper, ACRE guidelines, weath tax and DD. Noted down any questions I had during this process and had a meeting with my peers to help answer these questions.  
 **Week 2:** Explored how to scroll through reproduction trees for the ACRE guidelines, read the p-hacking paper and got started on reproducing it.  
 **Week 3:** Continued reproducing the p-hacking paper, but wasn't sure on how to properly document the reproduction on the socialsciencesreproduction website.  
 **Week 4:** Finished documenting the p-hacking paper plus read and decided on claims for the gender bias paper.
