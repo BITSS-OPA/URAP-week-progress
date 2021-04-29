@@ -1,3 +1,16 @@
+Week 13 (4/26 - 4/30)
+Tasks assgined:
++ Write semester summary
++ Add UCDC to policy analysis opportunities
+
+Tasks completed:
++ Wrote semester summary
++ Added UCDC and PPIA to document
++ Sent email to Fernando regarding ethical concerns for Allcott paper
++ Sent email to Aleks to finish recommendations to SSRP
+2 hours spent this week
+Thank you for the amazing semester!
+
 Week 12 (4/19 - 4/23)
 Tasks assigned:
 + Finish Allcott ACRe
