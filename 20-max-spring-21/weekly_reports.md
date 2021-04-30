@@ -4,9 +4,9 @@
 
 - [x] finish Methods Matter reproduction
   - SSRP link [here](https://www.socialsciencereproduction.org/reproductions/feeb3d29-7d55-4e15-84c9-9903d7e923b7/index)
-- [ ] write up summary of experiences
+- [x] write up summary of experiences
 
-I worked IIII hours this week
+I worked 6 hours this week
 
 
 
