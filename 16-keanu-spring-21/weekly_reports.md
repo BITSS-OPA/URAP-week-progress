@@ -1,5 +1,18 @@
 # Weekly Reports of Progress
 
+## Week 14 (4/30/21)
+**Assigned Tasks**
+- Finish SSRP Reproduction of Replicability paper
+- URAP Summary
+
+**Completed Tasks**
+- Finished SSRP reproduction is [here](https://www.socialsciencereproduction.org/reproductions/40709111-7332-4f45-b103-3d5fed4c884b/index)
+- Created URAP Summary
+
+**Notes**
+- Ask about adding a master script portion to the code scripts input portion of the SSRP
+
+I worked 8-9 hours this week.
 
 ## Week 13 (4/23/21)
 **Assigned Tasks**
