@@ -1,5 +1,19 @@
 # Weekly reports of progress
 
+## Week 13 (4/26)
+
+##### Assigned tasks
+- Revise tutorial repo readme
+- Create semester summary
+
+##### Completed tasks
+- Created [semester summary]()
+- Tutorial repo: SSRP FAQ - answers to common questions that came up, including:
+  - definition of claim
+  - using stata/citrix
+  - link to guidelines section where analytic and raw data are defined
+I worked 5 hours during Week 13.  
+
 ## Week 12 (4/19)
 
 ##### Assigned tasks
