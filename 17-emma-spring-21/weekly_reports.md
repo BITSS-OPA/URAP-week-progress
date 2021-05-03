@@ -1,5 +1,21 @@
 # Weekly reports of progress
 
+## Week 13 (4/26)
+
+##### Assigned tasks
+- Revise tutorial repo readme
+- Create semester summary
+
+##### Completed tasks
+- Created [semester summary](https://github.com/BITSS-OPA/URAP-week-progress/blob/master/17-emma-spring-21/summary_spring_21.md)
+- (In progress; will complete over the weekend) Revise tutorial repo readme for organization
+- (Will complete over the weekend) Create a file in tutorial repo for SSRP FAQ - answers to common questions that came up, including:
+  - definition of claim
+  - using stata/citrix
+  - link to ACRE guidelines section where analytic and raw data are defined
+  
+I worked 5 hours during Week 13.  
+
 ## Week 12 (4/19)
 
 ##### Assigned tasks
