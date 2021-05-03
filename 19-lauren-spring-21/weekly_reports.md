@@ -1,4 +1,20 @@
 # Weekly Reports
+## Week 14 (4/26)
+
+### Assigned Tasks
+- finish reproduction
+- Summary for Spring 2021
+
+### Completed tasks
+- reproduction attempt completed [here](https://www.socialsciencereproduction.org/reproductions/c8cc1507-83ab-4a00-843a-7980aa418ba8/index)
+- [Spring 2021 Summary](https://github.com/BITSS-OPA/URAP-week-progress/blob/master/19-lauren-spring-21/Summary_Spring_21.md)
+
+### Notes:
+I did not change the number of claims in the reproduction in this attempt. In a future attempt I would summarize the main claims (typically 1 to 5 claims).
+
+## Week 13 (4/19)
+Token Week
+
 ## Week 12 (4/12)
 Notes:
 https://stackoverflow.com/questions/43287524/stata-ado-package-not-found
@@ -11,7 +27,7 @@ https://www.stata.com/manuals/psysdir.pdf
 ### Assigned tasks
 - [finish reproduction](https://www.socialsciencereproduction.org/reproductions/7e3cd262-ad49-48cf-bebb-2f015f7cc084/index)
 ### Completed tasks
-
+- working through final reproduction
 I will be completing my 9-11 hours over the weekend.
 
 ## Week 11 (4/5)
