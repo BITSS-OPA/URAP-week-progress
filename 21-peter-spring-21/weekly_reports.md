@@ -1,5 +1,29 @@
 # Weekly reports of progress
 
+### Week 13 (4/26)
+
+**Assigned tasks**
+
+- Wrap up deworming
+  - Limit reproducibility tree
+    - In text to one
+    - Pick reproduced figures
+  - Keep original README
+  - Move Rmd
+  - Add robustness checker
+  - Contact author
+- Write summary
+- Attempt welfare reproduction
+
+**Completed tasks**
+
+- Deworming reproduction
+  - New auto report with robustness checks is [here](reports)
+- Summary
+  - Wrote semester summary [here](summary.md)
+
+I worked 6 hours in Week 13.
+
 ### Week 12 (4/19)
 
 **Assigned tasks**

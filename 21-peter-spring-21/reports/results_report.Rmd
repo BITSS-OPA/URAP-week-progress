@@ -1,0 +1,110 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+  pdf_document: default
+  html_document: default
+---
+
+```{r parameters, results='hide', echo = FALSE, warning=FALSE, message=FALSE}
+# author: @petezh
+# input parameters
+json_file <- "reports/results.json" # file path to json
+ssrp_link <- "https://www.socialsciencereproduction.org/reproductions/4043c95e-0a6a-4acc-b228-4c4abe10b3c4/index" # link to ssrp submission
+```
+
+
+```{r setup-intro, results='hide', echo = FALSE, warning=FALSE, message=FALSE}
+packages <- c("tidyverse",
+              "knitr",
+              "kableExtra",
+              "RJSONIO",
+              "here") # packages
+lapply(packages, library, character.only = TRUE)
+raw_json<- fromJSON(here(json_file))
+```
+
+# Introduction
+
+This report summarizes a reproduction attempt for **`r raw_json$paper[['title']]`** by `r raw_json$paper[['authors']]`. It is generated from a [submission](`r ssrp_link`) on the [Social Science Reproduction Platform](https://www.socialsciencereproduction.org/) (SSRP). The reproduction follows the [guidelines](https://bitss.github.io/ACRE/improvements.html) outlined by the [Accelerating Computational Reproducibility in Economics](https://www.bitss.org/ecosystem/acre/) (ACRE) project. The reproducer implemented and suggested improvements and robustness checks.
+
+```{r repo, results='asis', echo = FALSE}
+num_packages = sum(sapply(raw_json$reproduction_packages, function(x)x['stage']=='revised'))
+if (num_packages > 0) { # if exists
+    cat('# Revised Package\nThe revised materials are listed below.') # write text
+  df <- lapply(raw_json$reproduction_packages, function(pack) # loop through improvements
+    {if(pack['stage'] == 'revised'){ # only current improvements
+    data.frame(matrix(unlist(pack), ncol=4, byrow=T))} # turn into data frame
+    })
+  df <- do.call(rbind, df) # collect improvements
+  df <- df[,c(1, 2, 4)] # reorder/drop columns
+  df[,1] <- str_to_title(str_replace(df[,1], '_', ' ')) # fix name
+  df[,3] <- str_replace(df[,3], 'https://', 'www.') # fix name
+  colnames(df) <- c("Type", "Description", "Link") # add column names
+  knitr::kable(df, align = "cl") # convert to table
+}
+```
+
+
+```{r paper-improvements, results='asis', echo = FALSE}
+num_display_imp = sum(sapply(raw_json$improvement$paper_level_improvements, function(x) x['phase']=='current')) # count current, paper level improvements
+if(num_display_imp > 0) { # if exists
+  cat('# Paper Improvements\nThere were', num_display_imp, 'overall improvement(s) to the paper.') # write text
+  df <- lapply(raw_json$improvement$paper_level_improvements, function(imp) # loop through improvements
+    {if(imp['phase'] == 'current'){ # only current improvements
+    data.frame(matrix(unlist(imp), ncol=3, byrow=T))} # turn into data frame
+    })
+  df <- do.call(rbind, df) # collect improvements
+  df <- df[,c(2, 1)] # reorder/drop columns
+  df[,1] <- str_to_title(str_replace(df[,1], '_', ' '))
+  colnames(df) <- c("Type", "Description") # add column names
+  knitr::kable(df, align = "cl") # convert to table
+}
+```
+
+```{r display-item-improvements, results='asis', echo = FALSE}
+num_paper_imp =  sum(sapply(raw_json$improvement$improved_display_items, function(x) x['phase']=='current')) # count current, paper level improvements
+if(num_paper_imp > 0) { # if exists
+  cat('# Display Item Improvements\nThere were', num_paper_imp, 'improvement(s) made to display items') # write text
+  
+  df <- lapply(c(raw_json$improvement$improved_display_items, raw_json$improvement$paper_level_improvements), function(imp) # loop through improvements
+    {if(imp['phase'] == 'future'){ # only current improvements
+    data.frame(matrix(unlist(imp), ncol=3, byrow=T))} # turn into data frame
+    })
+  df <- do.call(rbind, df) # collect improvements
+  df <- df[,c(2, 1)] # reorder/drop columns
+  df[,1] <- str_to_title(str_replace(df[,1], '_', ' '))
+  colnames(df) <- c("Type", "Description") # add column names
+  knitr::kable(df, align = "cl") # convert to table
+}
+```
+
+```{r future-improvements, results='asis', echo = FALSE}
+num_future_imp = sum(sapply(raw_json$improvement$improved_display_items, function(x) x['phase']=='future')) + sum(sapply(raw_json$improvement$paper_level_improvements, function(x) x['phase']=='future')) # count future improvements
+if(num_future_imp > 0) { # if exists
+  cat('# Future Improvements\nThere were', num_future_imp, 'suggested future improvement(s).') # write text
+  df <- lapply(c(raw_json$improvement$improved_display_items, raw_json$improvement$paper_level_improvements), function(imp) # loop through all improvements
+    {if(imp['phase'] == 'future'){ # only future improvements
+    data.frame(matrix(unlist(imp), ncol=3, byrow=T))} # turn into data frame
+    })
+  df <- do.call(rbind, df) # collect improvements
+  df <- df[,c(2, 1)] # reorder/drop columns
+  df[,1] <- str_to_title(str_replace(df[,1], '_', ' '))
+  colnames(df) <- c("Type", "Description") # add column names
+  knitr::kable(df, align = "cl") # convert to table
+}
+```
+
+```{r reproduction, results='asis', echo = FALSE}
+num_robchecks = sum(sapply(raw_json$robustness_checks, function(x) as.list(x$reasonable_robustness_tests[[1]])$results!='')) # count robuestness checks
+
+if(num_robchecks > 0) { # if exists
+  cat('# Robustness Checks\nThere were', num_robchecks, 'robustness checks(s).') # write text
+  df <- sapply(raw_json$robustness_checks, function(x) if(as.list(x$reasonable_robustness_tests[[1]])$results!='') data.frame(matrix(x$reasonable_robustness_tests[[1]], ncol = 6, byrow=T)))
+  df <- do.call(rbind, df) # collect improvements
+  df <- df[,c(2,3, 5, 6)] # reorder/drop columns
+  colnames(df) <- c("Variation", "Results", "Impact on Validity", "Explanation") # add column names
+  knitr::kable(df, align = "cl") # convert to table
+}
+```
+
