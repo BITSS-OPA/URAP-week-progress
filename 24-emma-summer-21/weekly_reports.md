@@ -1,5 +1,26 @@
 # Weekly reports of progress
 
+## Week 2 (7/13)
+
+##### Assigned tasks  
+- Cleaning ACRE guides repo: suggest cleanup structure and contact fernando in 1-2 days for approval
+  - clean up repo, (images in image folder; intermediate `_files` should not be in root)
+  - maybe look at bookdown repos for best practices/suggested format
+- Cleaning deworming repo: move csvs to data, run readme.Rmd; leave www folder for now
+- Look at documentation in baseline model email
+- In a later week: continue consolidating slide folders: connect prototype site to repository
+  - BITSS-OPA/Slides and BITSS/Slides; create two sites (one for ACRe and OPA)
+
+##### Completed tasks
+- Deworming OPA repo: moved contributors and links csv files to data folder
+- Read UI OPA documentation
+- Cleaning ACRE repo (in progress): Moving files to a new `images` folder
+  - tracked which image files were in both `docs` folder and root folder, in docs folder only, and in root folder only
+  - changed one file path in `06-Robust.Rmd` line 24 and knit document to test, R creates a new folder within docs folder (I anticipate maybe 2-5 more hours to complete task)
+
+I worked 30 hours during Week 2.  
+
+
 ## Week 1 (7/6)
 
 ##### Assigned tasks  
