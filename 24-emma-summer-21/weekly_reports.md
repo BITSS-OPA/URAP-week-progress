@@ -1,5 +1,36 @@
 # Weekly reports of progress
 
+## Week 3 (7/20)
+
+##### Assigned tasks  
+- Organize ACRe repo: put images in root/images folder, change paths
+- FUTURE TASK (ACRe): write readme file that has short explanation, points to SSRP, add contributors code
+- UI project: Review data intake
+  - Follow readme file instructions to download the 4 datasets used
+- UI project: Investigate scripted data download from IPUMS
+- UI project: try to find a solution for /\ differences in stata for mac and windows
+
+##### Completed tasks
+- Cleaned ACRe repo: created a new folder called "images" and moved .png files from root folder
+  - Not all image files were used in building the book, but I moved these to the images folder as well
+- Downloading IPUMS data
+  - CPS:
+    - `CPSID` is a household level variable on CPS website
+    - data format and structure download: chose .dta, cross sectional > rectangular > person
+  - DOL:
+    - downloaded files 203, 902p, 539 and 5159 from DOL website; would be helpful to have note for 5159 (download both regular program and PEUA data); all other files had regular program only
+  - BEA:
+    - data is a PDF; would this be more helpful as a csv?
+- Missing CPS variables when loading dataset with do file: `wksworkorg`, `wkstat`, `whyptlwk`, `fullpart`, `uhrsworkorg`, `paidhour` and all flag variables (`q*`)
+  - Created another data extract with the missing variables and original variables in readme, and added variables to tables in readme
+  - No flags found for: `wksworkorg`, `wkstat`, `whyptlwk`, `fullpart`
+  - only found QUHRSWORKORG, QPAIDHOU
+  - could not find flags for `QINCWAGED`, `QINCLONGD` at first; added automatically when adding the non `-D` version of the flag
+  - final extract: 68 variables, 51 samples
+- Investigate scripted data download: as of May 2019, IPUMS does not support logging in via command line ([here](https://forum.ipums.org/t/how-to-download-to-linux-server/2966)), which is needed to download IPUMS data.
+
+I worked 30 hours during Week 3.
+
 ## Week 2 (7/13)
 
 ##### Assigned tasks  
@@ -8,7 +39,7 @@
   - maybe look at bookdown repos for best practices/suggested format
 - Cleaning deworming repo: move csvs to data, run readme.Rmd; leave www folder for now
 - Look at documentation in baseline model email
-- In a later week: continue consolidating slide folders: connect prototype site to repository
+- FUTURE TASK: continue consolidating slide folders: connect prototype site to repository
   - BITSS-OPA/Slides and BITSS/Slides; create two sites (one for ACRe and OPA)
 
 ##### Completed tasks
