@@ -1,5 +1,35 @@
 # Weekly reports of progress
 
+## Week 5 (8/3)
+
+##### Assigned tasks
+- SSRP dashboard: creating chloropeth maps in R (SSRP_dashboard repo)
+  - investigate choropeth library/ creating choropeth maps in R
+  - create a map and color if there's a reproduction; later: gradient according to number of reproductions
+- go on SSRP and choose publication mode to resubmit reproductions
+- create a PR for 00 script and tag James - testing forward slash to see if it works universally
+- continue code review
+
+##### Completed tasks
+- submitted reproductions on SSRP; will submit reproductions to forum today (8/9)
+- SSRP dashboard choropleth map
+  - created example showing 5 US reproductions and 2 Chile reproductions
+  - Resources used: [R graph gallery](https://www.r-graph-gallery.com/327-chloropleth-map-from-geojson-with-ggplot2.html), [Plotly R Figure Reference](https://plotly.com/r/reference/choropleth/) [Plotly choropleth maps](https://plotly.com/r/choropleth-maps/#using-builtin-country-and-state-geometries), [Trafford Data Lab](https://medium.com/@traffordDataLab/lets-make-a-map-in-r-7bd1d9366098)
+- Code review:
+  - Reviewed up to L440 (CPI Adjustment)
+  - Added comments, have not implemented unit test yet
+
+##### Notes
+- Code review:
+  - L417 Weeks worked: recoding `wksworkorg`, which is not included in variables when loading cps.dta file (will check if this was in the data extract, if yes then add to L205 when loading dta file)
+  - L437-48 generating `household` and `children` variables: what total is this calculating? (copied lines below)
+  ```
+  bysort year serial: gegen household = total(pernum)
+  bysort year serial: gegen children = total(child)
+  ```
+
+I worked 30 hours during Week 5.
+
 ## Week 4 (7/27)
 
 ##### Assigned tasks
@@ -36,7 +66,7 @@
   - look into converting cpsid and cpsidp to string (should be format %15.0f, but stata shows %14s)
   - what convention for comments? //, /*, *
 
-I worked 28 hours during Week 4. (Will finish 2 more hours by 8/3 9am)
+I worked 30 hours during Week 4.
 
 
 ## Week 3 (7/20)
