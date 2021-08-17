@@ -17,7 +17,7 @@
 
 ##### Completed tasks
 - Created a pull request for James' review of earlier edits; we went over these in last week's meeting so I closed the PR and deleted the old branch.
-- Code review
+- Code review: reviewed up to CPI adjustment (~ line 475)
   - Finished describing authorized immigration status imputation
   - Described occupational status categories according to [Census beginning 2020](https://www2.census.gov/programs-surveys/cps/methodology/Occupation%20Codes.pdf)
   - Changed unit test
