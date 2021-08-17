@@ -1,5 +1,41 @@
 # Weekly reports of progress
 
+## Week 6 (8/10)
+
+##### Assigned tasks
+- Create a pull request for James to review notes
+- Code Review:
+  - Add suggested solution L351: attaching labels to citizend variable
+  - Review for loop removing legal spouse
+  - Add section summary for unauthorized immigrant imputation
+  - Occupational status (~line 400): figure out which occupations are represented
+  - Unemployment duration: describe - if duration is missing, then assume that it lasted for 0 weeks
+  - Understand what serial tracks
+  - Check CPS unit test
+
+
+
+##### Completed tasks
+- Created a pull request for James' review of earlier edits; we went over these in last week's meeting so I closed the PR and deleted the old branch.
+- Code review
+  - Finished describing authorized immigration status imputation
+  - Described occupational status categories according to [Census beginning 2020](https://www2.census.gov/programs-surveys/cps/methodology/Occupation%20Codes.pdf)
+  - Changed unit test
+  - Got stuck on for loop, left note for Fernando to review
+  - Understanding serial - still don't understand why total(pernum) is calculated for each `serial` in a year, because it seems like multiple households can be assigned the same serial number in the same year
+    - e.g. serial numbers for two households over 3 months  
+    Household A: 1, 2, 3  
+    Household B: 2, 1, 1
+
+
+##### Notes
+- DS.store is an invisible file that mac creates
+- [`Serial`](https://cps.ipums.org/cps-action/variables/SERIAL#description_section) is "an identifying number unique to each household in a given survey __month and year__"
+- `list var1 var2 var3 if var2 == value`
+- `help command`
+
+I worked 20 hours this week. (Worked fewer hours because of LSAT; will work 40 hours in Week 7)
+
 ## Week 5 (8/3)
 
 ##### Assigned tasks
