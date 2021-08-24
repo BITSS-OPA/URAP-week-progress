@@ -1,5 +1,28 @@
 # Weekly reports of progress
 
+## Week 7 (8/18)
+
+##### Assigned tasks
+- Continue code review
+- Try to figure out a good unit of tolerance for unit tests - look up precision/floats or something related
+
+##### Completed tasks
+- Code review
+  - Finished reviewing up to Harmonizing IPUMS CPS data (around line 620)
+  - (Reviewed during Friday 8/20 call) Checking unit test - looked up level of precision
+    - Is the reason for message displaying earlier because of [the way stata stores numbers](https://www.stata.com/support/faqs/data-management/float-data-type/)? Maybe can be solved by rounding to float precision, i.e. `assert float(e(r2_a)) != float(.0076626691456619)`.
+- Questions for BIFYA meeting
+    - Value labels for linked/missing status are not assigned (Around line 605)
+- Emailed IPUMS about AHRSWORKT inconsistency (responses were larger than maximum possible 168 hours in a week) and got a response:
+  - Different topcoding for CPS and ASEC samples.
+  - Response from IPUMS team: _The IPUMS CPS team has verified that these are anomalies that exist in the raw CPS microdata. As noted in the comparability tab for AHRSWORKT, the topcode for AHRSWORKT has been 198 for basic monthly samples since 1994. For ASEC samples, the topcode is 99. Apparently the Census Bureau hasn't forced consistency on this variable. Generally at IPUMS we retain the original values from the public use microdata, even if they are not logically possible. Thanks again for pointing this out. We'll add a note about this on the variable description page._
+
+##### Notes
+- Review slide deployment next week to teach URAPs in Week 9
+- Week 9 will be teaching URAPs code review
+
+I worked 38 hours during Week 7. (Still reviewing Harmonizing IPUMS CPS data, will add unit tests if I have time)
+
 ## Week 6 (8/10)
 
 ##### Assigned tasks
