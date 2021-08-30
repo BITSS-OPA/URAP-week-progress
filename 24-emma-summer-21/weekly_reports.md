@@ -1,5 +1,32 @@
 # Weekly reports of progress
 
+## Week 9 (8/31)
+- Notes from 8/30 meeting
+- Slide deck deployment
+  - bring aesthetics to test presentations (cega 2021)
+  - slide decks to use in CEGA 2021
+    - 01 slides.Rmd - apply the format to all presentations on the prototype site. (Review webinar if needed)
+  - (if time) test out internal links on index.Rmd
+
+## Week 8 (8/24)
+
+##### Assigned tasks
+- Finish 01 review
+- Start 02 review
+
+##### Completed tasks
+- 01
+  - finished annotating, added unit tests
+- 02
+  - Was unsure about unit tests for random sampling with replacement (bsample), but setting seed fixes result.
+  - Added note for hourwage topcode ($99.99 for usual hours worked <29 according to [IPUMS](https://cps.ipums.org/cps/hourly_earnings_topcodes.shtml))
+  - IN PROGRESS:
+    - Still waiting on imputation for monthly CPS to complete, will add time when done.
+    - Editing unit tests and bullet points for each section, will push changes when done.
+- Met with Gabriel and Max 8/30 to discuss code review task
+
+I worked 30 hours during Week 8.
+
 ## Week 7 (8/18)
 
 ##### Assigned tasks
@@ -62,8 +89,8 @@ I worked 20 hours this week. (Worked fewer hours because of LSAT; will work 40 h
 ## Week 5 (8/3)
 
 ##### Assigned tasks
-- SSRP dashboard: creating chloropeth maps in R (SSRP_dashboard repo)
-  - investigate choropeth library/ creating choropeth maps in R
+- SSRP dashboard: creating chloropleth maps in R (SSRP_dashboard repo)
+  - investigate choropleth library/ creating choropleth maps in R
   - create a map and color if there's a reproduction; later: gradient according to number of reproductions
 - go on SSRP and choose publication mode to resubmit reproductions
 - create a PR for 00 script and tag James - testing forward slash to see if it works universally
