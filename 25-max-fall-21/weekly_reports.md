@@ -2,7 +2,7 @@
 
 ## Week 2 (Aug. 29 - Sep. 4)
 
-- 
+- [ ] Review 04-05 code files
 
 
 ## Week 1 (Aug. 22 - Aug 28)
