@@ -1,12 +1,53 @@
 # Weekly reports of progress
 
 ## Week 9 (8/31)
+
+##### Assigned tasks
 - Notes from 8/30 meeting
 - Slide deck deployment
-  - bring aesthetics to test presentations (cega 2021)
-  - slide decks to use in CEGA 2021
-    - 01 slides.Rmd - apply the format to all presentations on the prototype site. (Review webinar if needed)
-  - (if time) test out internal links on index.Rmd
+  - Bring aesthetics to test presentations from [CEGA 2021](https://github.com/BITSS/CEGA2021) repo
+    - use 01 slides.Rmd - apply the format to all presentations on the prototype site
+  - Test out internal links on index.Rmd
+- Change 2 unit tests before imputations in 02
+- Start 04 review, if finished start 5a
+  - By thursday, assign to Max and Gabriel to continue (they don't have to start, but at least be familiar)
+  - 04: add timer for logistic regression
+
+##### Completed tasks
+- [Slide deck deployment](https://github.com/BITSS-OPA/slides-deploy-prototype) (IN PROGRESS/WILL RETURN IF TIME)
+  - Added internal links to test presentations - have to link to corresponding .html, not .Rmd
+  - Having issues applying xaringan Metropolis theme to slide decks - building site renders each .Rmd to html presentation, so the theme should be applied to site as a whole? OR modify css from CEGA 2021 repo
+    - theme works knitting individual presentation but not when building site
+    - doesn't apply to home page (index.Rmd) atm because YAML is just title
+      - not sure how multiple css option should work here; not the same as xaringan presentation?
+  - default.css is the same in both repos
+  - copied metropolis-fonts.css to default-fonts.css, didn't change anything
+    - why does metropolis-fonts in 01 css change fonts? isn't in repo
+- Code review
+  - 02:
+    - Revised unit tests
+    - Added computing time
+    - ASEC imputations: when restricting to imputation universe, description could be changed to __restrict to imputation universe ("asec only")__
+  - 04:
+    - Created section description for the whole file
+    - Added computing time for for-loop creating weight adjustments
+    - Added note for Fernando review: `set matsize` warning; seems like we can ignore it.
+      - "sets the maximum number of variables that can be included in any of Stata's estimation commands." default is 400
+    - Added unit test
+  - 05a:
+    - Created section description for the whole file
+      - described eligibility more in depth in each subsection
+    - Added note for James review in full Unemployment Compensation (elig_UCf) section: pre-April conditions eligibility isn't restricted to Feb/March 2020 like in other pre-April condition sections (PUAf, PUAp)
+    - `WHYPTLWK` was not included in data at first, so I added it to the CPS cleaning section in 01-cleaning and re ran do-files 01-05a.
+    - Added unit tests
+    - Described sections up to partial Pandemic Unemployment Assistance (elig_PUAf), Gabriel will pick up from here
+- Met with Max and Gabriel on Thursday 9/2 to discuss 01-03 progress and 04 + 05a review
+
+##### Notes
+- Maybe helpful pages
+  - [apply single font to entire webpage](https://stackoverflow.com/questions/10041706/applying-a-single-font-to-an-entire-website-with-css)
+
+I worked 26 hours during Week 9.
 
 ## Week 8 (8/24)
 
@@ -24,6 +65,14 @@
     - Still waiting on imputation for monthly CPS to complete, will add time when done.
     - Editing unit tests and bullet points for each section, will push changes when done.
 - Met with Gabriel and Max 8/30 to discuss code review task
+
+##### Notes
+- timer list output seemed strange; supposedly took 196 min but actual runtime was closer to 50
+```
+timer list
+   1:  11785.85 /        1 =   11785.8550
+```
+- maybe better to put a unit test BEFORE CPS imputation instead of after
 
 I worked 30 hours during Week 8.
 
