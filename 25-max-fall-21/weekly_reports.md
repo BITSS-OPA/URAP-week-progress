@@ -1,5 +1,21 @@
 # Weekly reports
 
+## Week 3 (Sep. 5 - Sep. 11)
+
+- Reviewed model description in README
+- Ran through:
+  - 00 (beginning only)
+  - 01
+  - 02
+  - 03
+  - 04
+  - 05a [ran into errors]
+- Began translation
+
+I worked III hours this week
+
+---
+
 ## Week 2 (Aug. 29 - Sep. 4)
 
 - [x] Review 04-05a code files
