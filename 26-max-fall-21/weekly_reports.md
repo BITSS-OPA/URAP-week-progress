@@ -1,5 +1,20 @@
 # Weekly reports
 
+## Week 4 (Sep. 12 - Sep. 18)
+
+- [x] Review 05a
+  - made eligibility condition comments clearer and more comprehensive
+  - updated README
+  - page 142 of DoL's [Comparison of State Unemployment Insurance Laws](https://oui.doleta.gov/unemploy/pdf/uilawcompar/2020/complete.pdf) is the original source used to create `student_exclusions.csv` and provides some insight on the meaning of each variable
+    - consider small data dictionary for `student_exclusions.csv` in the future
+- [x] Review 05b
+  - created eligibility condition comments
+  - created unit tests
+
+I worked IIIII hours this week
+
+---
+
 ## Week 3 (Sep. 5 - Sep. 11)
 
 - Reviewed model description in README
@@ -9,10 +24,10 @@
   - 02
   - 03
   - 04
-  - 05a [ran into errors]
+  - 05a (fixed errors)
 - Began translation
 
-I worked III hours this week
+I worked 7 hours this week
 
 ---
 
