@@ -10,8 +10,11 @@
 - [x] Review 05b
   - created eligibility condition comments
   - created unit tests
+- [x] Review 06a
+  - does not run: we are missing `state_thresholds_*.csv` files for `jan_2019`, `jul_2019`, `jan_2020`, `jul_2020`
+- [ ] Review 06b
 
-I worked IIIII hours this week
+I worked 9 hours this week
 
 ---
 
