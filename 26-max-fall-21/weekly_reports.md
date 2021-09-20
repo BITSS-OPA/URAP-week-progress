@@ -1,5 +1,12 @@
 # Weekly reports
 
+## Week 5 (Sep. 19 - Sep. 25)
+
+- [ ] Redevelop unit tests for 01, 02, 03, 04
+- [ ] Review 06a, 06b
+
+I worked __ hours this week
+
 ## Week 4 (Sep. 12 - Sep. 18)
 
 - [x] Review 05a
