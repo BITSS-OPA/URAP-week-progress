@@ -2,10 +2,11 @@
 
 ## Week 5 (Sep. 19 - Sep. 25)
 
-- [ ] Redevelop unit tests for 01, 02, 03, 04
+- [ ] Redevelop unit tests for 02, 03, 04, 05
 - [ ] Review 06a, 06b
+  - updated README for 06a inputs, intermediates, outputs
 
-I worked __ hours this week
+I worked IIIi hours this week
 
 ## Week 4 (Sep. 12 - Sep. 18)
 
