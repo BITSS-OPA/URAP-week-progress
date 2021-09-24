@@ -2,11 +2,17 @@
 
 ## Week 5 (Sep. 19 - Sep. 25)
 
-- [ ] Redevelop unit tests for 02, 03, 04, 05
+- [x] Redevelop unit tests for 02, ~~03~~, 04, 05
+  - 03 unit tests were already updated
+  - 02 runs into an error in the imputation (starting from line 261) about 45 min into the calculation. consequently, the unit tests in the 04, 05, and the second half of 02 are not yet functional
+    - is this a quick fix?
 - [ ] Review 06a, 06b
-  - updated README for 06a inputs, intermediates, outputs
+  - updated README for 06a input, intermediate, output files. when can we get these files?
+- [x] add data dictionary for 05a `student_exclusions.dta`
 
-I worked IIIi hours this week
+I worked 8 hours this week
+
+---
 
 ## Week 4 (Sep. 12 - Sep. 18)
 
