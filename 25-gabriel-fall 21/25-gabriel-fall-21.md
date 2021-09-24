@@ -1,3 +1,14 @@
+Week 4, 9/20 - 9/24
+Assigned tasks:
++ run and analyze data through 5b
++ fix IPUMS download issues
+
+Completed tasks
++ ran and analyzed data through 5b
++ Fixed IPUMS data to no longer flag unit tests
++ created "code narrative" for script 1, detailing line-by-line progression of data sets with definitions (available at https://docs.google.com/document/d/1ENHBAsiywxA2QbyJm53VMkNoH2alN81sT3kO1BAOt48/edit?usp=sharing)
+
+
 Week 3, 9/13 - 9/17
 
 Assigned tasks:
