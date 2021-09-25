@@ -1,5 +1,9 @@
 # Weekly reports
 
+## Week 6 (Sep. 26 - Oct. 2)
+
+- [ ] Work on slide deployment
+
 ## Week 5 (Sep. 19 - Sep. 25)
 
 - [x] Redevelop unit tests for 02, ~~03~~, 04, 05
