@@ -3,6 +3,11 @@
 ## Week 6 (Sep. 26 - Oct. 2)
 
 - [ ] Work on slide deployment
+- [x] Meet with Gabriel for Stata review
+
+I worked Ii hours this week
+
+---
 
 ## Week 5 (Sep. 19 - Sep. 25)
 
