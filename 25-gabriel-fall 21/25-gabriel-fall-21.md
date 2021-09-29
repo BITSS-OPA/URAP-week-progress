@@ -2,12 +2,14 @@ Week 4, 9/20 - 9/24
 Assigned tasks:
 + run and analyze data through 5b
 + fix IPUMS download issues
++ Speak with Max about basic Stata competency
 
 Completed tasks
 + ran and analyzed data through 5b
++ Messaged Max about data sets and scheduled time to discuss basic Stata competency
 + Fixed IPUMS data to no longer flag unit tests
-+ created "code narrative" for script 1, detailing line-by-line progression of data sets with definitions (available at https://docs.google.com/document/d/1ENHBAsiywxA2QbyJm53VMkNoH2alN81sT3kO1BAOt48/edit?usp=sharing)
-
++ Created "code narrative" for script 1, detailing line-by-line progression of data sets with definitions (available at https://docs.google.com/document/d/1ENHBAsiywxA2QbyJm53VMkNoH2alN81sT3kO1BAOt48/edit?usp=sharing) (Note: 85% of this was done while waiting for script 2 to finish run)
+14 hours spent this week
 
 Week 3, 9/13 - 9/17
 
