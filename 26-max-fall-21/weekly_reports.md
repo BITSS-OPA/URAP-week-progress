@@ -2,10 +2,11 @@
 
 ## Week 6 (Sep. 26 - Oct. 2)
 
-- [ ] Work on slide deployment
+- [x] Work on slide deployment
+  - minimal example created using GitHub Pages
 - [x] Meet with Gabriel for Stata review
 
-I worked Ii hours this week
+I worked 7 hours this week
 
 ---
 
