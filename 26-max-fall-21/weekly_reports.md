@@ -1,5 +1,15 @@
 # Weekly reports
 
+## Week 6 (Sep. 26 - Oct. 2)
+
+- [x] Work on slide deployment
+  - minimal example created using GitHub Pages
+- [x] Meet with Gabriel for Stata review
+
+I worked 7 hours this week
+
+---
+
 ## Week 5 (Sep. 19 - Sep. 25)
 
 - [x] Redevelop unit tests for 02, ~~03~~, 04, 05
