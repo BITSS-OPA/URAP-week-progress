@@ -1,5 +1,16 @@
 # Weekly reports
 
+## Week 7 (Oct. 3 - Oct. 9)
+
+- [ ] Simplify code for 05a, 05b
+- [ ] Make 02, 04, 05 unit tests functional
+- [ ] Begin translation to R if time
+- [ ] Look at `ipumsr`?
+- [ ] Consolidate slides?
+
+I worked I hours this week
+
+
 ## Week 6 (Sep. 26 - Oct. 2)
 
 - [x] Work on slide deployment
