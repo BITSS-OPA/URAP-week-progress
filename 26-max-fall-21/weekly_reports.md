@@ -1,5 +1,14 @@
 # Weekly reports
 
+## Week 8 (Oct. 10 - Oct. 16)
+
+- [ ] Review and summarize 07a, 07b---understand the visualizations
+- [ ] Begin translation to R if time, starting with 01
+
+I worked _ hours this week
+
+---
+
 ## Week 7 (Oct. 3 - Oct. 9)
 
 - [x] Summarize code for 05a, 05b
@@ -10,6 +19,7 @@
 
 I worked 6 hours this week
 
+---
 
 ## Week 6 (Sep. 26 - Oct. 2)
 
