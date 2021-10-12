@@ -1,3 +1,24 @@
+Week 6, 10/3 - 10/8
+Assigned tasks:
++ Create sample IPUMSr R script
++ Create local macros for 7a
+
+Completed tasks:
++ Created sample IPUMSr R Script, available [here](https://github.com/gabrieljkelvin/BITSS-OPA-UI-IPUMSr) - NOTE: Please seek accompanying email
++ Created local macros for cleaning scripts in 7a
+6 hours this week (sick for later half)
+
+
+Week 5, 9/27 - 10/1
+Assigned tasks:
++ create consolidated slide repository with Max
+
+Completed tasks
++ created consolidated slide repository with Max
++ Met with Max about HTML and Stata
++ Watched multiple videos on HTML and basic web design
+7 hours this week
+
 Week 4, 9/20 - 9/24
 Assigned tasks:
 + run and analyze data through 5b
