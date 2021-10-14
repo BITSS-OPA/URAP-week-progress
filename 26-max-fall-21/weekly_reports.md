@@ -2,10 +2,15 @@
 
 ## Week 8 (Oct. 10 - Oct. 16)
 
-- [ ] Review and summarize 07a, 07b---understand the visualizations
+- [ ] Review and summarize 07a, 07b
+  - 07a: clean DoL data on actual unemployment compensation
+  - try to understand visualizations in 07b
 - [ ] Begin translation to R if time, starting with 01
+- Watched `ipumsr` webinar
+  - beta testing for API before end of 2021---reach out to become tester
+  - public launch in 2022
 
-I worked _ hours this week
+I worked IIIi hours this week
 
 ---
 
