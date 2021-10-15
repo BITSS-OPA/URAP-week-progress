@@ -3,14 +3,20 @@
 ## Week 8 (Oct. 10 - Oct. 16)
 
 - [ ] Review and summarize 07a, 07b
-  - 07a: clean DoL data on actual unemployment compensation
+  - 07a: cleans DoL data on actual unemployment compensation
+    - total amount of people who received compensation and total $ distributed for each state, month, year group
   - try to understand visualizations in 07b
+    - from James' email, we're looking at the tables comparing simulated vs actual unemployment compensation
+    - [ ] study new Stata 17 tables, `collect` command, etc.
+    - should I wait to study the other sections?
+  - [ ] update input files
 - [ ] Begin translation to R if time, starting with 01
+  - [ ] learn and use `ipumsr` in order to take advantage of metadata
 - Watched `ipumsr` webinar
   - beta testing for API before end of 2021---reach out to become tester
-  - public launch in 2022
+  - public launch of API in 2022
 
-I worked IIIi hours this week
+I worked 5 hours this week
 
 ---
 
