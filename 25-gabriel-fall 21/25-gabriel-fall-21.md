@@ -1,3 +1,14 @@
+Week 7, 10/11 - 10/15
+
+Assigned tasks:
++ Abstract/Insert Macros for 6a and 6b
++ Continue work on IPUMSr
+
+Completed tasks:
++ Continued research on forthcoming API for IPUMS
++ 6a and 6b already annotated with no macro opportunities
+
+
 Week 6, 10/3 - 10/8
 Assigned tasks:
 + Create sample IPUMSr R script
