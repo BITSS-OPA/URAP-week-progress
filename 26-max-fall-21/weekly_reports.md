@@ -1,5 +1,28 @@
 # Weekly reports
 
+## Week 10 (Oct. 24 - Oct. 30)
+
+- [ ] Review and summarize 07a, 07b
+  - [ ] update input files
+  - [ ] study new Stata 17 tables, `collect` command, etc.
+- [ ] Begin translation to R, starting with 01
+  - [x] learn and use `ipumsr` to import data
+
+## Notes
+
+- `01_cleaning.do`, line 256: why are we using two new variables `spmgeoadj` and `spmfamunit`?
+- look at 6a?
+
+I worked IIIII hours this week
+
+---
+
+## Week 9 (Oct. 17 - Oct. 23)
+
+I had to move out this week, and I also had a midterm---please count this as a token week!
+
+---
+
 ## Week 8 (Oct. 10 - Oct. 16)
 
 - [ ] Review and summarize 07a, 07b
