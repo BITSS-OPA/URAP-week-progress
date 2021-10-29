@@ -2,18 +2,18 @@
 
 ## Week 10 (Oct. 24 - Oct. 30)
 
-- [ ] Review and summarize 07a, 07b
-  - [ ] update input files
-  - [ ] study new Stata 17 tables, `collect` command, etc.
-- [ ] Begin translation to R, starting with 01
+- [x] Review and summarize 07a, 07b
+  - 07a already reviewed by Gabriel!
+  - [x] update input files on README
+  - [x] study new Stata 17 tables, `collect` command, etc.
+- [x] Begin translation to R, starting with 01
   - [x] learn and use `ipumsr` to import data
 
 ## Notes
 
 - `01_cleaning.do`, line 256: why are we using two new variables `spmgeoadj` and `spmfamunit`?
-- look at 6a?
 
-I worked IIIII hours this week
+I worked 10 hours this week
 
 ---
 
