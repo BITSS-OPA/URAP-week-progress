@@ -1,5 +1,14 @@
 # Weekly reports
 
+## Week 11 (Oct. 31 - Nov. 6)
+
+- [ ] Finish translation of 01
+  - [ ] create R-oriented unit tests
+
+I worked IIIi hours this week
+
+---
+
 ## Week 10 (Oct. 24 - Oct. 30)
 
 - [x] Review and summarize 07a, 07b
