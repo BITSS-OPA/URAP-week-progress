@@ -1,5 +1,15 @@
 # Weekly reports
 
+## Week 12 (Nov. 7 - Nov. 13)
+
+- [ ] Finish translation of 01
+  - [ ] finish unit tests---use simple ones vs ones from `testthat`
+- [ ] Begin translation of 03
+
+I worked _ hours this week
+
+---
+
 ## Week 11 (Oct. 31 - Nov. 6)
 
 - [ ] Finish translation of 01
