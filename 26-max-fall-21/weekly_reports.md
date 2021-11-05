@@ -3,9 +3,13 @@
 ## Week 11 (Oct. 31 - Nov. 6)
 
 - [ ] Finish translation of 01
+  - [x] copied over/adapting Gabriel's CPS harmonization code
+    - some sections still incomplete
   - [ ] create R-oriented unit tests
+    - `testthat` package is most popular for unit testing in R, but difficult to get started
+    - https://r-pkgs.org/tests.html
 
-I worked IIIi hours this week
+I worked 8 hours this week
 
 ---
 
