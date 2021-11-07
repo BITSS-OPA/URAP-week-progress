@@ -4,9 +4,16 @@
 
 - [ ] Finish translation of 01
   - [ ] finish unit tests---use simple ones vs ones from `testthat`
+  - [ ] fully reformat for best readability
+  - some follow-ups noted below
 - [ ] Begin translation of 03
 
-I worked _ hours this week
+## Notes
+
+- why are we using two new variables `spmgeoadj` and `spmfamunit`?
+- why is Bhutan included in `South-East Asia` and Northern Africa in `Other Asian`?
+
+I worked IIIIi hours this week
 
 ---
 
