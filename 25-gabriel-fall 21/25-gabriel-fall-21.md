@@ -1,3 +1,36 @@
+
+Week 11 11/7 - 11/12
+Assigned tasks:
++ Continue r translation
++ Send email to IPUMS about policies for data set inclusion
+
+Completed tasks:
++ Started r translation for 02-Imputing
++ Watched videos about general Stata data manipulation
+~4 hours presently, more hours tk before CoB Friday
+
+Week 10 11/1 - 11/5
+Tokens used - no work
+0 hours
+
+Week 9 10/25 - 10/29
+Assigned tasks:
++ Annotate 06a and 06b
++ Continue r translation
+
+Completed tasks:
++ Annotated 06a, and half of 06b
++ Continued r translation w/ unit tests
+7 hours this week (weekly discussion question: it would be significantly easier for me to meet hours if I was allowed to work on Fridays/Weekends)
+
+Week 8, 10/18 - 10/22
+Assigned tasks:
++ Work on translating 01-cleaning.do into r
+
+Completed tasks:
++ Started translation for 01-cleaning.do into r
+6 hours this week
+
 Week 7, 10/11 - 10/15
 
 Assigned tasks:
