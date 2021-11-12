@@ -1,5 +1,19 @@
 
-Week 9 10/25 - 10/20
+Week 11 11/7 - 11/12
+Assigned tasks:
++ Continue r translation
++ Send email to IPUMS about policies for data set inclusion
+
+Completed tasks:
++ Started r translation for 02-Imputing
++ Watched videos about general Stata data manipulation
+~4 hours presently, more hours tk before CoB Friday
+
+Week 10 11/1 - 11/5
+Tokens used - no work
+0 hours
+
+Week 9 10/25 - 10/29
 Assigned tasks:
 + Annotate 06a and 06b
 + Continue r translation
