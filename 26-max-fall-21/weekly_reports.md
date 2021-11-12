@@ -1,5 +1,22 @@
 # Weekly reports
 
+## Week 12 (Nov. 7 - Nov. 13)
+
+- [ ] Finish translation of 01
+  - [ ] finish unit tests---use simple ones vs ones from `testthat`
+  - [x] fully reformat for best readability
+  - some follow-ups noted below
+- [ ] Begin translation of 03
+
+## Notes
+
+- why is Bhutan included in `South-East Asia` and Northern Africa in `Other Asian`?
+- authorized spouse imputation does not seem to accomplish anything?
+
+I worked 9 hours this week
+
+---
+
 ## Week 11 (Oct. 31 - Nov. 6)
 
 - [ ] Finish translation of 01
