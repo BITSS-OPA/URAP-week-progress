@@ -1,5 +1,12 @@
 # Weekly reports
 
+## Week 13 (Nov. 14 - Nov. 20)
+
+- [ ] Finish translation of 01
+  - [ ] finish unit tests
+  - [ ] translate remaining sections
+- [ ] Begin translation of 03
+
 ## Week 12 (Nov. 7 - Nov. 13)
 
 - [ ] Finish translation of 01
