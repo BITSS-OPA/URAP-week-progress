@@ -2,12 +2,16 @@
 
 ## Week 13 (Nov. 14 - Nov. 20)
 
-- [ ] Finish translation of 01
-  - [ ] finish unit tests
-  - [ ] translate remaining sections
-- [ ] Begin translation of 03
+- [x] Finish translation of `01`
+  - [x] finish unit tests
+  - [x] translate remaining sections
+- [ ] Begin translation of `03`
 
-I worked III hours this week
+I worked 8 hours this week
+
+## Notes
+
+Need to conduct bug testing for `01`
 
 ---
 
