@@ -1,5 +1,20 @@
 # Weekly reports
 
+## Week 13 (Nov. 14 - Nov. 20)
+
+- [x] Finish translation of `01`
+  - [x] finish unit tests
+  - [x] translate remaining sections
+- [ ] Begin translation of `03`
+
+I worked 8 hours this week
+
+## Notes
+
+Need to conduct bug testing for `01`
+
+---
+
 ## Week 12 (Nov. 7 - Nov. 13)
 
 - [ ] Finish translation of 01
