@@ -7,6 +7,10 @@
   - [ ] translate remaining sections
 - [ ] Begin translation of 03
 
+I worked III hours this week
+
+---
+
 ## Week 12 (Nov. 7 - Nov. 13)
 
 - [ ] Finish translation of 01
