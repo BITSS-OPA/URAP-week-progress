@@ -1,5 +1,16 @@
 # Weekly reports
 
+## Week 14 (Nov. 21 - Nov. 27)
+
+Thanksgiving break!
+
+- [x] Fix `bsample` bug
+  - I got the fix from [here](https://www.statalist.org/forums/forum/general-stata-discussion/general/1460140-different-results-every-time-i-run-do-file). When Stata sorts, the way it breaks ties is arbitrary. In order for Stata to sort the same way each time, you can do `set sortseed #`, where `#` is your desired seed. I added a suggested fix to `02_imputing.do`.
+
+I worked I hours this week
+
+---
+
 ## Week 13 (Nov. 14 - Nov. 20)
 
 - [x] Finish translation of `01`
