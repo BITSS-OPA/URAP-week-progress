@@ -6,8 +6,11 @@ Thanksgiving break!
 
 - [x] Fix `bsample` bug
   - I got the fix from [here](https://www.statalist.org/forums/forum/general-stata-discussion/general/1460140-different-results-every-time-i-run-do-file). When Stata sorts, the way it breaks ties is arbitrary. In order for Stata to sort the same way each time, you can do `set sortseed #`, where `#` is your desired seed. I added a suggested fix to `02_imputing.do`.
+- [x] Implement new changes to `01`
+  - thorough bug testing still required
+  - translation is rough and needs to be improved
 
-I worked I hours this week
+I worked 4 hours this week
 
 ---
 
