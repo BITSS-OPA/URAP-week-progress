@@ -1,5 +1,12 @@
 # Weekly reports
 
+## Week 15 (Nov. 28 - Dec. 4)
+
+- [ ] Finish completely debugging `01`
+- [ ] Begin translating `03` if time
+
+---
+
 ## Week 14 (Nov. 21 - Nov. 27)
 
 Thanksgiving break!
