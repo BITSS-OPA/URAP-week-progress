@@ -1,9 +1,21 @@
 # Weekly reports
 
+## Week 16 (Dec. 5 - Dec. 11)
+
+RRR week!
+
+- [x] Update `01` based on recent changes from James
+
+I worked 6 hours this week
+
+---
+
 ## Week 15 (Nov. 28 - Dec. 4)
 
-- [ ] Finish completely debugging `01`
+- [x] Finish completely debugging `01`
 - [ ] Begin translating `03` if time
+
+I worked 5 hours this week
 
 ---
 
