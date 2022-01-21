@@ -1,5 +1,14 @@
 # Spring 2022 Weekly Reports
 
+# Week 4 (Jan. 23 - Jan. 29)
+
+- [ ] Diagnose discrepancy between Stata and R logistic predictions
+- [ ] Research into `data.table` and `dtplyr`
+  - [ ] Meeting with Joel!
+- [ ] Begin translating `05`
+
+---
+
 # Week 3 (Jan. 16 - Jan. 22)
 
 - [ ] Translate `04_weight-adjustments.do`
