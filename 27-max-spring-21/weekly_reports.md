@@ -1,15 +1,23 @@
 # Spring 2022 Weekly Reports
 
-# Week 4 (Jan. 23 - Jan. 29)
+## Week 4 (Jan. 23 - Jan. 29)
 
-- [ ] Diagnose discrepancy between Stata and R logistic predictions
-- [ ] Research into `data.table` and `dtplyr`
-  - [ ] Meeting with Joel!
+- [x] Research discrepancy between Stata and R logistic predictions
+  - [x] Look into issue with weights and complete testing
+  - `svyglm()` from `survey` package allows for `weights` argument that is equivalent to Stata's `pweights`/`pw`. However, issue arises because design matrix has weights of 0 for every observation with `EMPSTAT_G == 1` (armed forces). This level of `EMPSTAT_G` is excluded when fitting, so when using `predict()` there is a matrix non-conformability issue. Can be solved by filtering out armed forces individuals before fitting. Their predicted value for `LINK` is just the constant, which matches Stata calculations, so this is fine as long as predicted `LINK` values are appropriately matched at the end.
+- [x] Research into `data.table` and `dtplyr`
+  - [x] Meeting with Joel!
 - [ ] Begin translating `05`
+
+I worked 9 hours this week
+
+## Notes
+
+- September to December CPS data is now available, ask BIFYA to update README?
 
 ---
 
-# Week 3 (Jan. 16 - Jan. 22)
+## Week 3 (Jan. 16 - Jan. 22)
 
 - [ ] Translate `04_weight-adjustments.do`
   - [x] Attempt to systematically compare predictions from Stata and R
