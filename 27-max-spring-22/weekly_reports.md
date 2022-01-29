@@ -1,5 +1,11 @@
 # Spring 2022 Weekly Reports
 
+## Week 5 (Jan. 30 - Feb. 5)
+
+- [ ] Continue testing logistic regression
+
+---
+
 ## Week 4 (Jan. 23 - Jan. 29)
 
 - [x] Research discrepancy between Stata and R logistic predictions
