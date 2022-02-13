@@ -2,8 +2,11 @@
 ## Week: 2/7/22
 - [x] Schedule Availability
 - [x] Create progress report folder
-- [ ] Attend BITSS meeting
-- [ ] Read ACRe
+- [x] Attend BITSS meeting
+- [x] Read ACRe
 
 
-## Week: 2/
+## Week: 2/14/22
+- [ ]
+
+## Week: 2/21/22
