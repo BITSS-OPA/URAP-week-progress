@@ -4,8 +4,9 @@
 
 ## Week: 2/21/22 Hrs: 9
 - [x] Finish claim scoping for "Trends in US Spatial Inequality (Gaubert et al)
-- [x] Fill out SSRP form (Scope section)
+- [x] Fill out SSRP form (Scope section) ** IN PROCESS, AWAITING FORUM HELP **
 - [x] Team Meeting
+- [ ] Attempt to reproduce STATA results (if time permits)
 
 ## Week: 2/14/22 Hrs: 8
 - [x] Continue reading ACRE
