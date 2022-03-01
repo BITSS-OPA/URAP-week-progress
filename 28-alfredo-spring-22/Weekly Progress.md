@@ -3,8 +3,8 @@
 - [x] Token
 
 ## Week: 2/21/22 Hrs: 9
-- [x] Finish claim scoping for "Trends in US Spatial Inequality (Gaubert et al)
-- [x] Fill out SSRP form (Scope section) ** IN PROCESS, AWAITING FORUM HELP **
+- [x] Finish claim scoping paper
+- [x] ** In progress, awaiting forum help** Fill out SSRP form (Scope section)
 - [x] Team Meeting
 - [ ] Attempt to reproduce STATA results (if time permits)
 
