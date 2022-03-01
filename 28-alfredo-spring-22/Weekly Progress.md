@@ -1,4 +1,7 @@
 # Spring 2022 Weekly Progress
+## Week: 2/28/22 Hrs: 0
+- [x] Token
+
 ## Week: 2/21/22 Hrs: 9
 - [x] Finish claim scoping for "Trends in US Spatial Inequality (Gaubert et al)
 - [x] Fill out SSRP form (Scope section)
