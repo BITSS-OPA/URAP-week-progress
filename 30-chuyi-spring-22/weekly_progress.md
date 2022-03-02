@@ -1,16 +1,22 @@
 # Chuyi's Weekly Progress Report (Spring 22)
 
-## Week 3: 2/7/22
+## Week 4: 3/1/22
+[] Perform a Simple Robustness Check
+[] TBD
+### Hours Worked:
+- TBD
+
+## Week 3: 2/21/22
 [x] Download Dataset
 [x] View Data Set
 [x] Learn Basic Stata
-[] Evaluate Reproducibility
+[] Fill Out Reproducibility Evaluation Table
 [x] Edit BITSS Videos
 [] Attend BITSS Meeting
 ### Hours Worked:
-- 12 hours
+- 11 hours
 
-## Week 2: 2/7/22
+## Week 2: 2/14/22
 [x] Read Paper: Trends in US Spatial Inequality
 [x] Scope Paper
 [x] Identify Claims
@@ -24,3 +30,5 @@
 [] Attend BITSS Meeting
 ### Hours Worked:
 - 5 hours
+
+
