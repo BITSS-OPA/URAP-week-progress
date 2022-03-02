@@ -5,7 +5,7 @@
 
 ## Week: 2/21/22 Hrs: 9
 - [x] Finish claim scoping paper
-- [x] ** In progress, awaiting forum help** Fill out SSRP form (Scope section)
+- [x] \*\*In progress, awaiting forum help** Fill out SSRP form (Scope section)
 - [x] Team Meeting (Discussed claims, scoping, and the possibility to reproduce)
 - [ ] Attempt to reproduce STATA results (if time permits)
 
