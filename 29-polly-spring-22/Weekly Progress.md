@@ -1,11 +1,23 @@
 # Spring 2022 Weekly Reports
 
+---
+
+## Week 4 (Feb. 27 - March. 5)
+
+- [x] Finished Access Stage
+- [x] Start on Robustness Check.
+- [x] Learn Beginner Stata Tutorials.
+
+I worked 10 hours.
+
+---
+
 ## Week 3 (Feb. 20 - Feb. 26)
 
 - [ ] Access Stage for  the Trends in US Spatial Inequality: Concentrating Affluence and a Democratization of Poverty.
 - [x] Complete Scoping Stage with tables.
 
-I worked 6 hours, but still going through accessing stage.
+I worked 5 hours.
 
 ---
 
