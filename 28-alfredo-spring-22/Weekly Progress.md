@@ -1,7 +1,7 @@
 # Spring 2022 Weekly Progress
 ## Week: 3/14/22 Hrs: 9
 - [x] Finished and submitted reproduction of paper 1 (https://www.socialsciencereproduction.org/reproductions/591b5137-94a7-47ac-9803-4f661d745683/index)
-- [ ] Explore possible claims in paper 2. (Found two)
+- [x] Explore possible claims in paper 2. (Found two)
 
 ## Week: 2/28/22 Hrs: 0
 - [x] Token
