@@ -1,5 +1,70 @@
 # Spring 2022 Weekly Reports
 
+# Week 13 (Mar. 27 - Apr. 2)
+
+- [ ] Finish translation of `22`
+  - [x] Complete sections 2-7
+  - [ ] Bug testing
+- [ ] Work on `07c` if time---be sure to skip the table labelling/formatting sections
+
+## Notes
+
+- ideas for article about translating from Stata to R
+  - snippets!
+  - thinking about code holistically
+  - R being vector-based and how to efficiently use `tidyverse`, e.g. `across()`
+  - working around one dataset in memory vs. multiple datasets
+
+IIII
+I worked _ hours this week
+
+---
+
+# Week 12 (Mar. 20 - Mar. 26)
+
+- Spring break!
+
+---
+
+# Week 11 (Mar. 13 - Mar. 19)
+
+- 7 hours of credit from Week 9 were used
+- [x] Work on translation of `22`
+
+### Notes
+
+- Will bug fixing be done based on version in Beta-Stata, or version in main?
+
+I worked 3 hours this week
+
+---
+
+# Week 10 (Mar. 6 - Mar. 12)
+
+- 10 hours of credit from Week 9 were used
+
+---
+
+## Week 9 (Feb. 27 - Mar. 5)
+
+- [x] Translate `05a`
+- [x] Translate `05b`
+- [x] Translate `05c`
+- [x] Translate `06`
+- [x] Translate `07b`
+
+I worked 27 hours this week. Most hours were from Saturday, Feb. 26 to Tuesday, Mar. 1
+
+---
+
+## Week 8 (Feb. 20 - Feb. 26)
+
+- [x] Finalize translation of `04`
+
+I worked 11 hours this week
+
+---
+
 ## Week 7 (Feb. 13 - Feb. 19)
 
 - Took a midterm token this week
