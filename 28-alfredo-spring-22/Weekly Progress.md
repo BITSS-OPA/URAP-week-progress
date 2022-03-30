@@ -1,4 +1,8 @@
 # Spring 2022 Weekly Progress
+## Week: 3/14/22 Hrs: TBD
+- [x] Begin scoping process of "Income Segregation and Intergenerational..."
+      (NOTE: I will begin this task tomorow or on Friday, it should take about 7-8hrs based on previous paper scoping.)
+
 ## Week: 3/14/22 Hrs: 9
 - [x] Finished and submitted reproduction of paper 1 (https://www.socialsciencereproduction.org/reproductions/591b5137-94a7-47ac-9803-4f661d745683/index)
 - [x] Explore possible claims in paper 2. (Found two)
