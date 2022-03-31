@@ -2,6 +2,17 @@
 
 ---
 
+## Week 6-7 (March. 16 - March. 30)
+
+- [x] Finished Scoping stage of the "Income Segregation And Intergenerational Mobility Across Colleges In The United States".
+- [x] Requested help from forum for the source of the reproducible package: https://forum.socialsciencereproduction.org/t/issue-on-missing-reproduction-package/170?u=pollypqt1101
+- [x] Created the feature request on repetitive improvement stage suggestion (solved).
+- [ ] Start on Access stage for the paper. (On weekend)
+
+I worked 7 hours.
+
+---
+
 ## Week 5 (March. 8 - March. 15)
 
 - [x] Finish Reproducibility Analysis for "the Trends in US Spatial Inequality: Concentrating Affluence and a Democratization of Poverty": https://www.socialsciencereproduction.org/reproductions/f9957b52-5e41-460b-aaae-fcc320206054/index 
