@@ -4,7 +4,7 @@
 
 - [ ] Finish translation of `22`
   - [x] Complete sections 2-7
-  - [ ] Bug testing
+  - [x] Bug testing---not yet complete
 - [ ] Work on `07c` if time---be sure to skip the table labelling/formatting sections
 
 ## Notes
@@ -14,9 +14,13 @@
   - thinking about code holistically
   - R being vector-based and how to efficiently use `tidyverse`, e.g. `across()`
   - working around one dataset in memory vs. multiple datasets
+  - variable types: whether to store as 1/0 or TRUE/FALSE, factors, double/integer
+  - variable values/labels, and their relative absence in R compared to Stata
+  - decimal point precision
+  - designing clever equivalency tests
+- `memory.limit()`? Is there an actual article explaining the consequences of allocating more memory than is physically available?
 
-IIII
-I worked _ hours this week
+I worked 10 hours this week
 
 ---
 
