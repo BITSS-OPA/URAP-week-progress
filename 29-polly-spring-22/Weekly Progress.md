@@ -2,12 +2,20 @@
 
 ---
 
+## Week 8 (March. 31 - April. 6)
+
+- [ ] Complete the Access Stage of the Paper.
+ !! I finished the access stage for the first figure but still need time for the second one. I will update the report before Friday night with the complete link!! 
+I worked x (4 so far) hours.
+
+---
+
 ## Week 6-7 (March. 16 - March. 30)
 
 - [x] Finished Scoping stage of the "Income Segregation And Intergenerational Mobility Across Colleges In The United States".
 - [x] Requested help from forum for the source of the reproducible package: https://forum.socialsciencereproduction.org/t/issue-on-missing-reproduction-package/170?u=pollypqt1101
 - [x] Created the feature request on repetitive improvement stage suggestion (solved).
-- [ ] Start on Access stage for the paper. (On weekend)
+- [x] Start on Access stage for the paper. (On weekend)
 
 I worked 7 hours.
 
