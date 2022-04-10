@@ -2,11 +2,23 @@
 
 # Week 14 (Apr. 3 - Apr. 9)
 
-- [ ] Finish translation of `22`
-  - [ ] Complete bug testing
+- [x] Finish translation of `22`
+  - [x] Complete bug testing
 - [ ] Work on `07c`
 
-I worked _ hours this week
+## Notes
+
+Bug testing for `22` is done for now. There are some meaningful discrepancies between R output and Stata, which have been documented. Fixing them will require some quite tedious testing. There are no syntax errors, indicating that the `dplyr` + `glue` syntax is a good replacement for bulkier base R code.
+
+- resources for `dplyr`/`glue` programming:
+  - https://dplyr.tidyverse.org/articles/programming.html
+  - https://glue.tidyverse.org/
+  - https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/
+
+- missing values:
+  - https://www.stata.com/support/faqs/data-management/logical-expressions-and-missing-values/
+
+I worked 10 hours this week
 
 ---
 
