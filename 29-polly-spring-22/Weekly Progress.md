@@ -2,11 +2,19 @@
 
 ---
 
+## Week 9 (April. 7 - April. 13)
+
+- [ ] Choose a paper to reproduce.
+- [ ] Finish Scoping and Access Stages of the new paper.
+
+I worked x hours.
+
+---
+
 ## Week 8 (March. 31 - April. 6)
 
-- [ ] Complete the Access Stage of the Paper.
- !! I finished the access stage for the first figure but still need time for the second one. I will update the report before Friday night with the complete link!! 
-I worked x (4 so far) hours.
+- [x] Complete the Access Stage of the Paper. https://www.socialsciencereproduction.org/reproductions/3171e0a7-3d05-440f-9856-2fde9dd2a6b0/index
+I worked 8 hours.
 
 ---
 
