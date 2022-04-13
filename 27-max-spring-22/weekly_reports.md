@@ -1,5 +1,104 @@
 # Spring 2022 Weekly Reports
 
+# Week 15 (Apr. 10 - Apr. 16)
+
+- [ ] Finish `07c`
+
+I worked _ hours this week
+
+---
+
+# Week 14 (Apr. 3 - Apr. 9)
+
+- [x] Finish translation of `22`
+  - [x] Complete bug testing
+- [ ] Work on `07c`
+
+## Notes
+
+Bug testing for `22` is done for now. There are some meaningful discrepancies between R output and Stata, which have been documented. Fixing them will require some quite tedious testing. There are no syntax errors, indicating that the `dplyr` + `glue` syntax is a good replacement for bulkier base R code.
+
+- resources for `dplyr`/`glue` programming:
+  - https://dplyr.tidyverse.org/articles/programming.html
+  - https://glue.tidyverse.org/
+  - https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/
+
+- missing values:
+  - https://www.stata.com/support/faqs/data-management/logical-expressions-and-missing-values/
+
+I worked 10 hours this week
+
+---
+
+# Week 13 (Mar. 27 - Apr. 2)
+
+- [ ] Finish translation of `22`
+  - [x] Complete sections 2-7
+  - [x] Bug testing---not yet complete
+- [ ] Work on `07c` if time---be sure to skip the table labelling/formatting sections
+
+## Notes
+
+- ideas for article about translating from Stata to R
+  - snippets!
+  - thinking about code holistically
+  - R being vector-based and how to efficiently use `tidyverse`, e.g. `across()`
+  - working around one dataset in memory vs. multiple datasets
+  - variable types: whether to store as 1/0 or TRUE/FALSE, factors, double/integer
+  - variable values/labels, and their relative absence in R compared to Stata
+  - decimal point precision
+  - designing clever equivalency tests
+- `memory.limit()`? Is there an actual article explaining the consequences of allocating more memory than is physically available?
+
+I worked 10 hours this week
+
+---
+
+# Week 12 (Mar. 20 - Mar. 26)
+
+- Spring break!
+
+---
+
+# Week 11 (Mar. 13 - Mar. 19)
+
+- 7 hours of credit from Week 9 were used
+- [x] Work on translation of `22`
+
+### Notes
+
+- Will bug fixing be done based on version in Beta-Stata, or version in main?
+
+I worked 3 hours this week
+
+---
+
+# Week 10 (Mar. 6 - Mar. 12)
+
+- 10 hours of credit from Week 9 were used
+
+---
+
+## Week 9 (Feb. 27 - Mar. 5)
+
+- [x] Translate `05a`
+- [x] Translate `05b`
+- [x] Translate `05c`
+- [x] Translate `06`
+- [x] Translate `07b`
+
+I worked 27 hours this week. Most hours were from Saturday, Feb. 26 to Tuesday, Mar. 1
+
+---
+
+## Week 8 (Feb. 20 - Feb. 26)
+
+- [x] Finalize translation of `04`
+
+I worked 11 hours this week
+
+---
+
 ## Week 7 (Feb. 13 - Feb. 19)
 
 - Took a midterm token this week
