@@ -4,10 +4,10 @@
 
 ## Week 9 (April. 7 - April. 13)
 
-- [ ] Choose a paper to reproduce.
-- [ ] Finish Scoping and Access Stages of the new paper.
+- [x] Choose a paper to reproduce.
+- [x] Finish Scoping and Access Stages of the new paper. https://www.socialsciencereproduction.org/reproductions/db351bd2-e7ab-42f8-ac2d-c8f286c4d104/index
 
-I worked x hours.
+I worked 12 hours.
 
 ---
 
