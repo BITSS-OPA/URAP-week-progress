@@ -2,10 +2,19 @@
 
 ---
 
-## Week 9 (April. 7 - April. 13)
+## Week 11 (April. 20 - April. 27)
+
+- [ ] Choose a paper to reproduce.
+- [ ] Finish Scoping and Access Stages of the new paper. 
+
+I worked x hours.
+
+---
+
+## Week 9 and 10 (April. 7 - April. 19)
 
 - [x] Choose a paper to reproduce.
-- [x] Finish Scoping and Access Stages of the new paper. https://www.socialsciencereproduction.org/reproductions/db351bd2-e7ab-42f8-ac2d-c8f286c4d104/index
+- [x] Finish Scoping and Access Stages of the new paper. https://www.socialsciencereproduction.org/reproductions/97a61bc9-5b3c-40cc-952a-810e6b90062b/index
 
 I worked 12 hours.
 
