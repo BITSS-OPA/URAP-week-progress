@@ -1,11 +1,19 @@
 # Spring 2022 Weekly Reports
+---
+
+## Week 11 (April. 20 - April. 26)
+
+- [ ] Choose a paper to reproduce.
+- [ ] Finish Scoping and Assess Stages of the new paper. 
+
+I worked x hours.
 
 ---
 
-## Week 9 (April. 7 - April. 13)
+## Week 9-10 (April. 7 - April. 19)
 
 - [x] Choose a paper to reproduce.
-- [x] Finish Scoping and Access Stages of the new paper. https://www.socialsciencereproduction.org/reproductions/db351bd2-e7ab-42f8-ac2d-c8f286c4d104/index
+- [x] Finish Scoping and Assess Stages of the new paper. https://www.socialsciencereproduction.org/reproductions/db351bd2-e7ab-42f8-ac2d-c8f286c4d104/index
 
 I worked 12 hours.
 
@@ -13,7 +21,7 @@ I worked 12 hours.
 
 ## Week 8 (March. 31 - April. 6)
 
-- [x] Complete the Access Stage of the Paper. https://www.socialsciencereproduction.org/reproductions/3171e0a7-3d05-440f-9856-2fde9dd2a6b0/index
+- [x] Complete the Assess Stage of the Paper. https://www.socialsciencereproduction.org/reproductions/3171e0a7-3d05-440f-9856-2fde9dd2a6b0/index
 I worked 8 hours.
 
 ---
@@ -23,7 +31,7 @@ I worked 8 hours.
 - [x] Finished Scoping stage of the "Income Segregation And Intergenerational Mobility Across Colleges In The United States".
 - [x] Requested help from forum for the source of the reproducible package: https://forum.socialsciencereproduction.org/t/issue-on-missing-reproduction-package/170?u=pollypqt1101
 - [x] Created the feature request on repetitive improvement stage suggestion (solved).
-- [x] Start on Access stage for the paper. (On weekend)
+- [x] Start on Assess stage for the paper. (On weekend)
 
 I worked 7 hours.
 
@@ -41,7 +49,7 @@ I worked 12 hours.
 
 ## Week 4 (Feb. 28 - March. 7)
 
-- [x] Finished Access Stage
+- [x] Finished Assess Stage
 - [x] Start on Robustness Check.
 - [x] Learn Beginner Stata Tutorials.
 
@@ -51,7 +59,7 @@ I worked 10 hours.
 
 ## Week 3 (Feb. 20 - Feb. 27)
 
-- [ ] Access Stage for  the Trends in US Spatial Inequality: Concentrating Affluence and a Democratization of Poverty.
+- [x] Assess Stage for  the Trends in US Spatial Inequality: Concentrating Affluence and a Democratization of Poverty.
 - [x] Complete Scoping Stage with tables.
 
 I worked 5 hours.
