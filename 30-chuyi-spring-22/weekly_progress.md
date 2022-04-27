@@ -1,12 +1,23 @@
 # Chuyi's Weekly Progress Report (Spring 22)
 
-## Week 10: 3/11/22
-[ ] Finding potential paper to reproduce
+## Week 11: 4/18/22
+[x] Completed reproduction for Communication infrastructure and Stablizing Food Prices - 
+https://www.socialsciencereproduction.org/reproductions/2348694c-da8a-4fb3-9f4e-b5af58759294/index
+[x] Uploaded directory scraper tool in Python and Pandas to the SSRP Forum
 ### Hours Worked:
-- TBD
+- 11 hours
 
-## Week 9: 3/4/22
+
+## Week 10: 4/11/22
+[x] Finding potential paper to reproduce
+[x] Modified + Edited reproduction for "Income Segregation and Intergenerational Mobility"
+[x] Debugged and Modified directory scraper tool in Python and Pandas
+### Hours Worked:
+- 10 hours
+
+## Week 9: 4/4/22
 [x] Complete the reproduction for "Income Segregation and Intergenerational Mobility"
+[x] Created directory scraper tool in Python and Pandas
 ### Hours Worked:
 - 9 hours
 
