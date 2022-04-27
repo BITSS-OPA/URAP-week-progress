@@ -3,19 +3,7 @@
 
 ## Week 11 (April. 20 - April. 26)
 
-- [ ] Choose a paper to reproduce.
-- [ ] Finish Scoping and Assess Stages of the new paper. 
-
-I worked x hours.
-
----
-
-## Week 11 (April. 20 - April. 27)
-
-- [ ] Choose a paper to reproduce.
-- [ ] Finish Scoping and Access Stages of the new paper. 
-
-I worked x hours.
+- [x] Token. (Review for Finals)
 
 ---
 
