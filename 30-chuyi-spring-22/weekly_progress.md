@@ -1,5 +1,13 @@
 # Chuyi's Weekly Progress Report (Spring 22)
 
+
+## Week 12: 4/25/22
+[x] Made edits to Code Scraper
+[x] Completed summary report
+[x] Made suggestions to SSRP resources
+### Hours Worked:
+- 7 hours
+
 ## Week 11: 4/18/22
 [x] Completed reproduction for Communication infrastructure and Stablizing Food Prices - 
 https://www.socialsciencereproduction.org/reproductions/2348694c-da8a-4fb3-9f4e-b5af58759294/index
