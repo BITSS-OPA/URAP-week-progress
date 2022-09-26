@@ -1,10 +1,30 @@
 # Spring 2022 Weekly Reports
 
-# Week 15 (Apr. 10 - Apr. 16)
+# Week 17 (Apr. 24 - Apr. 30)
 
 - [ ] Finish `07c`
+  - Issues with generating `benchmarks_mo.dta`, some details below
+- [x] Work on remaining `22` bugs
 
-I worked _ hours this week
+## Notes
+
+count_adm_* variables are missing from 07c in benchmarks_mo
+generated in 07a, should be merged into adm_fullsample.data
+adm_fullsample is then used in 07b to generate benchmarks_mo.dta
+
+I worked 5 hours this week
+
+---
+
+# Week 16 (Apr. 17 - Apr. 23)
+
+- Sick leave due to COVID
+
+---
+
+# Week 15 (Apr. 10 - Apr. 16)
+
+- Sick leave due to COVID
 
 ---
 
